@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Categories">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/drawMenuTheGioi"
+                    android:title="Thế giới" />
+                <item
+                    android:id="@+id/drawMenuTheThao"
+                    android:title="Thể thao" />
+                <item
+                    android:id="@+id/drawMenuCongNghe"
+                    android:title="Công nghệ" />
+                <item
+                    android:id="@+id/drawMenuGiaiTri"
+                    android:title="Giải trí" />
+                <item
+                    android:id="@+id/drawMenuThoiTrang"
+                    android:title="Thời trang" />
+                <item
+                    android:id="@+id/drawMenuSucKhoe"
+                    android:title="Sức khỏe" />
+                <item
+                    android:id="@+id/drawMenuDuLich"
+                    android:title="Du lịch" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Communication">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Send" />
+        </menu>
+    </item>
+</menu>
