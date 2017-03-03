@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuNotification"
+        android:icon="@drawable/bell"
+        android:orderInCategory="0"
+        android:title="Watch Later"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuMore"
+        android:icon="@drawable/ic_more_vert_white_24dp"
+        android:orderInCategory="0"
+        android:title="More"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/menuLogin"
+                android:icon="@drawable/ic_perm_identity_black_24dp"
+                android:orderInCategory="100"
+                android:title="Đăng nhập"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/menuBrowser"
+                android:icon="@drawable/earth"
+                android:orderInCategory="101"
+                android:title="Open On Browser"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/menuAbout"
+                android:icon="@drawable/information_outline"
+                android:orderInCategory="102"
+                android:title="About Us"
+                app:showAsAction="never" />
+        </menu>
+
+    </item>
+</menu>
