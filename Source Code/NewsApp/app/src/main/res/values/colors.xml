@@ -3,8 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="backgroundAppBarLayout">#418ab3</color>
-    <color name="backgroundSearch">#f7f4f4</color>
+    <color name="backgroundAppBarLayout">#183545</color>
+    <color name="backgroundSearch">#FFF</color>
     <color name="backgroundColor">#f67122</color>
-    <color name="colorGrey">#363c41</color>
+    <color name="colorGrey">#CCC</color>
 </resources>

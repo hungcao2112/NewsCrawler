@@ -25,7 +25,7 @@
 
                 <LinearLayout
                     android:layout_width="match_parent"
-                    android:layout_height="125dp"
+                    android:layout_height="wrap_content"
                     android:orientation="vertical">
 
                     <android.support.v7.widget.Toolbar
@@ -45,30 +45,24 @@
                         android:background="@drawable/backgroundsearch"
                         android:orientation="horizontal">
 
-                        <Button
-                            android:id="@+id/ButtonSearch"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_gravity="start"
-                            android:layout_weight="1"
-                            android:background="@drawable/selector_background_search"
-                            android:drawableLeft="@drawable/ic_search_black_24dp"
-                            android:text="@string/tim_tin_tuc"
-                            android:textAlignment="textStart"
-                            android:textAllCaps="false"
-                            android:paddingLeft="10dp"
-                            android:textColor="#605b5b" />
-
                     </LinearLayout>
 
-
+                    <android.support.design.widget.TabLayout
+                        android:id="@+id/tab"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:tabIndicatorColor="@color/backgroundColor"
+                        app:tabMode="scrollable"
+                        app:tabSelectedTextColor="@color/backgroundSearch"
+                        app:tabTextAppearance="@style/capfalse"
+                        app:tabTextColor="@color/colorGrey"></android.support.design.widget.TabLayout>
                 </LinearLayout>
             </android.support.design.widget.AppBarLayout>
 
             <android.support.v4.view.ViewPager
                 android:id="@+id/viewPager"
                 android:layout_width="match_parent"
-                android:layout_height="448dp">
+                android:layout_height="match_parent">
             </android.support.v4.view.ViewPager>
         </LinearLayout>
     </FrameLayout>
@@ -81,7 +75,7 @@
         android:background="#CC183545"
         android:choiceMode="singleChoice"
         android:groupIndicator="@null"
-        app:tabMode="scrollable"
+        app:headerLayout="@layout/nav_header_main"
         app:itemTextAppearance="@style/navigationTextCustom"
         app:menu="@menu/activity_main_drawer">
     </android.support.design.widget.NavigationView>
