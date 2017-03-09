@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="180dp"
+    android:layout_height="160dp"
     android:background="@drawable/side_nav_bar"
     android:gravity="bottom"
     android:orientation="vertical"
@@ -20,31 +20,26 @@
         app:srcCompat="@android:drawable/sym_def_app_icon" />
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="16dp"
         android:text="Tên đăng nhập"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="email" />
-
     <LinearLayout
-        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
 
         <Button
-            android:text="Thoát"
-            android:gravity="center"
-            android:background="#70ce5f"
-            android:layout_gravity="right"
-            android:layout_width="75dp"
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:id="@+id/button" />
+            android:layout_gravity="right"
+            android:background="@android:color/transparent"
+            android:gravity="center"
+            android:text="Đăng xuất" />
     </LinearLayout>
 
 </LinearLayout>

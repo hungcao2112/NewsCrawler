@@ -14,6 +14,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.example.trungnguyen.newsapp.adapter.ViewPagerAdapter;
 
@@ -40,6 +42,21 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         drawerToggle.syncState();
+        tab.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
+            @Override
+            public void onTabSelected(TabLayout.Tab tab) {
+            }
+
+            @Override
+            public void onTabUnselected(TabLayout.Tab tab) {
+
+            }
+
+            @Override
+            public void onTabReselected(TabLayout.Tab tab) {
+
+            }
+        });
     }
 
     @Override
@@ -77,7 +94,15 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void run() {
                 viewPager.setCurrentItem(position, true);
                 switch (position) {
-                    case 0 : lvTheGioi();
+                    case 0 : {
+                        lvGoiY();
+                    }
+                    case 1 : {
+                        lvTheGioi();
+                        Intent intent2 = new Intent(MainActivity.this, SearchActivity.class);
+                        startActivity(intent2);
+                    }
+
                 }
             }
         }, 100);
@@ -120,6 +145,15 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         }
     }
 
+    public void setNavigationHead()
+    {
+        ImageView image = (ImageView) findViewById(R.id.imageView);
+        TextView textView = (TextView) findViewById(R.id.textView);
+    }
+
+    public void lvGoiY(){
+
+    }
     public void lvTheGioi(){
 
     }
