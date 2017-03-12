@@ -7,8 +7,10 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.ImageButton;
 
-public class SearchActivity extends AppCompatActivity {
+import java.util.List;
 
+public class SearchActivity extends AppCompatActivity {
+    List<String> history;
     ImageButton backbutton;
     AutoCompleteTextView ACTV;
 
@@ -25,7 +27,7 @@ public class SearchActivity extends AppCompatActivity {
             }
         });
         ACTV = (AutoCompleteTextView) findViewById(R.id.autoCompleteTextView);
-        //addHistory();
+        addhistory();
         //Thiết lập ArrayADapter
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_dropdown_item_1line, History);
         ACTV.setAdapter(adapter);
@@ -34,13 +36,9 @@ public class SearchActivity extends AppCompatActivity {
             {"hà nội","Huế","Sài gòn",
                     "hà giang","Hội an","Kiên giang",
                     "Lâm đồng","Long khánh"};
-    /*
-    public void addHistory(){
-        int i, j;
-        j = History.length;
-        for (i= j; i>=0; i--)
-            if(ACTV.getText().toString().equalsIgnoreCase(History[i]))
-                History[j+1] = ACTV.getText().toString();
+
+    public void addhistory(){
+
     }
-    */
+
 }
