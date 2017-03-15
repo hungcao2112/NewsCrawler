@@ -1,0 +1,1671 @@
+<!doctype html>
+<html lang="vi" xmlns:fb="http://ogp.me/ns/fb#">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <title>02h45 ngày 09/03, Barcelona vs PSG: Sứ mệnh lịch sử | Bóng Đá</title> 
+  <link rel="shortcut icon" href="/favicon.ico"> 
+  <meta http-equiv="REFRESH" content="800"> 
+  <meta http-equiv="content-language" content="vi"> 
+  <meta name="google-site-verification" content="sq9JWe4EyFHGDoxGUs8YH_Qkup2-ekw-0uX5hF3qqUQ"> 
+  <meta name="alexaVerifyID" content="IyOAWrtFdNQSVZO_gDBWnsEy8n8"> 
+  <meta name="AUTHOR" content="Bóng Đá"> 
+  <meta name="COPYRIGHT" content="Bóng Đá"> 
+  <meta name="google-site-verification" content="WjTeFfp7sGDL9OJmV5ME6xDj8mADJMKhBKrX8BVRBuk"> 
+  <meta property="fb:app_id" content="381041375399526"> 
+  <meta property="fb:pages" content="136406996452077"> 
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="02h45 ngày 09/03, Barcelona vs PSG: Sứ mệnh lịch sử | Bóng Đá">
+  <meta property="og:url" content="http://www.bongda.com.vn/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-d383516.html">
+  <meta property="og:description" content="Cả HLV Enrique lẫn các cầu thủ Barca đang rất quyết tâm tạo nên cuộc lội ngược dòng lịch sử sau khi đã thất bại 0-4 ở trận lượt đi.">
+  <meta property="og:image" content="http://media.bongda.com.vn/resize/534x280/files/news/2017/03/08/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-064855.jpg">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="534">
+  <meta property="og:image:height" content="280">
+  <meta property="article:author" content="https://www.facebook.com/fpbongda">
+  <meta property="article:section" content="News">
+  <meta property="article:tag" content="barcelona,psg">
+  <link rel="amphtml" href="http://www.bongda.com.vn/news/383516.amp"> 
+  <style>.async-hide { opacity: 0 !important} </style> 
+  <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-T4XDNT7':true});</script> 
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77904044-1', 'auto');
+  ga('send', 'pageview');
+</script> 
+  <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0053/6028.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script> 
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script> 
+  <script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/81133902/Bongda_Mobile_Header', [320, 100], 'div-gpt-ad-1480743413725-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script> 
+  <meta property="fb:pages" content="248823605174073"> 
+  <meta name="msvalidate.01" content="F02174EC4B5ED20B681F4BCDB7B63588"> 
+  <link rel="stylesheet" type="text/css" href="/lib/explus/explus.css?v=4"> 
+  <meta name="description" content="Cả HLV Enrique lẫn các cầu thủ Barca đang rất quyết tâm tạo nên cuộc lội ngược dòng lịch sử sau khi đã thất bại 0-4 ở trận lượt đi."> 
+  <meta name="keywords" content="barcelona,psg"> 
+  <meta name="news_keywords" content="barcelona,psg"> 
+  <!-- Google Tag Manager --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MSZPT2');</script> 
+  <!-- End Google Tag Manager --> 
+  <meta name="format-detection" content="telephone=no"> 
+  <link rel="stylesheet" href="http://www.bongda.com.vn/templates/themes/css/style.css?v=0.4.6"> 
+  <link rel="stylesheet" href="http://www.bongda.com.vn/templates/themes/css/exp.css?v=0.4.6"> 
+  <link rel="stylesheet" href="http://www.bongda.com.vn/templates/themes/css/font-awesome.min.css?v=0.4.6"> 
+  <link rel="stylesheet" href="http://www.bongda.com.vn/templates/themes/css/jquery.bxslider.css?v=0.4.6"> 
+  <link rel="stylesheet" href="http://www.bongda.com.vn/templates/themes/css/jquery.fancybox.css?v=0.4.6"> 
+  <link rel="stylesheet" href="http://www.bongda.com.vn/templates/themes/css/jquery.countdown.css?v=0.4.6"> 
+  <script src="http://www.bongda.com.vn/templates/themes/js/jquery.min.js?v=0.4.6" type="text/javascript"></script> 
+  <script src="http://www.bongda.com.vn/templates/themes/js/jquery.bxslider.js?v=0.4.6" type="text/javascript"></script> 
+  <script type="text/javascript" src="http://www.bongda.com.vn/templates/themes/js/jquery.slimscroll.js?v=0.4.6"></script> 
+  <script type="text/javascript" src="http://www.bongda.com.vn/templates/themes/js/jquery.marquee.min.js?v=0.4.6"></script> 
+  <script type="text/javascript" src="http://www.bongda.com.vn/templates/themes/js/jquery.fancybox.js?v=0.4.6"></script> 
+  <script type="text/javascript" src="http://www.bongda.com.vn/templates/themes/js/jquery.countdown.js?v=0.4.6"></script> 
+  <script type="text/javascript" src="http://www.bongda.com.vn/templates/themes/js/jquery.sticky.js?v=0.4.6"></script> 
+  <script type="text/javascript" src="http://www.bongda.com.vn/templates/themes/js/jquery-scrolltofixed.js?v=0.4.6"></script> 
+  <script src="http://www.bongda.com.vn/templates/themes/js/main.js?v=0.4.6" type="text/javascript"></script> 
+  <!--[if lt IE 9]>
+    <script src="http://www.bongda.com.vn/templates/themes/js/html5shiv.js"></script>
+    <![endif]--> 
+  <style>
+    .view_vote.active {background: #cd3627!important;border:1px solid #cd3627 !important;color: #FFF;}
+    .js_res:empty {display: none;}
+    .expthumb {background: url(/lib/explus/bg-img.jpg) no-repeat center #f6f6f6; background-size: contain;}
+    .cate_euro a {padding-left: 35px !important; background: url(/templates/themes/images/euro.png) no-repeat 3px center;}
+    .cate_euro ul a {padding-left: 14px !important; background: none;}
+    /* .player {min-height: 420px !important;} */
+
+/*     @media screen and (max-width: 360px)
+{
+    .player {min-height: 280px !important;}
+} */
+    .player iframe { /*width: 100% !important; height: 100% !important;*/}
+    .navigation {border-bottom: 0 !important; height: 44px;}
+    /*.sharing-zone-small li {width: 20% !important; margin-right: 1% !important;}
+    .sharing-zone-small li a {padding: 6px 12px !important;}*/
+    .sharing-zone-option li {margin: 0 0.5% 0 0;}
+    figure.thumbnail.wp-caption {width: 100% !important;}
+    .box_warning {margin: 8px;color: #c09853;background-color: #fcf8e3;border: 1px solid #fbeed5;padding: 8px;}
+    /* .letsop-title a {margin-right: 15px !important;} */
+    </style> 
+  <!-- Begin comScore Tag --> 
+  <script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "20883974" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script> 
+  <noscript> &lt;img src="http://b.scorecardresearch.com/p?c1=2&amp;amp;c2=20883974&amp;amp;cv=2.0&amp;amp;cj=1"&gt; 
+  </noscript> 
+  <!-- End comScore Tag --> 
+  <!-- Article Schema --> 
+  <script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"http://www.bongda.com.vn/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-d383516.html"},"headline":"02h45 ngày 09/03, Barcelona vs PSG: Sứ mệnh lịch sử","datePublished":"2017-03-08T08:40:00+07:00","dateModified":"2017-03-08T08:40:00+07:00","author":{"@type":"Person","name":"Hà Dương"},"publisher":{"@type":"Organization","name":"Bóng đá","url":"http://www.bongda.com.vn","sameAs":["https://www.facebook.com/fpbongda","https://twitter.com/BongDa_YTT","https://plus.google.com/106703364998993077982"],"logo":{"@type":"ImageObject","url":"http://www.bongda.com.vn/templates/themes/images/logo.png"}},"description":"Cả HLV Enrique lẫn các cầu thủ Barca đang rất quyết tâm tạo nên cuộc lội ngược dòng lịch sử sau khi đã thất bại 0-4 ở trận lượt đi.","image":{"@type":"ImageObject","url":"http://media.bongda.com.vn/resize/800x800/files/news/2017/03/08/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-064855.jpg","width":"800px","height":"800 px"}} </script>
+  <!-- End Article Schema --> 
+  <!-- BEGIN FIX ADS --> 
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script> 
+  <script>
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_SL', [970, 90], 'div-gpt-ad-1474353251689-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_MR1', [300, 250], 'div-gpt-ad-1474353621386-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_MR2', [300, 250], 'div-gpt-ad-1474353687334-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_PC_Home_MR3', [300, 250], 'div-gpt-ad-1487583957366-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_LD1', [728, 90], 'div-gpt-ad-1474353776585-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_LD2', [728, 90], 'div-gpt-ad-1474353854280-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_HP1', [300, 600], 'div-gpt-ad-1474353994329-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_HP2', [300, 600], 'div-gpt-ad-1474354093750-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_BG_Left', [160, 600], 'div-gpt-ad-1474356852386-0').addService(googletag.pubads());
+        googletag.defineSlot('/51489806/Bongda_Homepage_Desktop_BG_Right', [160, 600], 'div-gpt-ad-1474356935119-0').addService(googletag.pubads());
+        googletag.pubads().setTargeting("Topic_ID", "383516");
+        googletag.pubads().setTargeting("Page","Champions-league");
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script> 
+  <!-- END FIX --> 
+  <script src="http://adnetwork.adasiaholdings.com/config.js?nwid=2060" type="text/javascript"></script> 
+  <script type="text/javascript">
+    sas.setup({ domain: 'http://adnetwork.adasiaholdings.com', async: true, renderMode: 0});
+    //  renderMode define when ads must be rendered :
+    //      - DEFAULT       (0) : as soon as ad is ready
+    //      - READY         (1) : render ads when document is ready
+    //  - ON_DEMAND     (2) : user must call sas.callAds()
+</script> 
+ </head> 
+ <body> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript>
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSZPT2" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <header> 
+   <ul class="menu_left_mobile"> 
+    <li><a href="/">Trang chủ</a></li> 
+    <li><a href="/tin-moi-nhat/"> MỚI NHẤT</a></li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-anh/">Bóng Đá Anh</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/ngoai-hang-anh/">Ngoại Hạng Anh</a></li> 
+      <li><a href="http://www.bongda.com.vn/cup-lien-doan-anh/">Cúp Liên Đoàn</a></li> 
+      <li><a href="http://www.bongda.com.vn/cup-fa/">Cúp FA</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-khac-anh/">Tin Khác</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/tin-chuyen-nhuong/">Tin Chuyển Nhượng</a> </li> 
+    <li class="active"><a href="http://www.bongda.com.vn/champions-league/">Champions League</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/tin-champions-league/">Tin Champions League</a></li> 
+      <li><a href="http://www.bongda.com.vn/lich-thi-dau-c1/">Lịch Thi Đấu – Kết Quả</a></li> 
+      <li><a href="http://www.bongda.com.vn/bang-xep-hang-c1/">Bảng Xếp Hạng</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-tbn/">Bóng đá Tây Ban Nha</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/la-liga/">La Liga</a></li> 
+      <li><a href="http://www.bongda.com.vn/cup-nha-vua/">Cúp Nhà Vua</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-khac-tbn/">Tin Khác</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-y/">Bóng đá Ý</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/serie-a/">Serie A</a></li> 
+      <li><a href="http://www.bongda.com.vn/cup-quoc-gia-y/">Cúp Quốc Gia</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-khac-italia/">Tin Khác</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/viet-nam/">Bóng đá Việt Nam</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/v-league/">V-League</a></li> 
+      <li><a href="http://www.bongda.com.vn/doi-tuyen-quoc-gia/">Các ĐTQG</a></li> 
+      <li><a href="http://www.bongda.com.vn/hang-nhat-vn/">Hạng Nhất</a></li> 
+      <li><a href="http://www.bongda.com.vn/giai-tre-vn/">Giải Trẻ</a></li> 
+      <li><a href="http://www.bongda.com.vn/cup-quoc-gia-vn/">Cúp Quốc Gia</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-khac-vn/">Tin Khác</a></li> 
+      <li><a href="http://www.bongda.com.vn/bong-da-nu/">Bóng Đá Nữ</a></li> 
+      <li><a href="http://www.bongda.com.vn/vff/">VFF</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-duc/">Bóng Đá Đức</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/bundesliga/">Bundesliga</a></li> 
+      <li><a href="http://www.bongda.com.vn/cup-quoc-gia-duc/">Cúp Quốc Gia</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-khac-duc/">Tin Khác</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/thu-vien-anh/">Photo</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/anh-vo-bo-cau-thu/">WAGs</a></li> 
+      <li><a href="http://www.bongda.com.vn/anh-ngoi-sao-san-co/">Ngôi Sao Sân Cỏ</a></li> 
+      <li><a href="http://www.bongda.com.vn/anh-nhung-tran-dau-hap-dan/">Trận Đấu Hấp Dẫn</a></li> 
+      <li><a href="http://www.bongda.com.vn/nguoi-dep/">Người đẹp</a></li> 
+      <li><a href="http://www.bongda.com.vn/van-dong-vien/">Vận động viên</a></li> 
+      <li><a href="http://www.bongda.com.vn/anh-khac/">Ảnh khác</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/video/">Video</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/video-tong-hop-tran-dau/">Video Tổng Hợp Trận Đấu</a></li> 
+      <li><a href="http://www.bongda.com.vn/ban-tin-bongda/">Bản tin BongDa</a></li> 
+      <li><a href="http://www.bongda.com.vn/ban-co-biet/">Thử tài fan BongDa</a></li> 
+      <li><a href="http://www.bongda.com.vn/sao-song-sao/">Sao sống sao?</a></li> 
+      <li><a href="http://www.bongda.com.vn/video-khac/">Video Khác</a></li> 
+      <li><a href="http://www.bongda.com.vn/video-bong-da/">Video Bóng Đá</a></li> 
+      <li><a href="http://www.bongda.com.vn/ban-tin-euro-2016/">BẢN TIN EURO 2016</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/world-cup/">World Cup </a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/tin-world-cup/">Tin World Cup</a></li> 
+      <li><a href="http://www.bongda.com.vn/lich-thi-dau-world-cup/">Lịch Thi Đấu</a></li> 
+      <li><a href="http://www.bongda.com.vn/anh-dep-world-cup/">Ảnh Đẹp</a></li> 
+      <li><a href="http://www.bongda.com.vn/ben-le-world-cup/">Bên Lề Sân Cỏ</a></li> 
+      <li><a href="http://www.bongda.com.vn/video-world-cup/">Video Clip</a></li> 
+      <li><a href="http://www.bongda.com.vn/ban-doc-world-cup/">Bạn Đọc &amp; World Cup</a></li> 
+      <li><a href="http://www.bongda.com.vn/cac-ky-world-cup/">Các Kỳ World Cup</a></li> 
+      <li><a href="http://www.bongda.com.vn/lich-su-world-cup/">Lịch Sử</a></li> 
+      <li><a href="http://www.bongda.com.vn/doi-tuyen-world-cup/">Hồ Sơ Đội Bóng</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/goc-chuyen-gia/">Góc chuyên gia</a> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/aff-cup/">AFF Cup 2016</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/bang-xep-hang/">Bảng xếp hạng</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-aff-cup/">Tin AFF Cup</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-phap/">Bóng đá Pháp</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/ligue-1/">Ligue 1</a></li> 
+      <li><a href="http://www.bongda.com.vn/cup-lien-doan-phap/">Cúp Liên Đoàn</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-khac-phap/">Tin Khác</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/goc-ban-doc/">Góc bạn đọc</a> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/hau-truong-san-co/">Hậu trường</a> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-chau-au/">Bóng Đá Châu Âu</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/tin-uefa/">Tin Châu Âu</a></li> 
+      <li><a href="http://www.bongda.com.vn/europa-league/">Europa League</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-chau-a/">Bóng Đá Châu Á</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/tin-chau-a/">Tin Châu Á</a></li> 
+      <li><a href="http://www.bongda.com.vn/afc-cup/">AFC Cup</a></li> 
+      <li><a href="http://www.bongda.com.vn/afc-champions-league/">AFC Champions League</a></li> 
+      <li><a href="http://www.bongda.com.vn/asian-cup/">Asian Cup</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/bong-da-chau-my/">Bóng Đá Châu Mỹ</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/tin-chau-my/">Tin Châu Mỹ</a></li> 
+      <li><a href="http://www.bongda.com.vn/copa-america/">Copa America</a></li> 
+      <li><a href="http://www.bongda.com.vn/gold-cup/">Gold Cup 2015</a></li> 
+      <li><a href="http://www.bongda.com.vn/copa-libertadores/">Copa Libertadores</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/sea-games/">SEA Games</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/tin-bong-da/">Tin Bóng Đá</a></li> 
+      <li><a href="http://www.bongda.com.vn/tin-sea-games/">Tin SEA Games</a></li> 
+      <li><a href="http://www.bongda.com.vn/ben-le-sea-games/">Bên Lề SEA Games</a></li> 
+      <li><a href="http://www.bongda.com.vn/guong-mat/">Gương mặt SEA Games</a></li> 
+      <li><a href="http://www.bongda.com.vn/lich-thi-dau-sea-games/">Lịch Thi Đấu – Kết Quả</a></li> 
+      <li><a href="http://www.bongda.com.vn/huy-chuong-sea-games/">Tổng Sắp Huy Chương</a></li> 
+      <li><a href="http://www.bongda.com.vn/ban-doc-sea-games/">Bạn Đọc &amp; SEA Games</a></li> 
+      <li><a href="http://www.bongda.com.vn/lich-su-sea-games/">Lịch Sử SEA Games</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/olympics/">Olympics</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/doan-viet-nam/">Đoàn Việt Nam</a></li> 
+      <li><a href="http://www.bongda.com.vn/huong-den-olympic-rio-2016/">Hướng đến Olympic Rio 2016</a></li> 
+      <li><a href="http://www.bongda.com.vn/ltd-bong-da-nam/">Lịch thi đấu Bóng Đá Nam</a></li> 
+      <li><a href="http://www.bongda.com.vn/bong-da-olympic/">Bóng đá Olympic 2016</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/euro-2016/">EURO 2016</a> 
+     <ul class="sub_menu_mobile"> 
+      <li><a href="http://www.bongda.com.vn/tin-euro/">Tin EURO</a></li> 
+      <li><a href="http://www.bongda.com.vn/lich-thi-dau-ket-qua-euro/">Lịch Thi Đấu – Kết Quả</a></li> 
+      <li><a href="http://www.bongda.com.vn/anh-dep-euro-2016/">Ảnh Đẹp</a></li> 
+      <li><a href="http://www.bongda.com.vn/video-clip-euro-2016/">Video Clip</a></li> 
+      <li><a href="http://www.bongda.com.vn/goc-chuyen-gia-euro-2016/">Góc chuyên gia EURO 2016</a></li> 
+      <li><a href="http://www.bongda.com.vn/ban-doc-euro/">Bạn Đọc và EURO</a></li> 
+     </ul> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/sopcast-truc-tiep/">Sopcast-LIVE</a> </li> 
+    <li class=""><a href="http://www.bongda.com.vn/thong-tin-nha-tai-tro/">Thông Tin Nhà Tài Trợ</a> </li> 
+   </ul> 
+   <div class="shadown_menu"></div> 
+   <div class="pkg "> 
+    <nav class="navigation"> 
+     <div class="grid1190 pkg"> 
+      <div class="button_menu_mobile fl"> 
+       <div class="open"> 
+        <span class="cls"></span> 
+        <span> </span> 
+        <span class="cls"></span>
+       </div> 
+      </div> 
+      <a href="/" class="logo fl"><img style="max-width: 156px;" src="http://www.bongda.com.vn/templates/themes/images/logo.png"> </a> 
+      <div class="fr"> 
+       <div class="search_main"> 
+        <a href="#" class="btn_search" rel="nofollow" onclick="return false;"><i class="fa fa-search" aria-hidden="true"></i></a> 
+        <form action="http://www.bongda.com.vn?mod=archive&amp;act=search" method="post" class="box_search_main" id="searchform"> 
+         <div> 
+          <input name="search" type="text" height="20" class="txt_search_main" placeholder="nhập từ khóa cần tìm"> 
+          <input type="submit" value="tìm kiếm" class="btn_search_main"> 
+         </div> 
+        </form> 
+       </div> 
+      </div> 
+      <ul class="menu_main fr"> 
+       <li><a href="/" class="icon_home"> <img src="http://www.bongda.com.vn/templates/themes/images/logo-white.png" class="logo_mobile"> <i class="fa fa-home" aria-hidden="true"></i></a></li> 
+       <li><a href="/tin-moi-nhat/"> MỚI NHẤT</a></li> 
+       <li class="  "><a href="http://www.bongda.com.vn/bong-da-anh/"> Anh </a> 
+        <ul class="sub_menu_main"> 
+         <li><a href="http://www.bongda.com.vn/ngoai-hang-anh/">Ngoại Hạng Anh</a></li> 
+         <li><a href="http://www.bongda.com.vn/cup-lien-doan-anh/">Cúp Liên Đoàn</a></li> 
+         <li><a href="http://www.bongda.com.vn/cup-fa/">Cúp FA</a></li> 
+         <li><a href="http://www.bongda.com.vn/tin-khac-anh/">Tin Khác</a></li> 
+        </ul> </li> 
+       <li class="  "><a href="http://www.bongda.com.vn/tin-chuyen-nhuong/"> Chuyển nhượng </a> </li> 
+       <li class="active  "><a href="http://www.bongda.com.vn/champions-league/"> Champions League </a> 
+        <ul class="sub_menu_main"> 
+         <li><a href="http://www.bongda.com.vn/tin-champions-league/">Tin Champions League</a></li> 
+         <li><a href="http://www.bongda.com.vn/lich-thi-dau-c1/">Lịch Thi Đấu – Kết Quả</a></li> 
+         <li><a href="http://www.bongda.com.vn/bang-xep-hang-c1/">Bảng Xếp Hạng</a></li> 
+        </ul> </li> 
+       <li class="  "><a href="http://www.bongda.com.vn/bong-da-tbn/"> Tây Ban Nha </a> 
+        <ul class="sub_menu_main"> 
+         <li><a href="http://www.bongda.com.vn/la-liga/">La Liga</a></li> 
+         <li><a href="http://www.bongda.com.vn/cup-nha-vua/">Cúp Nhà Vua</a></li> 
+         <li><a href="http://www.bongda.com.vn/tin-khac-tbn/">Tin Khác</a></li> 
+        </ul> </li> 
+       <li class="  "><a href="http://www.bongda.com.vn/bong-da-y/"> Ý </a> 
+        <ul class="sub_menu_main"> 
+         <li><a href="http://www.bongda.com.vn/serie-a/">Serie A</a></li> 
+         <li><a href="http://www.bongda.com.vn/cup-quoc-gia-y/">Cúp Quốc Gia</a></li> 
+         <li><a href="http://www.bongda.com.vn/tin-khac-italia/">Tin Khác</a></li> 
+        </ul> </li> 
+       <li class="  "><a href="http://www.bongda.com.vn/viet-nam/"> Việt Nam </a> 
+        <ul class="sub_menu_main"> 
+         <li><a href="http://www.bongda.com.vn/v-league/">V-League</a></li> 
+         <li><a href="http://www.bongda.com.vn/doi-tuyen-quoc-gia/">Các ĐTQG</a></li> 
+         <li><a href="http://www.bongda.com.vn/hang-nhat-vn/">Hạng Nhất</a></li> 
+         <li><a href="http://www.bongda.com.vn/giai-tre-vn/">Giải Trẻ</a></li> 
+         <li><a href="http://www.bongda.com.vn/cup-quoc-gia-vn/">Cúp Quốc Gia</a></li> 
+         <li><a href="http://www.bongda.com.vn/tin-khac-vn/">Tin Khác</a></li> 
+         <li><a href="http://www.bongda.com.vn/bong-da-nu/">Bóng Đá Nữ</a></li> 
+         <li><a href="http://www.bongda.com.vn/vff/">VFF</a></li> 
+        </ul> </li> 
+       <li class="  "><a href="http://www.bongda.com.vn/bong-da-duc/"> Đức </a> 
+        <ul class="sub_menu_main"> 
+         <li><a href="http://www.bongda.com.vn/bundesliga/">Bundesliga</a></li> 
+         <li><a href="http://www.bongda.com.vn/cup-quoc-gia-duc/">Cúp Quốc Gia</a></li> 
+         <li><a href="http://www.bongda.com.vn/tin-khac-duc/">Tin Khác</a></li> 
+        </ul> </li> 
+       <li class="  menu_full"><a href="http://www.bongda.com.vn/thu-vien-anh/"> Photo </a> 
+        <div class="sub_menu_full"> 
+         <ul class="fl list_menu_full"> 
+          <li><a href="http://www.bongda.com.vn/anh-vo-bo-cau-thu/">WAGs</a></li> 
+          <li><a href="http://www.bongda.com.vn/anh-ngoi-sao-san-co/">Ngôi Sao Sân Cỏ</a></li> 
+          <li><a href="http://www.bongda.com.vn/anh-nhung-tran-dau-hap-dan/">Trận Đấu Hấp Dẫn</a></li> 
+          <li><a href="http://www.bongda.com.vn/nguoi-dep/">Người đẹp</a></li> 
+          <li><a href="http://www.bongda.com.vn/van-dong-vien/">Vận động viên</a></li> 
+          <li><a href="http://www.bongda.com.vn/anh-khac/">Ảnh khác</a></li> 
+         </ul> 
+         <div class="right_sub_menu_full fl"> 
+          <ul class="list_news_menu"> 
+           <li> <a href="http://www.bongda.com.vn/izabel-goulart--nu-than-ho-menh-cua-sao-psg-d383551.html" class="thumbblock thumb207x130" title="Izabel Goulart - Nữ thần hộ mệnh của sao PSG"><img class="" src="http://media.bongda.com.vn/resize/207x160/files/phuc.tran/2017/03/08/izabel-7-1321.jpg" width="207" height="160" alt="Izabel Goulart - Nữ thần hộ mệnh của sao PSG"></a> <h2><a href="http://www.bongda.com.vn/izabel-goulart--nu-than-ho-menh-cua-sao-psg-d383551.html" class="" title="Izabel Goulart - Nữ thần hộ mệnh của sao PSG">Izabel Goulart - Nữ thần hộ mệnh của sao PSG</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/nu-trong-tai-fifa-va-mong-uoc-gian-di-ngay-8-3-d383546.html" class="thumbblock thumb207x130" title="Nữ trọng tài FIFA và mong ước giản dị ngày 8/3"><img class="" src="http://media.bongda.com.vn/resize/207x160/files/news/2017/03/08/nu-trong-tai-fifa-va-mong-uoc-gian-di-ngay-8-3-114916.jpg" width="207" height="160" alt="Nữ trọng tài FIFA và mong ước giản dị ngày 8/3"></a> <h2><a href="http://www.bongda.com.vn/nu-trong-tai-fifa-va-mong-uoc-gian-di-ngay-8-3-d383546.html" class="" title="Nữ trọng tài FIFA và mong ước giản dị ngày 8/3">Nữ trọng tài FIFA và mong ước giản dị ngày 8/3</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/hot-girl-brazil-khoe-3-vong-nong-bong-ben-trai-bong-d383540.html" class="thumbblock thumb207x130" title="'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng"><img class="" src="http://media.bongda.com.vn/resize/207x160/files/news/2017/03/08/hot-girl-brazil-khoe-3-vong-nong-bong-ben-trai-bong-110218.jpg" width="207" height="160" alt="'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng"></a> <h2><a href="http://www.bongda.com.vn/hot-girl-brazil-khoe-3-vong-nong-bong-ben-trai-bong-d383540.html" class="" title="'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng">'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/chum-anh-dortmund-phan-khich-cho-doi-mot-cu-nguoc-dong-d383530.html" class="thumbblock thumb207x130" title="Chùm ảnh: Dortmund phấn khích chờ đợi một cú ngược dòng"><img class="" src="http://media.bongda.com.vn/resize/207x160/files/news/2017/03/08/chum-anh-dortmund-phan-khich-cho-doi-mot-cu-nguoc-dong-094213.jpg" width="207" height="160" alt="Chùm ảnh: Dortmund phấn khích chờ đợi một cú ngược dòng"></a> <h2><a href="http://www.bongda.com.vn/chum-anh-dortmund-phan-khich-cho-doi-mot-cu-nguoc-dong-d383530.html" class="" title="Chùm ảnh: Dortmund phấn khích chờ đợi một cú ngược dòng">Chùm ảnh: Dortmund phấn khích chờ đợi một cú ngược dòng</a></h2> </li> 
+          </ul> 
+         </div> 
+        </div> </li> 
+       <li class="  menu_full"><a href="http://www.bongda.com.vn/video/"> Video </a> 
+        <div class="sub_menu_full"> 
+         <ul class="fl list_menu_full"> 
+          <li><a href="http://www.bongda.com.vn/video-tong-hop-tran-dau/">Tổng Hợp Trận Đấu</a></li> 
+          <li><a href="http://www.bongda.com.vn/ban-tin-bongda/">Bản tin BongDa</a></li> 
+          <li><a href="http://www.bongda.com.vn/ban-co-biet/">Thử tài fan BongDa</a></li> 
+          <li><a href="http://www.bongda.com.vn/sao-song-sao/">Sao sống sao?</a></li> 
+          <li><a href="http://www.bongda.com.vn/video-khac/">Video Khác</a></li> 
+          <li><a href="http://www.bongda.com.vn/video-bong-da/">Bóng Đá</a></li> 
+          <li><a href="http://www.bongda.com.vn/ban-tin-euro-2016/">BẢN TIN EURO 2016</a></li> 
+         </ul> 
+         <div class="right_sub_menu_full fl"> 
+          <ul class="list_news_menu"> 
+           <li> <a href="http://www.bongda.com.vn/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-v383552.html" class="thumbblock thumb207x130" title="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 "><img class="" src="http://media.bongda.com.vn/resize/207x160/files/news/2017/03/08/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-134900.jpg" width="207" height="160" alt="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 "></a> <h2><a href="http://www.bongda.com.vn/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-v383552.html" class="" title="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 ">Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 </a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-v383550.html" class="thumbblock thumb207x130" title="30 siêu phẩm sút xa khiến bạn phải tròn mắt"><img class="" src="http://media.bongda.com.vn/resize/207x160/files/news/2017/03/08/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-121115.jpg" width="207" height="160" alt="30 siêu phẩm sút xa khiến bạn phải tròn mắt"></a> <h2><a href="http://www.bongda.com.vn/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-v383550.html" class="" title="30 siêu phẩm sút xa khiến bạn phải tròn mắt">30 siêu phẩm sút xa khiến bạn phải tròn mắt</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-v383549.html" class="thumbblock thumb207x130" title="Những kĩ thuật và bàn thắng của Messi trong năm 2017"><img class="" src="http://media.bongda.com.vn/resize/207x160/files/news/2017/03/08/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-120756.jpg" width="207" height="160" alt="Những kĩ thuật và bàn thắng của Messi trong năm 2017"></a> <h2><a href="http://www.bongda.com.vn/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-v383549.html" class="" title="Những kĩ thuật và bàn thắng của Messi trong năm 2017">Những kĩ thuật và bàn thắng của Messi trong năm 2017</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/khi-cac-con-vat-tro-thanh-cau-thu-thu-12-v383547.html" class="thumbblock thumb207x130" title="Khi các con vật trở thành cầu thủ thứ 12"><img class="" src="http://media.bongda.com.vn/resize/207x160/files/news/2017/03/08/khi-cac-con-vat-tro-thanh-cau-thu-thu-12-115922.jpg" width="207" height="160" alt="Khi các con vật trở thành cầu thủ thứ 12"></a> <h2><a href="http://www.bongda.com.vn/khi-cac-con-vat-tro-thanh-cau-thu-thu-12-v383547.html" class="" title="Khi các con vật trở thành cầu thủ thứ 12">Khi các con vật trở thành cầu thủ thứ 12</a></h2> </li> 
+          </ul> 
+         </div> 
+        </div> </li> 
+       <li><a onclick="return false">KHÁC</a> 
+        <ul class="sub_menu_main"> 
+         <li><a href="http://www.bongda.com.vn/world-cup/">World Cup </a></li> 
+         <li><a href="http://www.bongda.com.vn/goc-chuyen-gia/">Góc chuyên gia</a></li> 
+         <li><a href="http://www.bongda.com.vn/aff-cup/">AFF Cup 2016</a></li> 
+         <li><a href="http://www.bongda.com.vn/bong-da-phap/">Bóng đá Pháp</a></li> 
+         <li><a href="http://www.bongda.com.vn/goc-ban-doc/">Góc bạn đọc</a></li> 
+         <li><a href="http://www.bongda.com.vn/hau-truong-san-co/">Hậu trường</a></li> 
+         <li><a href="http://www.bongda.com.vn/bong-da-chau-au/">Bóng Đá Châu Âu</a></li> 
+         <li><a href="http://www.bongda.com.vn/bong-da-chau-a/">Bóng Đá Châu Á</a></li> 
+         <li><a href="http://www.bongda.com.vn/bong-da-chau-my/">Bóng Đá Châu Mỹ</a></li> 
+         <li><a href="http://www.bongda.com.vn/sea-games/">SEA Games</a></li> 
+         <li><a href="http://www.bongda.com.vn/olympics/">Olympic 2016</a></li> 
+         <li><a href="http://www.bongda.com.vn/euro-2016/">EURO 2016</a></li> 
+         <li><a href="http://www.bongda.com.vn/sopcast-truc-tiep/">Sopcast-LIVE</a></li> 
+         <li><a href="http://www.bongda.com.vn/thong-tin-nha-tai-tro/">Thông Tin Nhà Tài Trợ</a></li> 
+        </ul> </li> 
+      </ul> 
+     </div> 
+    </nav> 
+    <div class="top_bar"> 
+     <div class="grid1190 pkg"> 
+      <div class="fl"> 
+       <a href="/goc-chuyen-gia/" class="menu_topbar">Góc chuyên gia </a> 
+       <a href="/lich-thi-dau-ket-qua-euro/" class="menu_topbar" style="display: none;"> Lịch thi đấu - Kết quả </a> 
+      </div> 
+      <div class="notify_site fl"> 
+       <strong class="fl">MỚI NHẤT :</strong> 
+       <div class="list_notify fl"> 
+        <li><a href="http://www.bongda.com.vn/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-v383552.html" class="" style="font-size:14px" title="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 ">Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 </a></li>
+        <span style="display: inline;"></span> 
+        <li><a href="http://www.bongda.com.vn/izabel-goulart--nu-than-ho-menh-cua-sao-psg-d383551.html" class="" style="font-size:14px" title="Izabel Goulart - Nữ thần hộ mệnh của sao PSG">Izabel Goulart - Nữ thần hộ mệnh của sao PSG</a></li>
+        <span style="display: inline;"></span> 
+        <li><a href="http://www.bongda.com.vn/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-v383550.html" class="" style="font-size:14px" title="30 siêu phẩm sút xa khiến bạn phải tròn mắt">30 siêu phẩm sút xa khiến bạn phải tròn mắt</a></li>
+        <span style="display: inline;"></span> 
+       </div> 
+      </div> 
+      <div class="fr"> 
+       <ul class="list_social"> 
+        <li><a href="http://www.bongda.com.vn/Barcelona-search/">Barcelona</a></li> 
+        <li><a href="http://www.bongda.com.vn/Chelsea-search/">Chelsea</a></li> 
+        <li><a href="http://www.bongda.com.vn/Arsenal-search/">Arsenal</a></li> 
+        <li><a href="http://www.bongda.com.vn/Wayne-Rooney-search/">Rooney</a></li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <div class="grid1190 pkg" style="/* height:90px */;"> 
+   <div class="content_main pkg" style="/* height:90px */;background: #fff"> 
+    <div class="pkg"> 
+     <div class="top_page pkg" style="display: block !important;"> 
+      <div class="" style="max-width: 970px;overflow: hidden;margin:0 auto;"> 
+       <div class="adv" id="ads_1" style="margin-top:0px;margin-bottom:0px;">
+        <div class="e" style="">
+         <script type="text/javascript">
+var _ase  = _ase || [];
+/* load placement for account: yeuthethaoJSC, site: http://bongda.com.vn, zone size : 980x250 */
+_ase.push(['1476864468','1478850856']);
+</script> 
+         <script src="http://static.gammaplatform.com/js/ad-exchange.js" type="text/javascript"></script>
+        </div>
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <main class=""> 
+   <div id="admwrapper"> 
+    <div class="grid1190 pkg"> 
+     <div class="content_main pad20 pkg"> 
+      <div class="pkg"> 
+       <div class="col830 fl"> 
+        <div class="breadcump"> 
+         <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="/"><span itemprop="title">Trang chủ</span></a> »</li> 
+         <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.bongda.com.vn/champions-league/"><span itemprop="title">Champions League</span></a> »</li> 
+         <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.bongda.com.vn/tin-champions-league/"><span itemprop="title">Tin Champions League</span></a></li> 
+        </div> 
+        <div class="col630 fr"> 
+         <h1 class="time_detail_news">02h45 ngày 09/03, Barcelona vs PSG: Sứ mệnh lịch sử</h1> 
+         <div class="info_detail pkg mar_bottom10 "> 
+          <div class="author"> 
+           <div class="time_comment"> 
+            <span>08:40 Thứ tư 08/03/2017</span> 
+            <span class="line_cm">|</span> 
+            <span title="Lượt chia sẻ" class="icon_share">4</span> 
+           </div> 
+          </div> 
+         </div> 
+         <p class="sapo_detail fontbold">(BongDa.com.vn) - Cả HLV Enrique lẫn các cầu thủ Barca đang rất quyết tâm tạo nên cuộc lội ngược dòng lịch sử sau khi đã thất bại 0-4 ở trận lượt đi.</p> 
+         <article id="content_detail" style=""> 
+          <div class="exp_content news_details"> 
+           <p style="text-align: justify;"><strong>Sân</strong>: Camp Nou</p> 
+           <p><strong>Tỷ lệ châu Á</strong>: 1.95 - 0:1 ¼ - 1.975</p> 
+           <p><strong>Tỷ lệ châu Âu</strong>: 1.43 - 4.99 - 6.57</p> 
+           <p><strong>Thông tin lực lượng</strong></p> 
+           <p><em><strong>Về phía đội chủ nhà Barcelona</strong></em>, họ sẽ không có sự phục vụ của Aleix Vidal và Mathieu vì chấn thương. Với những thử nghiệm gần đây, rất có thể HLV Luis Enrique sẽ sử dụng sơ đồ 3-4-3 trong trận đấu này. Sergi Roberto sẽ dự bị, thay cho anh là Rafinha đá cao trên hàng tiền vệ.</p> 
+           <figure class="expNoEdit">
+            <img src="http://media.bongda.com.vn/files/duong.nguyen/2017/03/08/2-0644.jpg" alt=" - Bóng Đá" width="660" height="439"> 
+            <figcaption> 
+             <h2 class="expEdit">&nbsp;</h2> 
+            </figcaption> 
+           </figure> 
+           <p><em><strong>Về phía đội khách PSG</strong></em>, Thiago Motta không thể góp mặt vì chấn thương. Đã có những thông tin cho rằng <a href="http://www.bongda.com.vn/psg-thiet-quan-truoc-them-tai-chien-barcelona-d383506.html" target="_blank">Di Maria và Marco Verratti đang gặp vấn đề về thể lực</a>, khả năng ra sân còn bỏ ngỏ.</p> 
+           <p><strong>Thống kê thú vị</strong></p> 
+           <p>6 trận gần đây của PSG tại Champions League đều có hơn 2,5 bàn thắng.</p> 
+           <p>Barca đang có 4 chiến thắng liên tiếp.</p> 
+           <p>PSG đang có chuỗi 17 trận bất bại trên mọi đấu trường.</p> 
+           <p>Các chân sút PSG đều ghi ít nhất 2 bàn/trận ở 6 trận gần nhất tại Champions League.</p> 
+           <p>Barcelona đang có 14 trận chưa biết thua trên sân nhà.</p> 
+           <p>12/14 chiến thắng gần đây trên sân nhà của Barca đều có cách biệt từ 3 bàn trở lên.</p> 
+           <p>PSG không thua trong 7 trận gần nhất tại Champions League.</p> 
+           <p><strong>Người trong cuộc nói gì?</strong></p> 
+           <p>HLV Luis Enrique: “<em>PSG là một đội bóng mạnh do đó chúng tôi phải chơi tốt cả trong phòng ngự lẫn tấn công. Tuy nhiên, kể từ sau trận lượt đi, nhiều điều đã thay đổi. Barcelona đã hoàn thiện hơn và có được những màn trình diễn hay.Nếu 1 đội bóng có thể ghi được 4 bàn thắng vào lưới chúng tôi, chúng tôi có thể sút tung lưới họ 6 bàn. Mùa này, nhiều lần chúng tôi đã thiết lập được tỷ số đó. Nên nhớ rằng, chúng tôi chẳng còn gì để mất</em>.”</p> 
+           <p>HLV Unai Emery: “<em>Chúng tôi cần tất cả các cầu thủ phải đạt được 100% thể lực hoặc tương tự như vậy cho cuộc đối đầu với Barca. Chúng tôi cần chuẩn bị mọi thứ sẵn sàng, nhất là khi họ kiểm soát thế trận</em>.”</p> 
+           <p><strong>Đối đầu gần đây</strong></p> 
+           <figure class="expNoEdit">
+            <img src="http://media.bongda.com.vn/files/duong.nguyen/2017/03/08/doi-dau-gan-nhat-0644.jpg" alt=" - Bóng Đá" width="622" height="274"> 
+            <figcaption> 
+             <h2 class="expEdit">&nbsp;</h2> 
+            </figcaption> 
+           </figure> 
+           <p><strong>Thành tích 5 trận gần nhất</strong></p> 
+           <figure class="expNoEdit">
+            <img src="http://media.bongda.com.vn/files/duong.nguyen/2017/03/08/5-tran-gan-nhat-0644.jpg" alt=" - Bóng Đá" width="621" height="239"> 
+            <figcaption> 
+             <h2 class="expEdit">&nbsp;</h2> 
+            </figcaption> 
+           </figure> 
+           <p><strong>Nhận định</strong></p> 
+           <p>Để thua 0-4 ở trận lượt đi, chiếc vé đi tiếp gần như đã nằm trong túi PSG. Nhưng với một đội bóng có hàng công khủng như Barca, mọi chuyện đều có thể xảy ra, nhất là khi họ được chơi trên sân nhà Camp Nou.</p> 
+           <p>HLV Unai Emery hiểu rằng họ không được phép chủ quan. Barca đã không còn gì để mất, chắc chắn họ sẽ chơi với tâm lý thoải mái và tinh thần cao nhất có thể. Ngay cả HLV Luis Enrique cũng tuyên bố đội bóng của ông có thể giành chiến thắng 6-0, có thể thấy đội bóng xứ Catalunya quyết tâm rất cao trong trận lượt về.</p> 
+           <figure class="expNoEdit">
+            <img src="http://media.bongda.com.vn/files/duong.nguyen/2017/03/08/3-0645.jpg" alt=" - Bóng Đá" width="620" height="430"> 
+            <figcaption> 
+             <h2 class="expEdit">&nbsp;</h2> 
+            </figcaption> 
+           </figure> 
+           <p>Tuy nhiên, việc bảo toàn lợi thế 4 bàn không phải là nhiệm vụ quá khó khăn. Và với những ngôi sao trên hàng công, thậm chí đại diện của Pháp có thể có được bàn thắng trên sân khách. Cặp đấu này vẫn chưa ngả ngũ, rất khó để đoán điều gì sẽ xảy ra.</p> 
+           <p><strong>Dự đoán</strong>: Barcelona 2-0 PSG</p> 
+           <p><strong>Đội hình dự kiến</strong></p> 
+           <figure class="expNoEdit">
+            <img src="http://media.bongda.com.vn/files/duong.nguyen/2017/03/08/doi-hinh-du-kien-0644.jpg" alt=" - Bóng Đá" width="667" height="432"> 
+            <figcaption> 
+             <h2 class="expEdit">&nbsp;</h2> 
+            </figcaption> 
+           </figure> 
+           <p><strong>Xem lại trận lượt đi giữa hai đội</strong></p> 
+           <div id="bongda_player">
+            <iframe id="prerollinpage_iframe" class=" VmgSlideinOnStart VmgIframe " width="0" height="0" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" allowtransparency="true" name="VmgIframe982164771236761755" src="about:blank" style="position: relative; z-index: 9;"></iframe>
+            <iframe id="youtube_iframe" width="512" height="300" src="" frameborder="0" allowfullscreen data-autoplay-src="//www.youtube.com/embed/GGuBcPLG2DA?autoplay=1"></iframe>
+           </div> 
+           <div class="text-right f14" style="font-size: 13px;">
+            Hà Dương - Thể thao Việt Nam | 06:48 08/03/2017 
+           </div> 
+           <style>
+                    #AdAsia > div > div {width: 100% !important;}
+                    </style> 
+           <div style="margin: 20px 0 25px">
+            <div id="AdAsia"></div>
+           </div> 
+           <div class="new_relation_top2 pkg mar_bottom0"> 
+            <div class="head_new_relation_top_outer"> 
+             <span class="head_new_relation_top">Tin liên quan</span> 
+            </div> 
+            <ul class="releated_2"> 
+             <li> 
+              <div class="pkg"> 
+               <a href="http://www.bongda.com.vn/ramos-lai-sam-vai-nguoi-hung-ken-ken-nguoc-dong-thanh-cong-tren-dat-y-d383508.html" class="thumbblock thumb110" title="Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/duong.nguyen/2017/03/08/1-0553.jpg" width="140" height="90" alt="Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý"></a> 
+               <h2><a href="http://www.bongda.com.vn/ramos-lai-sam-vai-nguoi-hung-ken-ken-nguoc-dong-thanh-cong-tren-dat-y-d383508.html" class="f14" title="Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý">Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý</a></h2> 
+              </div> </li> 
+             <li> 
+              <div class="pkg"> 
+               <a href="http://www.bongda.com.vn/psg-thiet-quan-truoc-them-tai-chien-barcelona-d383506.html" class="thumbblock thumb110" title="PSG thiệt quân trước thềm tái chiến Barcelona"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/news/2017/03/08/psg-thiet-quan-truoc-them-tai-chien-barcelona-022600.jpg" width="140" height="90" alt="PSG thiệt quân trước thềm tái chiến Barcelona"></a> 
+               <h2><a href="http://www.bongda.com.vn/psg-thiet-quan-truoc-them-tai-chien-barcelona-d383506.html" class="f14" title="PSG thiệt quân trước thềm tái chiến Barcelona">PSG thiệt quân trước thềm tái chiến Barcelona</a></h2> 
+              </div> </li> 
+             <li> 
+              <div class="pkg"> 
+               <a href="http://www.bongda.com.vn/5-nam-truoc-messi-lap-ky-luc-ghi-5-ban-o-tran-dau-champions-league-d383503.html" class="thumbblock thumb110" title="5 năm trước, Messi lập kỷ lục ghi 5 bàn ở trận đấu Champions League"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/quan.le/2017/03/08/messi-leverkusen-1-0041.jpg" width="140" height="90" alt="5 năm trước, Messi lập kỷ lục ghi 5 bàn ở trận đấu Champions League"></a> 
+               <h2><a href="http://www.bongda.com.vn/5-nam-truoc-messi-lap-ky-luc-ghi-5-ban-o-tran-dau-champions-league-d383503.html" class="f14" title="5 năm trước, Messi lập kỷ lục ghi 5 bàn ở trận đấu Champions League">5 năm trước, Messi lập kỷ lục ghi 5 bàn ở trận đấu Champions League</a></h2> 
+              </div> </li> 
+             <li> 
+              <div class="pkg"> 
+               <a href="http://www.bongda.com.vn/xem-messi-dua-barca-vuot-kho-d383501.html" class="thumbblock thumb110" title="Xem Messi đưa Barca vượt khó"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/quan.le/2017/03/08/messi-bi-phong-toa-chat-tren-san-cua-psg-tran-luot-di-1-0029.jpg" width="140" height="90" alt="Xem Messi đưa Barca vượt khó"></a> 
+               <h2><a href="http://www.bongda.com.vn/xem-messi-dua-barca-vuot-kho-d383501.html" class="f14" title="Xem Messi đưa Barca vượt khó">Xem Messi đưa Barca vượt khó</a></h2> 
+              </div> </li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div id="js_box_relation"> 
+           <div class="new_relation_top pkg" style="border-color: #bababa;margin-bottom: 10px;"> 
+            <ul> 
+             <li><h3><a style="color: #099ADB;" href="http://www.bongda.com.vn/pha-luoi-bayern-theo-walcott-vuot-qua-thanh-tich-cua-ronaldo-va-zidane-d383515.html">'Phá' lưới Bayern, Theo Walcott vượt qua thành tích của Ronaldo và Zidane</a></h3></li> 
+             <li><h3><a style="color: #099ADB;" href="http://www.bongda.com.vn/chum-anh-sieu-hau-ve-ramos-giai-nguy-cho-real-d383509.html">Chùm ảnh: "Siêu hậu vệ" Ramos giải nguy cho Real</a></h3></li> 
+            </ul> 
+           </div> 
+          </div> 
+          <div class="new_relation_top pkg mar_bottom0"> 
+           <div class="head_new_relation_top_outer"> 
+            <span class="head_new_relation_top">Tin nên đọc</span> 
+           </div> 
+           <ul> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/xavi-toi-da-mo-thay-barcelona-thang-5-0-d383545.html">Xavi: “Tôi đã mơ thấy Barcelona thắng 5-0” </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/ramos-toi-se-ngu-rat-ngon-neu-barcelona-bi-loai-d383535.html">Ramos: 'Tôi sẽ ngủ rất ngon nếu Barcelona bị loại' </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/chum-anh-barcelona-cang-thang-voi-nhiem-vu-bat-kha-thi-d383527.html">Chùm ảnh: Barcelona căng thẳng với nhiệm vụ bất khả thi </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/chum-anh-noi-vong-tay-lon-psg-da-san-sang-tien-biet-barcelona-d383441.html">Chùm ảnh: Nối vòng tay lớn, PSG đã sẵn sàng tiễn biệt Barcelona </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/5-ky-luc-khong-tuong-cho-messi-xo-do-o-barca-thoi-gian-se-tra-loi-d383497.html">5 kỷ lục không tưởng chờ Messi xô đổ ở Barca: Thời gian sẽ trả lời </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/thong-ke-gay-soc-ve-iniesta-d383484.html">Thống kê gây sốc về Iniesta </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/valencia-khien-barca-chelsea-mung-tham-d383485.html">Valencia khiến Barca, Chelsea mừng thầm </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/sao-psg-e-de-truoc-suc-manh-cua-msn-d383460.html">Sao PSG e dè trước sức mạnh của MSN </a></h3></li> 
+            <li><h3><a style="display: inline;" href="http://www.bongda.com.vn/barcelona-se-huy-diet-psg-6-ban-khong-go-d383480.html">'Barcelona sẽ hủy diệt PSG 6 bàn không gỡ' </a></h3></li> 
+           </ul> 
+          </div> 
+         </article> 
+         <div class="tag_detail"> 
+          <div class=" pkg mar_top20  "> 
+           <div class="head_tag_detail fl">
+            <span>TỪ KHOÁ</span>
+           </div> 
+           <div class=" list_tag_trend  "> 
+            <a style="margin-bottom: 5px;" href="http://www.bongda.com.vn/barcelona-tag60/">Barcelona</a> 
+            <a style="margin-bottom: 5px;" href="http://www.bongda.com.vn/psg-tag121/">psg</a> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="head_detail"> 
+          <span>Chia sẻ</span> 
+         </div> 
+         <ul class="sharing-zone sharing-zone-bottom pkg sharing-zone-option"> 
+          <li><a href="http://www.facebook.com/sharer/sharer.php?u=http://www.bongda.com.vn/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-d383516.html" class="sendsocial fb_share" rel="nofollow" target="_blank"><i class="fa fa-facebook"></i><span>Facebook</span></a></li> 
+          <li><a href="https://plus.google.com/share?url=http://www.bongda.com.vn/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-d383516.html" class="sendsocial glus_share" rel="nofollow" target="_blank"><i class="fa fa-google-plus"></i><span>Google+</span></a></li> 
+          <li><a href="http://www.twitter.com/share?url=http://www.bongda.com.vn/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-d383516.html" class="sendsocial tweet_share" rel="nofollow" target="_blank"><i class="fa fa-twitter"></i><span>Twitter</span></a></li> 
+         </ul> 
+         <!--<div class="hide_mobile">
+              <div class="head_detail" style="margin-bottom: 0;"> <span>ĐÁNH GIÁ BÀI VIẾT</span> </div>
+              <ul class="list_vote_detail mar_bottom40" style="margin-bottom: 30px;">
+                <li>
+                  <div>
+                    <label><span class="cell_vote">
+                      </span><span class="cell_vote"><img src="http://www.bongda.com.vn/templates/themes/images/vote5.jpg"/></span> </label>
+                  </div>
+                  <div data-id="383516" data-type="d" class="view_vote">0</div>
+                </li>
+                <li>
+                  <div>
+                    <label><span class="cell_vote">
+                      </span><span class="cell_vote"><img src="http://www.bongda.com.vn/templates/themes/images/vote4.jpg"/></span> </label>
+                  </div>
+                  <div data-id="383516" data-type="c" class="view_vote">0</div>
+                </li>
+                <li>
+                  <div>
+                    <label><span class="cell_vote">
+                      </span><span class="cell_vote"><img src="http://www.bongda.com.vn/templates/themes/images/vote2.jpg"/></span> </label>
+                  </div>
+                  <div data-id="383516" data-type="b" class="view_vote">0</div>
+                </li>
+                <li>
+                  <div>
+                    <label><span class="cell_vote">
+                      </span><span class="cell_vote"><img src="http://www.bongda.com.vn/templates/themes/images/vote1.jpg"/></span> </label>
+                  </div>
+                  <div data-id="383516" data-type="a" class="view_vote">0</div>
+                </li>
+              </ul>
+            </div> --> 
+         <div class="head_detail" style="display: none;"> 
+          <span>BÌNH LUẬN</span> 
+         </div> 
+         <div class="box_cm mar_bottom30 mar_top15" style="display: none;"> 
+          <div class="cmex" data-id="383516" data-numposts="8"></div> 
+          <!--<div class="box_warning_login" style="display: none; margin: 8px 0;">
+                    <div class="new-com-bt" style="display: block;">
+                		<span>Viết bình luận ...</span>
+                	</div>
+                    <div class="new-com-cnt" id="new-com-cnt" style="display: none;">
+                		<textarea class="the-new-com jsch" id="the-new-com" maxlength="1000"></textarea>
+                		<div class="bt-add-com" style="opacity: 0.6;">Gửi bình luận</div>
+                		<div class="bt-cancel-com">Hủy</div>
+                        <div style="clear: both;"></div>
+                	</div>
+                </div>--> 
+         </div> 
+         <div class="adv" id="ads_17" style="margin-top:0px;margin-bottom:0px;">
+          <div class="e" style="">
+           <!--Script tag (include before the closing </body> tag)--> 
+           <script type="text/javascript">
+    var abd_media = "media.adnetwork.vn";
+    var abd_width = 515; /*width of video player*/
+    var abd_height = 300; /*height of video player*/
+    var abd_skip =7;
+    var abd_wid =1476861764;
+    var abd_zid =1476863163;
+    var abd_content_id = ".exp_content"; /*.class or #id of content wrapper*/
+    var abd_position=5; /*the paragraph position where ads display*/
+</script> 
+           <script src="http://media.adnetwork.vn/assets/js/abd.inpage.preroll.v2.js" type="text/javascript"></script>
+          </div>
+         </div> 
+         <div class="mar_bottom20"> 
+          <div class="pkg"> 
+           <h2 class="cat-box-title letsop-title" style="display:block"> <a class="letsop-script" href="#tab_news">Bài viết mới</a> <span></span> <a class="letsop-tab-inactive letsop-script" href="#tab_relation">Bài cùng chuyên mục</a> </h2> 
+           <div id="tab_news"> 
+            <ul class="news_bottom_detail pkg"> 
+             <li> <a href="http://www.bongda.com.vn/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-v383552.html" class="thumb140x90 thumbblock mar_bottom10" title="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 "><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-134900.jpg" width="163" height="100" alt="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 "></a> <h3><a class="f14" href="http://www.bongda.com.vn/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-v383552.html">Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 <span class="line_cm">|</span> <span class="icon_video"></span></a></h3> </li> 
+             <li> <a href="http://www.bongda.com.vn/izabel-goulart--nu-than-ho-menh-cua-sao-psg-d383551.html" class="thumb140x90 thumbblock mar_bottom10" title="Izabel Goulart - Nữ thần hộ mệnh của sao PSG"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/phuc.tran/2017/03/08/izabel-7-1321.jpg" width="163" height="100" alt="Izabel Goulart - Nữ thần hộ mệnh của sao PSG"></a> <h3><a class="f14" href="http://www.bongda.com.vn/izabel-goulart--nu-than-ho-menh-cua-sao-psg-d383551.html">Izabel Goulart - Nữ thần hộ mệnh của sao PSG </a></h3> </li> 
+             <li> <a href="http://www.bongda.com.vn/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-v383550.html" class="thumb140x90 thumbblock mar_bottom10" title="30 siêu phẩm sút xa khiến bạn phải tròn mắt"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-121115.jpg" width="163" height="100" alt="30 siêu phẩm sút xa khiến bạn phải tròn mắt"></a> <h3><a class="f14" href="http://www.bongda.com.vn/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-v383550.html">30 siêu phẩm sút xa khiến bạn phải tròn mắt <span class="line_cm">|</span> <span class="icon_video"></span></a></h3> </li> 
+             <li> <a href="http://www.bongda.com.vn/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-v383549.html" class="thumb140x90 thumbblock mar_bottom10" title="Những kĩ thuật và bàn thắng của Messi trong năm 2017"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-120756.jpg" width="163" height="100" alt="Những kĩ thuật và bàn thắng của Messi trong năm 2017"></a> <h3><a class="f14" href="http://www.bongda.com.vn/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-v383549.html">Những kĩ thuật và bàn thắng của Messi trong năm 2017 <span class="line_cm">|</span> <span class="icon_video"></span></a></h3> </li> 
+            </ul> 
+            <div class="col48per fl"> 
+             <ul class="list_news_show_home news_home_detail"> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/khi-cac-con-vat-tro-thanh-cau-thu-thu-12-v383547.html">Khi các con vật trở thành cầu thủ thứ 12 <span class="line_cm">|</span> <span class="icon_video"></span></a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/ngo-lo-top-4-mourinho-choi-tat-tay-voi-europa-league-d383543.html">Ngó lơ top 4, Mourinho chơi tất tay với Europa League </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/nu-trong-tai-fifa-va-mong-uoc-gian-di-ngay-8-3-d383546.html">Nữ trọng tài FIFA và mong ước giản dị ngày 8/3 </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/xavi-toi-da-mo-thay-barcelona-thang-5-0-d383545.html">Xavi: “Tôi đã mơ thấy Barcelona thắng 5-0” </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/hagl-noi-bao-luc-san-co-khong-chon-dung-than-d383544.html">HAGL, nơi bạo lực sân cỏ không chốn dung thân </a></h3> </li> 
+             </ul> 
+            </div> 
+            <div class="col48per fr"> 
+             <ul class="list_news_show_home news_home_detail"> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/hoi-phuc-than-toc-gabriel-jesus-se-tro-lai-trong-thang-nay-d383542.html">Hồi phục thần tốc, Gabriel Jesus sẽ trở lại trong tháng này </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/nguoi-napoli-tu-hao-ve-that-bai-truoc-real-d383541.html">Người Napoli tự hào về thất bại trước Real </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/hot-girl-brazil-khoe-3-vong-nong-bong-ben-trai-bong-d383540.html">'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/man-trinh-dien-cua-casemiro-vs-napoli-v383538.html">Màn trình diễn của Casemiro vs Napoli <span class="line_cm">|</span> <span class="icon_video"></span></a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/fc-bayern-vs-arsenal-15-ban-thang-trong-3-tran-gan-nhat-v383537.html">FC Bayern vs Arsenal: 15 bàn thắng trong 3 trận gần nhất <span class="line_cm">|</span> <span class="icon_video"></span></a></h3> </li> 
+             </ul> 
+            </div> 
+           </div> 
+           <div id="tab_relation" style="display:none"> 
+            <ul class="news_bottom_detail pkg"> 
+             <li> <a href="http://www.bongda.com.vn/xavi-toi-da-mo-thay-barcelona-thang-5-0-d383545.html" class="thumb140x90 thumbblock mar_bottom10" title="Xavi: “Tôi đã mơ thấy Barcelona thắng 5-0”"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/xavi-toi-da-mo-thay-barcelona-thang-5-0-120209.jpg" width="163" height="100" alt="Xavi: “Tôi đã mơ thấy Barcelona thắng 5-0”"></a> <h3><a class="f14" href="http://www.bongda.com.vn/xavi-toi-da-mo-thay-barcelona-thang-5-0-d383545.html">Xavi: “Tôi đã mơ thấy Barcelona thắng 5-0” </a></h3> </li> 
+             <li> <a href="http://www.bongda.com.vn/nguoi-napoli-tu-hao-ve-that-bai-truoc-real-d383541.html" class="thumb140x90 thumbblock mar_bottom10" title="Người Napoli tự hào về thất bại trước Real"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/nguoi-napoli-tu-hao-ve-that-bai-truoc-real-111201.jpg" width="163" height="100" alt="Người Napoli tự hào về thất bại trước Real"></a> <h3><a class="f14" href="http://www.bongda.com.vn/nguoi-napoli-tu-hao-ve-that-bai-truoc-real-d383541.html">Người Napoli tự hào về thất bại trước Real </a></h3> </li> 
+             <li> <a href="http://www.bongda.com.vn/de-napoli-ghi-ban-ronaldo-noi-dien-voi-cac-dong-doi-trong-duong-ham-d383536.html" class="thumb140x90 thumbblock mar_bottom10" title="Để Napoli ghi bàn, Ronaldo nổi điên với các đồng đội trong đường hầm"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/de-napoli-ghi-ban-ronaldo-noi-dien-voi-cac-dong-doi-trong-duong-ham-104212.jpg" width="163" height="100" alt="Để Napoli ghi bàn, Ronaldo nổi điên với các đồng đội trong đường hầm"></a> <h3><a class="f14" href="http://www.bongda.com.vn/de-napoli-ghi-ban-ronaldo-noi-dien-voi-cac-dong-doi-trong-duong-ham-d383536.html">Để Napoli ghi bàn, Ronaldo nổi điên với các đồng đội trong đường hầm </a></h3> </li> 
+             <li> <a href="http://www.bongda.com.vn/ramos-toi-se-ngu-rat-ngon-neu-barcelona-bi-loai-d383535.html" class="thumb140x90 thumbblock mar_bottom10" title="Ramos: 'Tôi sẽ ngủ rất ngon nếu Barcelona bị loại'"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/ramos-toi-se-ngu-rat-ngon-neu-barcelona-bi-loai-100549.jpg" width="163" height="100" alt="Ramos: 'Tôi sẽ ngủ rất ngon nếu Barcelona bị loại'"></a> <h3><a class="f14" href="http://www.bongda.com.vn/ramos-toi-se-ngu-rat-ngon-neu-barcelona-bi-loai-d383535.html">Ramos: 'Tôi sẽ ngủ rất ngon nếu Barcelona bị loại' </a></h3> </li> 
+            </ul> 
+            <div class="col48per fl"> 
+             <ul class="list_news_show_home news_home_detail"> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/diem-tin-sang-08-03-arsenal-co-thanh-tich-dang-buon-ramos-hoa-nguoi-hung-giup-real-d383534.html">Điểm tin sáng 08/03: Arsenal có thành tích đáng buồn, Ramos hóa người hùng giúp Real </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/real-chien-thang-ronaldo-khong-the-vui-d383532.html">Real chiến thắng, Ronaldo không thể vui </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/chum-anh-dortmund-phan-khich-cho-doi-mot-cu-nguoc-dong-d383530.html">Chùm ảnh: Dortmund phấn khích chờ đợi một cú ngược dòng </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/thua-tham-bayern-thay-tro-wenger-di-vao-lich-su-arsenal-d383531.html">Thua thảm Bayern, thầy trò Wenger đi vào lịch sử Arsenal </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-d383516.html">02h45 ngày 09/03, Barcelona vs PSG: Sứ mệnh lịch sử </a></h3> </li> 
+             </ul> 
+            </div> 
+            <div class="col48per fr"> 
+             <ul class="list_news_show_home news_home_detail"> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/arsenal-thua-ca-ngoai-hang-anh-xau-ho-d383528.html">Arsenal thua, cả Ngoại hạng Anh xấu hổ </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/chum-anh-barcelona-cang-thang-voi-nhiem-vu-bat-kha-thi-d383527.html">Chùm ảnh: Barcelona căng thẳng với nhiệm vụ bất khả thi </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/chum-anh-noi-vong-tay-lon-psg-da-san-sang-tien-biet-barcelona-d383441.html">Chùm ảnh: Nối vòng tay lớn, PSG đã sẵn sàng tiễn biệt Barcelona </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/chung-toi-muon-ong-di-wenger-d383526.html">'Chúng tôi muốn ông đi, Wenger' </a></h3> </li> 
+              <li><h3><a class="max-2-lines" href="http://www.bongda.com.vn/fan-arsenal-phat-dien-khi-sanchez-cuoi-lon-du-doi-nha-tham-bai-d383525.html">Fan Arsenal phát điên khi Sanchez cười lớn dù đội nhà thảm bại </a></h3> </li> 
+             </ul> 
+            </div> 
+           </div> 
+           <script>
+	/*<![CDATA[*/
+		jQuery('a.letsop-script').click(function(){
+			var href=jQuery(this).attr('href');
+			switch(href){
+				case'#tab_news':
+					jQuery(this).parent().find('a').addClass('letsop-tab-inactive');
+					jQuery(this).removeClass('letsop-tab-inactive');
+					jQuery("#tab_relation").stop().hide();
+					jQuery("#tab_news").stop().fadeIn();
+					break;
+				case'#tab_relation':
+					jQuery(this).parent().find('a').addClass('letsop-tab-inactive');
+					jQuery(this).removeClass('letsop-tab-inactive');
+					jQuery("#tab_news").stop().hide();
+					jQuery("#tab_relation").stop().fadeIn();
+                    $('#tab_relation img').relazy();
+					break;
+			}
+			return false;
+		})
+
+
+	/*]]&gt;*/
+	</script> 
+          </div> 
+         </div> 
+         <div class="pkg mar_bottom20 "> 
+          <div class="head_news">
+           <a href="http://www.bongda.com.vn/video/">Video nổi bật</a>
+          </div> 
+          <div class="pkg photo_detail"> 
+           <div class="col405 fl"> 
+            <a href="http://www.bongda.com.vn/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-v383552.html" class="thumbblock thumb300" title="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 "><span class="icon_video_small"></span><span class="title_bg333">Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 </span><img class="" src="http://media.bongda.com.vn/resize/515x290/files/news/2017/03/08/doi-hinh-ngoai-hang-vong-27-premier-league-2016-17-134900.jpg" width="515" height="290" alt="Đội hình Ngoại hạng vòng 27 | Premier League 2016/17 "></a> 
+           </div> 
+           <div class="col200 fr"> 
+            <ul class=" pkg"> 
+             <li class="pkg"> <a href="http://www.bongda.com.vn/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-v383550.html" class="thumbblock thumb140 fl" title="30 siêu phẩm sút xa khiến bạn phải tròn mắt"><span class="icon_video_small"></span><span class="title_photo_home">30 siêu phẩm sút xa khiến bạn phải tròn mắt</span>
+               <div class="bg_shadow"></div><img class="" src="http://media.bongda.com.vn/resize/252x155/files/news/2017/03/08/30-sieu-pham-sut-xa-khien-ban-phai-tron-mat-121115.jpg" width="252" height="155" alt="30 siêu phẩm sút xa khiến bạn phải tròn mắt"></a> </li> 
+             <li class="pkg"> <a href="http://www.bongda.com.vn/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-v383549.html" class="thumbblock thumb140 fl" title="Những kĩ thuật và bàn thắng của Messi trong năm 2017"><span class="icon_video_small"></span><span class="title_photo_home">Những kĩ thuật và bàn thắng của Messi trong năm 2017</span>
+               <div class="bg_shadow"></div><img class="" src="http://media.bongda.com.vn/resize/252x155/files/news/2017/03/08/nhung-ki-thuat-va-ban-thang-cua-messi-trong-nam-2017-120756.jpg" width="252" height="155" alt="Những kĩ thuật và bàn thắng của Messi trong năm 2017"></a> </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="pkg mar_bottom20 "> 
+          <div class="head_news">
+           <a href="http://www.bongda.com.vn/tin-champions-league/">Bài viết trước đó</a>
+          </div> 
+          <div class="pkg"> 
+           <ul class="news_bottom_detail pkg"> 
+            <li> <a href="http://www.bongda.com.vn/sergio-ramos-chinh-messi-da-bat-chuoc-cach-an-mung-cua-toi-d383521.html" class="thumb140x90 thumbblock mar_bottom10" title="Sergio Ramos: Chính Messi đã bắt chước cách ăn mừng của tôi"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/sergio-ramos-chinh-messi-moi-bat-chuoc-cach-an-mung-cua-toi-074334.jpg" width="163" height="100" alt="Sergio Ramos: Chính Messi đã bắt chước cách ăn mừng của tôi"></a> <h3><a href="http://www.bongda.com.vn/sergio-ramos-chinh-messi-da-bat-chuoc-cach-an-mung-cua-toi-d383521.html" class="f14" title="Sergio Ramos: Chính Messi đã bắt chước cách ăn mừng của tôi">Sergio Ramos: Chính Messi đã bắt chước cách ăn mừng của tôi</a></h3> </li> 
+            <li> <a href="http://www.bongda.com.vn/02h45-ngay-09-03-dortmund-vs-benfica-nguoc-dong-o-iduna-park-d383520.html" class="thumb140x90 thumbblock mar_bottom10" title="02h45 ngày 09/03, Dortmund vs Benfica: Ngược dòng ở Iduna Park?"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/02h45-ngay-09-03-dortmund-vs-benfica-nguoc-dong-o-iduna-park-072338.jpg" width="163" height="100" alt="02h45 ngày 09/03, Dortmund vs Benfica: Ngược dòng ở Iduna Park?"></a> <h3><a href="http://www.bongda.com.vn/02h45-ngay-09-03-dortmund-vs-benfica-nguoc-dong-o-iduna-park-d383520.html" class="f14" title="02h45 ngày 09/03, Dortmund vs Benfica: Ngược dòng ở Iduna Park?">02h45 ngày 09/03, Dortmund vs Benfica: Ngược dòng ở Iduna Park?</a></h3> </li> 
+            <li> <a href="http://www.bongda.com.vn/thua-tham-bayern-hlv-wenger-do-loi-trong-tai-d383519.html" class="thumb140x90 thumbblock mar_bottom10" title="Thua thảm Bayern, HLV Wenger đổ lỗi trọng tài"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/thua-tham-bayern-hlv-wenger-do-loi-trong-tai-072459.jpg" width="163" height="100" alt="Thua thảm Bayern, HLV Wenger đổ lỗi trọng tài"></a> <h3><a href="http://www.bongda.com.vn/thua-tham-bayern-hlv-wenger-do-loi-trong-tai-d383519.html" class="f14" title="Thua thảm Bayern, HLV Wenger đổ lỗi trọng tài">Thua thảm Bayern, HLV Wenger đổ lỗi trọng tài</a></h3> </li> 
+            <li> <a href="http://www.bongda.com.vn/co-dong-vien-arsenal-bieu-tinh-doi-hlv-wenger-ra-di-d383518.html" class="thumb140x90 thumbblock mar_bottom10" title="Cổ động viên Arsenal biểu tình đòi HLV Wenger ra đi"><img class="" src="http://media.bongda.com.vn/resize/163x100/files/news/2017/03/08/co-dong-vien-arsenal-bieu-tinh-doi-hlv-wenger-ra-di-071034.jpg" width="163" height="100" alt="Cổ động viên Arsenal biểu tình đòi HLV Wenger ra đi"></a> <h3><a href="http://www.bongda.com.vn/co-dong-vien-arsenal-bieu-tinh-doi-hlv-wenger-ra-di-d383518.html" class="f14" title="Cổ động viên Arsenal biểu tình đòi HLV Wenger ra đi">Cổ động viên Arsenal biểu tình đòi HLV Wenger ra đi</a></h3> </li> 
+           </ul> 
+           <div class="col48per fl"> 
+            <ul class="list_news_show_home news_home_detail"> 
+             <li><h3><a href="http://www.bongda.com.vn/nhung-thong-ke-dang-xau-ho-cua-arsenal-sau-that-bai-truoc-bayern-munich-d383517.html" class="max-2-lines" title="Những thống kê đáng xấu hổ của Arsenal sau thất bại trước Bayern Munich">Những thống kê đáng xấu hổ của Arsenal sau thất bại trước Bayern Munich</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/pha-luoi-bayern-theo-walcott-vuot-qua-thanh-tich-cua-ronaldo-va-zidane-d383515.html" class="max-2-lines" title="'Phá' lưới Bayern, Theo Walcott vượt qua thành tích của Ronaldo và Zidane">'Phá' lưới Bayern, Theo Walcott vượt qua thành tích của Ronaldo và Zidane</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/chum-anh-sieu-hau-ve-ramos-giai-nguy-cho-real-d383509.html" class="max-2-lines" title="Chùm ảnh: 'Siêu hậu vệ' Ramos giải nguy cho Real">Chùm ảnh: "Siêu hậu vệ" Ramos giải nguy cho Real</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/koscielny-pha-game-phao-thu-tan-tac-truoc-nanh-vuot-hum-xam-d383507.html" class="max-2-lines" title="Koscielny 'phá game', Pháo thủ tan tác trước nanh vuốt Hùm xám">Koscielny "phá game", Pháo thủ tan tác trước nanh vuốt Hùm xám</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/psg-thiet-quan-truoc-them-tai-chien-barcelona-d383506.html" class="max-2-lines" title="PSG thiệt quân trước thềm tái chiến Barcelona">PSG thiệt quân trước thềm tái chiến Barcelona</a></h3> </li> 
+            </ul> 
+           </div> 
+           <div class="col48per fr"> 
+            <ul class="list_news_show_home news_home_detail"> 
+             <li><h3><a href="http://www.bongda.com.vn/5-nam-truoc-messi-lap-ky-luc-ghi-5-ban-o-tran-dau-champions-league-d383503.html" class="max-2-lines" title="5 năm trước, Messi lập kỷ lục ghi 5 bàn ở trận đấu Champions League">5 năm trước, Messi lập kỷ lục ghi 5 bàn ở trận đấu Champions League</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/xem-messi-dua-barca-vuot-kho-d383501.html" class="max-2-lines" title="Xem Messi đưa Barca vượt khó">Xem Messi đưa Barca vượt khó</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/suarez-barca-phai-that-kien-nhan-d383499.html" class="max-2-lines" title="Suarez: Barca phải thật kiên nhẫn">Suarez: Barca phải thật kiên nhẫn</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/sao-psg-e-de-truoc-suc-manh-cua-msn-d383460.html" class="max-2-lines" title="Sao PSG e dè trước sức mạnh của MSN">Sao PSG e dè trước sức mạnh của MSN</a></h3> </li> 
+             <li><h3><a href="http://www.bongda.com.vn/doi-hinh-cap-nhat-arsenal-vs-bayern-munich-d383447.html" class="max-2-lines" title="ĐỘI HÌNH CẬP NHẬT Arsenal vs Bayern Munich">ĐỘI HÌNH CẬP NHẬT Arsenal vs Bayern Munich</a></h3> </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="pkg mar_bottom20 "> 
+          <div class="head_news">
+           <a rel="nofollow" href="http://www.bongda.com.vn/thu-vien-anh/">Photo nổi bật</a>
+          </div> 
+          <div class="pkg photo_detail"> 
+           <div class="col405 fl"> 
+            <a href="http://www.bongda.com.vn/izabel-goulart--nu-than-ho-menh-cua-sao-psg-d383551.html" class="thumbblock thumb300" rel="nofollow" title="Izabel Goulart - Nữ thần hộ mệnh của sao PSG"><span class="title_bg333">Izabel Goulart - Nữ thần hộ mệnh của sao PSG</span><img class="" src="http://media.bongda.com.vn/resize/515x290/files/phuc.tran/2017/03/08/izabel-7-1321.jpg" width="515" height="290" alt="Izabel Goulart - Nữ thần hộ mệnh của sao PSG"></a> 
+           </div> 
+           <div class="col200 fr"> 
+            <ul class=" pkg"> 
+             <li class="pkg"> <a href="http://www.bongda.com.vn/nu-trong-tai-fifa-va-mong-uoc-gian-di-ngay-8-3-d383546.html" class="thumbblock thumb140 fl" rel="nofollow" title="Nữ trọng tài FIFA và mong ước giản dị ngày 8/3"><span class="title_photo_home">Nữ trọng tài FIFA và mong ước giản dị ngày 8/3</span>
+               <div class="bg_shadow"></div><img class="" src="http://media.bongda.com.vn/resize/252x155/files/news/2017/03/08/nu-trong-tai-fifa-va-mong-uoc-gian-di-ngay-8-3-114916.jpg" width="252" height="155" alt="Nữ trọng tài FIFA và mong ước giản dị ngày 8/3"></a> </li> 
+             <li class="pkg"> <a href="http://www.bongda.com.vn/hot-girl-brazil-khoe-3-vong-nong-bong-ben-trai-bong-d383540.html" class="thumbblock thumb140 fl" rel="nofollow" title="'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng"><span class="title_photo_home">'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng</span>
+               <div class="bg_shadow"></div><img class="" src="http://media.bongda.com.vn/resize/252x155/files/news/2017/03/08/hot-girl-brazil-khoe-3-vong-nong-bong-ben-trai-bong-110218.jpg" width="252" height="155" alt="'Hot girl' Brazil khoe 3 vòng nóng bỏng bên trái bóng"></a> </li> 
+            </ul> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="adv" id="ads_34" style="margin-top:0px;margin-bottom:0px;">
+          <div class="e" style="">
+           <!-- Composite Start --> 
+           <div id="M183732ScriptRootC89553"> 
+            <div id="M183732PreloadC89553">
+              Loading... 
+            </div> 
+            <script>
+                (function(){
+            var D=new Date(),d=document,b='body',ce='createElement',ac='appendChild',st='style',ds='display',n='none',gi='getElementById';
+            var i=d[ce]('iframe');i[st][ds]=n;d[gi]("M183732ScriptRootC89553")[ac](i);try{var iw=i.contentWindow.document;iw.open();iw.writeln("<ht"+"ml><bo"+"dy></bo"+"dy></ht"+"ml>");iw.close();var c=iw[b];}
+            catch(e){var iw=d;var c=d[gi]("M183732ScriptRootC89553");}var dv=iw[ce]('div');dv.id="MG_ID";dv[st][ds]=n;dv.innerHTML=89553;c[ac](dv);
+            var s=iw[ce]('script');s.async='async';s.defer='defer';s.charset='utf-8';s.src="//jsc.mgid.com/b/o/bongda.com.vn.89553.js?t="+D.getYear()+D.getMonth()+D.getDate()+D.getHours();c[ac](s);})();
+    </script> 
+           </div> 
+           <!-- Composite End -->
+          </div>
+         </div> 
+        </div> 
+        <aside class="col160 fl"> 
+         <section class="box160 pkg mar_bottom20"> 
+          <div class="head_news">
+           <a onclick="return false">Tin nóng</a>
+          </div> 
+          <ul class="list_news_160"> 
+           <li> <a href="http://www.bongda.com.vn/koscielny-pha-game-phao-thu-tan-tac-truoc-nanh-vuot-hum-xam-d383507.html" class="thumbblock thumb160x100 mar-1 mar_bottom10" title="Koscielny 'phá game', Pháo thủ tan tác trước nanh vuốt Hùm xám"><img class="" src="http://media.bongda.com.vn/resize/160x100/files/news/2017/03/08/koscielny-pha-game-phao-thu-tan-tac-truoc-nanh-vuot-hum-xam-060410.jpg" width="160" height="100" alt="Koscielny 'phá game', Pháo thủ tan tác trước nanh vuốt Hùm xám"></a> <h2><a href="http://www.bongda.com.vn/koscielny-pha-game-phao-thu-tan-tac-truoc-nanh-vuot-hum-xam-d383507.html" class="f14" title="Koscielny 'phá game', Pháo thủ tan tác trước nanh vuốt Hùm xám">Koscielny "phá game", Pháo thủ tan tác trước nanh vuốt Hùm xám</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/du-doan-c1-europa-league-mu-dong-bang-arsenal-barca-ngang-dau-d383442.html" class="f14" title="Dự đoán C1 &amp; Europa League: M.U 'đóng băng'; Arsenal, Barca 'ngẩng đầu'">Dự đoán C1 &amp; Europa League: M.U 'đóng băng'; Arsenal, Barca 'ngẩng đầu'</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/fan-arsenal-phat-dien-khi-sanchez-cuoi-lon-du-doi-nha-tham-bai-d383525.html" class="f14" title="Fan Arsenal phát điên khi Sanchez cười lớn dù đội nhà thảm bại">Fan Arsenal phát điên khi Sanchez cười lớn dù đội nhà thảm bại</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/arsenal-thua-ca-ngoai-hang-anh-xau-ho-d383528.html" class="f14" title="Arsenal thua, cả Ngoại hạng Anh xấu hổ">Arsenal thua, cả Ngoại hạng Anh xấu hổ</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/nhung-thong-ke-dang-xau-ho-cua-arsenal-sau-that-bai-truoc-bayern-munich-d383517.html" class="f14" title="Những thống kê đáng xấu hổ của Arsenal sau thất bại trước Bayern Munich">Những thống kê đáng xấu hổ của Arsenal sau thất bại trước Bayern Munich</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/02h45-ngay-09-03-barcelona-vs-psg-su-menh-lich-su-d383516.html" class="f14" title="02h45 ngày 09/03, Barcelona vs PSG: Sứ mệnh lịch sử">02h45 ngày 09/03, Barcelona vs PSG: Sứ mệnh lịch sử</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/ramos-toi-se-ngu-rat-ngon-neu-barcelona-bi-loai-d383535.html" class="f14" title="Ramos: 'Tôi sẽ ngủ rất ngon nếu Barcelona bị loại'">Ramos: 'Tôi sẽ ngủ rất ngon nếu Barcelona bị loại'</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/de-napoli-ghi-ban-ronaldo-noi-dien-voi-cac-dong-doi-trong-duong-ham-d383536.html" class="f14" title="Để Napoli ghi bàn, Ronaldo nổi điên với các đồng đội trong đường hầm">Để Napoli ghi bàn, Ronaldo nổi điên với các đồng đội trong đường hầm</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/thua-tham-bayern-hlv-wenger-do-loi-trong-tai-d383519.html" class="f14" title="Thua thảm Bayern, HLV Wenger đổ lỗi trọng tài">Thua thảm Bayern, HLV Wenger đổ lỗi trọng tài</a></h2> </li> 
+           <li> <h2><a href="http://www.bongda.com.vn/xac-nhan-oezil-tiep-tuc-bi-loai-khoi-doi-hinh-arsenal-d383323.html" class="f14" title="XÁC NHẬN: Oezil tiếp tục bị loại khỏi đội hình Arsenal">XÁC NHẬN: Oezil tiếp tục bị loại khỏi đội hình Arsenal</a></h2> </li> 
+          </ul> 
+         </section> 
+         <div class="adv" id="ads_16" style="margin-top:8px;margin-bottom:0px;">
+          <div class="e" style="">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+           <ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-5477383358798580" data-ad-slot="6219582559"></ins> 
+           <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+          </div>
+         </div> 
+         <section class="box160 pkg mar_bottom20"> 
+          <div class="head_news">
+           <a onclick="return false">Tiêu điểm</a>
+          </div> 
+          <ul class="list_news_160 list_trend"> 
+           <li> <a href="http://www.bongda.com.vn/soc-voi-ly-do-ibrahimovic-da-hong-phat-den-d383061.html" class="thumbblock thumb160x100 mar-1 mar_bottom10" title="Sốc với lý do Ibrahimovic đá hỏng phạt đền"><img class="" src="http://media.bongda.com.vn/resize/160x100/files/news/2017/03/05/soc-voi-ly-do-ibrahimovic-da-hong-phat-den-002620.jpg" width="160" height="100" alt="Sốc với lý do Ibrahimovic đá hỏng phạt đền"></a> <h2><a href="http://www.bongda.com.vn/soc-voi-ly-do-ibrahimovic-da-hong-phat-den-d383061.html" class="f14" title="Sốc với lý do Ibrahimovic đá hỏng phạt đền">Sốc với lý do Ibrahimovic đá hỏng phạt đền</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/sau-vong-27-nha-2-vi-vua-liverpool-mu-top-4-dan-dinh-hinh-d383356.html" class="thumbblock thumb160x100 mar-1 mar_bottom10" title="Sau vòng 27 NHA: 2 vị vua Liverpool &amp; M.U; Top 4 dần định hình"><img class="" src="http://media.bongda.com.vn/resize/160x100/files/news/2017/03/07/sau-vong-27-nha-2-vi-vua-liverpool-mu-dinh-hinh-top-4-010359.jpg" width="160" height="100" alt="Sau vòng 27 NHA: 2 vị vua Liverpool &amp; M.U; Top 4 dần định hình"></a> <h2><a href="http://www.bongda.com.vn/sau-vong-27-nha-2-vi-vua-liverpool-mu-top-4-dan-dinh-hinh-d383356.html" class="f14" title="Sau vòng 27 NHA: 2 vị vua Liverpool &amp; M.U; Top 4 dần định hình">Sau vòng 27 NHA: 2 vị vua Liverpool &amp; M.U; Top 4 dần định hình</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/bom-tan-james-rodriguez-sap-no-gia-95-trieu-bang-d383360.html" class="thumbblock thumb160x100 mar-1 mar_bottom10" title="'Bom tấn' James Rodriguez sắp nổ, giá 95 triệu bảng"><img class="" src="http://media.bongda.com.vn/resize/160x100/files/news/2017/03/07/bom-tan-james-rodriguez-sap-no-gia-95-trieu-bang-064226.jpg" width="160" height="100" alt="'Bom tấn' James Rodriguez sắp nổ, giá 95 triệu bảng"></a> <h2><a href="http://www.bongda.com.vn/bom-tan-james-rodriguez-sap-no-gia-95-trieu-bang-d383360.html" class="f14" title="'Bom tấn' James Rodriguez sắp nổ, giá 95 triệu bảng">'Bom tấn' James Rodriguez sắp nổ, giá 95 triệu bảng</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/5-diem-nhan-liverpool-3-1-arsenal-su-tuyet-vong-cua-phao-thu-d383070.html" class="thumbblock thumb160x100 mar-1 mar_bottom10" title="5 điểm nhấn Liverpool 3-1 Arsenal: Sự tuyệt vọng của Pháo thủ"><img class="" src="http://media.bongda.com.vn/resize/160x100/files/duong.nguyen/2017/03/05/8-0448.jpg" width="160" height="100" alt="5 điểm nhấn Liverpool 3-1 Arsenal: Sự tuyệt vọng của Pháo thủ"></a> <h2><a href="http://www.bongda.com.vn/5-diem-nhan-liverpool-3-1-arsenal-su-tuyet-vong-cua-phao-thu-d383070.html" class="f14" title="5 điểm nhấn Liverpool 3-1 Arsenal: Sự tuyệt vọng của Pháo thủ">5 điểm nhấn Liverpool 3-1 Arsenal: Sự tuyệt vọng của Pháo thủ</a></h2> </li> 
+           <li> <a href="http://www.bongda.com.vn/nhin-man-united-va-ibra-lai-nho-den-loi-cua-sir-alex-ferguson-d383299.html" class="thumbblock thumb160x100 mar-1 mar_bottom10" title="Nhìn Man United và Ibra, lại nhớ đến lời của Sir Alex Ferguson"><img class="" src="http://media.bongda.com.vn/resize/160x100/files/news/2017/03/06/nhin-man-united-va-ibra-lai-nho-den-loi-cua-sir-alex-ferguson-162657.jpg" width="160" height="100" alt="Nhìn Man United và Ibra, lại nhớ đến lời của Sir Alex Ferguson"></a> <h2><a href="http://www.bongda.com.vn/nhin-man-united-va-ibra-lai-nho-den-loi-cua-sir-alex-ferguson-d383299.html" class="f14" title="Nhìn Man United và Ibra, lại nhớ đến lời của Sir Alex Ferguson">Nhìn Man United và Ibra, lại nhớ đến lời của Sir Alex Ferguson</a></h2> </li> 
+          </ul> 
+         </section> 
+         <div class="adv" id="ads_15" style="margin-top:0px;margin-bottom:0px;">
+          <div class="e" style="">
+           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
+           <!-- bongda_BG --> 
+           <ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-5477383358798580" data-ad-slot="5423862558"></ins> 
+           <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+          </div>
+         </div> 
+        </aside> 
+       </div> 
+       <div class="col300 fr"> 
+        <aside> 
+         <div class="adv" id="ads_9" style="margin-top:0px;margin-bottom:0px;">
+          <div class="e" style="">
+           <!-- /51489806/Bongda_Homepage_Desktop_MR1 --> 
+           <div id="div-gpt-ad-1474353621386-0" style="height:250px; width:300px;"> 
+            <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1474353621386-0'); });
+</script> 
+           </div> 
+          </div>
+         </div> 
+         <div class="adv" id="ads_10" style="margin-top:8px;margin-bottom:20px;">
+          <div class="e" style="">
+           <!-- /51489806/Bongda_Homepage_Desktop_MR2 --> 
+           <div id="div-gpt-ad-1474353687334-0" style="height:250px; width:300px;"> 
+            <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1474353687334-0'); });
+</script> 
+           </div> 
+          </div>
+         </div> 
+         <div class="adv" id="ads_13" style="margin-top:0px;margin-bottom:8px;">
+          <div class="e" style="">
+           <!-- /51489806/Bongda_Homepage_Desktop_HP1 --> 
+           <div id="div-gpt-ad-1474353994329-0" style="height:600px; width:300px;"> 
+            <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1474353994329-0'); });
+</script> 
+           </div> 
+          </div>
+         </div> 
+         <div class="box_right_300"> 
+          <div class="head_news">
+           <a onclick="return false">Tin đọc nhiều nhất</a>
+          </div> 
+          <ul class="list_news_300 pkg"> 
+           <li class="first"> <a href="http://www.bongda.com.vn/koscielny-pha-game-phao-thu-tan-tac-truoc-nanh-vuot-hum-xam-d383507.html" class="thumb180 thumbblock" title="Koscielny 'phá game', Pháo thủ tan tác trước nanh vuốt Hùm xám"><img class="" src="http://media.bongda.com.vn/resize/300x180/files/news/2017/03/08/koscielny-pha-game-phao-thu-tan-tac-truoc-nanh-vuot-hum-xam-060410.jpg" width="300" height="180" alt="Koscielny 'phá game', Pháo thủ tan tác trước nanh vuốt Hùm xám"></a> 
+            <div class="mar10"> 
+             <h3><a href="http://www.bongda.com.vn/koscielny-pha-game-phao-thu-tan-tac-truoc-nanh-vuot-hum-xam-d383507.html" class="f18 fontbold" title="Koscielny 'phá game', Pháo thủ tan tác trước nanh vuốt Hùm xám">Koscielny "phá game", Pháo thủ tan tác trước nanh vuốt Hùm xám</a></h3> 
+             <div class="time_comment mar_top7 mar_bottom7"> 
+              <span>8h </span> 
+              <span class="line_cm">|</span> 
+              <span title="Lượt chia sẻ" class="icon_share">4</span>  
+             </div> 
+            </div> </li> 
+           <li> <a href="http://www.bongda.com.vn/ramos-lai-sam-vai-nguoi-hung-ken-ken-nguoc-dong-thanh-cong-tren-dat-y-d383508.html" class="thumb140x90 thumbblock" title="Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/duong.nguyen/2017/03/08/1-0553.jpg" width="140" height="90" alt="Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý"></a> <h3><a href="http://www.bongda.com.vn/ramos-lai-sam-vai-nguoi-hung-ken-ken-nguoc-dong-thanh-cong-tren-dat-y-d383508.html" class="f14" title="Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý">Ramos lại sắm vai người hùng, Kền kền ngược dòng thành công trên đất Ý</a></h3> 
+            <div class="time_comment mar_top7 mar_bottom7">
+             <span>8h </span> 
+            </div> </li> 
+           <li> <a href="http://www.bongda.com.vn/fan-arsenal-phat-dien-khi-sanchez-cuoi-lon-du-doi-nha-tham-bai-d383525.html" class="thumb140x90 thumbblock" title="Fan Arsenal phát điên khi Sanchez cười lớn dù đội nhà thảm bại"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/news/2017/03/08/fan-arsenal-phat-dien-khi-sanchez-cuoi-lon-du-doi-nha-thua-tham-080708.jpg" width="140" height="90" alt="Fan Arsenal phát điên khi Sanchez cười lớn dù đội nhà thảm bại"></a> <h3><a href="http://www.bongda.com.vn/fan-arsenal-phat-dien-khi-sanchez-cuoi-lon-du-doi-nha-tham-bai-d383525.html" class="f14" title="Fan Arsenal phát điên khi Sanchez cười lớn dù đội nhà thảm bại">Fan Arsenal phát điên khi Sanchez cười lớn dù đội nhà thảm bại</a></h3> 
+            <div class="time_comment mar_top7 mar_bottom7">
+             <span>6h </span> 
+            </div> </li> 
+           <li> <a href="http://www.bongda.com.vn/ngo-lo-top-4-mourinho-choi-tat-tay-voi-europa-league-d383543.html" class="thumb140x90 thumbblock" title="Ngó lơ top 4, Mourinho chơi tất tay với Europa League"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/thanhdat.to/2017/03/08/nintchdbpict000303486500-1143.jpg" width="140" height="90" alt="Ngó lơ top 4, Mourinho chơi tất tay với Europa League"></a> <h3><a href="http://www.bongda.com.vn/ngo-lo-top-4-mourinho-choi-tat-tay-voi-europa-league-d383543.html" class="f14" title="Ngó lơ top 4, Mourinho chơi tất tay với Europa League">Ngó lơ top 4, Mourinho chơi tất tay với Europa League</a></h3> 
+            <div class="time_comment mar_top7 mar_bottom7">
+             <span>2h </span> 
+            </div> </li> 
+           <li> <a href="http://www.bongda.com.vn/arsenal-thua-ca-ngoai-hang-anh-xau-ho-d383528.html" class="thumb140x90 thumbblock" title="Arsenal thua, cả Ngoại hạng Anh xấu hổ"><img class="" src="http://media.bongda.com.vn/resize/140x90/files/news/2017/03/08/arsenal-thua-ca-ngoai-hang-anh-xau-ho-084454.jpg" width="140" height="90" alt="Arsenal thua, cả Ngoại hạng Anh xấu hổ"></a> <h3><a href="http://www.bongda.com.vn/arsenal-thua-ca-ngoai-hang-anh-xau-ho-d383528.html" class="f14" title="Arsenal thua, cả Ngoại hạng Anh xấu hổ">Arsenal thua, cả Ngoại hạng Anh xấu hổ</a></h3> 
+            <div class="time_comment mar_top7 mar_bottom7">
+             <span>6h </span> 
+            </div> </li> 
+          </ul> 
+         </div> 
+         <script type="text/javascript">
+    $(document).ready(function(){
+        $('.content_cm').each(function(){
+            var obj = $(this).children('.cm_text');
+            $cm_text = obj.text();
+            var len= $cm_text.length;
+            if(len>90)
+            {
+              obj.text($cm_text.substr(0,90)+'...');
+              $(this).append('<i class="fa fa-plus-square-o"></i>');
+              obj.addClass('showup');
+            }
+        });
+        
+        $('.content_cm').click(function (){
+            var obj = $(this).children('.cm_text');
+            if(obj.hasClass('showup')) {
+                obj.removeClass('showup').addClass('hideoff');
+                $(this).children('i').removeClass('fa-plus-square-o').addClass('fa-minus-square-o');
+                obj.text(obj.attr('data-text'));
+            } else if(obj.hasClass('hideoff')) {
+                obj.removeClass('hideoff').addClass('showup');
+                $(this).children('i').removeClass('fa-minus-square-o').addClass('fa-plus-square-o');
+                obj.text(obj.text().substr(0,90)+'...');
+            }
+        });
+        
+        
+    });
+</script> 
+         <div class="box_right_300"> 
+          <div class="head_news_onetg" style="background: #fe0000;">
+           <a style="background: url(http://www.bongda.com.vn/templates/themes/images/logo-vothuat.jpg) no-repeat right 2px;width: 99%;" href="http://vothuat.vn/" target="_blank" rel="nofollow"><span>TIN TỨC LÀNG VÕ</span> </a>
+          </div> 
+          <ul class="list_news_show_home list_news_onetg" style="border-color: #fe0000;"> 
+           <li><a href="http://vothuat.vn/cac-mon-phai/boxing-tin-lang-vo/mayweather-keu-mcgregor-ky-hop-dong-ngay-di.html" target="_blank" rel="nofollow">Mayweather: ‘Kêu McGregor ký hợp đồng ngay đi’</a> </li> 
+           <li><a href="http://vothuat.vn/cac-mon-phai/mma/tuong-lai-cua-khabib-tai-ufc-van-bat-dinh.html" target="_blank" rel="nofollow">Tương lai của Khabib tại UFC vẫn bắt định</a> </li> 
+           <li><a href="http://vothuat.vn/vo-thuat-tv/headshot-phim-hanh-dong-dam-mau-moi-nhat-cua-sieu-sao-iko-uwais.html" target="_blank" rel="nofollow">Headshot: Phim hành động đẫm máu mới nhất của siêu sao Iko Uwais</a> </li> 
+          </ul> 
+         </div> 
+         <div class="adv" id="ads_28" style="margin-top:0px;margin-bottom:0px;">
+          <div class="e" style="">
+           <!-- /51489806/Bongda_Homepage_Desktop_HP2 --> 
+           <div id="div-gpt-ad-1474354093750-0" style="height:600px; width:300px;"> 
+            <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1474354093750-0'); });
+</script> 
+           </div> 
+          </div>
+         </div> 
+        </aside> 
+       </div> 
+      </div> 
+      <div class="adv" id="ads_29" style="margin-top:0px;margin-bottom:0px;"></div> 
+     </div> 
+     <div id="advLeft">
+      <div class="adv" id="ads_20" style="margin-top:0px;margin-bottom:0px;">
+       <div class="e" style="">
+        <!-- /51489806/Bongda_Homepage_Desktop_BG_Left --> 
+        <div id="div-gpt-ad-1474356852386-0" style="height:600px; width:160px;"> 
+         <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1474356852386-0'); });
+</script> 
+        </div> 
+       </div>
+      </div>
+     </div> 
+     <div id="advRight">
+      <div class="adv" id="ads_21" style="margin-top:0px;margin-bottom:0px;">
+       <div class="e" style="">
+        <!-- /51489806/Bongda_Homepage_Desktop_BG_Right --> 
+        <div id="div-gpt-ad-1474356935119-0" style="height:600px; width:160px;"> 
+         <script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1474356935119-0'); });
+</script> 
+        </div> 
+       </div>
+      </div>
+     </div> 
+    </div> 
+   </div> 
+  </main> 
+  <script type="text/javascript">
+    ga('send', 'event', 'category_5', 'Explorer', 'Champions League');</script> 
+  <script type="text/javascript" src="/plus_views.383516.js"></script> 
+  <script type="text/javascript" src="/lib/player/jwplayer/jwplayer.js"></script> 
+  <script type="text/javascript">jwplayer.key="N8zhkmYvvRwOhz4aTGkySoEri4x+9pQwR7GHIQ==";</script> 
+  <script type="text/javascript">
+$(document).ready(function(){
+    if($('#bongda_playerz').length) {
+        var youtube = $('#bongda_player iframe').attr('src');
+        $('#bongda_player').html('');
+        jwplayer("bongda_player").setup({
+             file: youtube,
+             width: "100%",
+             height: "370",
+             advertising: {
+              client: "googima",
+              schedule: {"myAds":{"offset":"pre","tag":"http://delivery.yomedia.vn/vast?pid=46bfc794342044d1b0566307fd188cc1&v=3&ec=0"}}
+             }
+        });
+    }
+    $('.sendsocial').click(function(){
+        $.ajax({
+    		type: "POST", url: "/?mod=api&act=plusShare",
+    		data:  {id: 383516},
+    		dataType: "html", success: function(msg){}
+    	});
+    });
+});
+</script> 
+  <script type="text/javascript">
+$(document).ready(function(){
+    if($('.twitter-video').length>0) {var s = document.createElement('script'); s.type = 'text/javascript'; s.src = '//platform.twitter.com/widgets.js'; $('head').append(s);}
+});
+</script> 
+  <script>
+$(document).ready(function(){
+    var width_iframe_prerollinpage = 512;
+    var height_iframe_prerollinpage = 354;
+    var youtubeID = 'GGuBcPLG2DA';
+    $('#youtube_iframe', window.parent.document).hide();
+    injectHTMLprerollShow(width_iframe_prerollinpage, height_iframe_prerollinpage, youtubeID);
+})
+function injectHTMLprerollShow(width_iframe_prerollinpage, height_iframe_prerollinpage, youtubeID){
+    // jQuery('#prerollinpage_iframe').animate({
+    //     width: width_iframe_prerollinpage
+    //   }, 1);
+    jQuery('#prerollinpage_iframe').animate({
+        height: height_iframe_prerollinpage
+      }, 1);
+	//var iframe = document.getElementById('prerollinpage_iframe');
+    var iframe = jQuery('iframe#prerollinpage_iframe').get(0);
+    var a = {
+                browser: {
+                    "device_type": "Personal computer"
+                },
+                playerColor: "white",
+                showTopLink: !0,
+                topLinkColor: "#000000",
+                topLinkText: "",//"Advertentie",
+            };
+            var currentTime = Date.now();
+    var
+                        b = "http://staging.webtretho.vn/richmediabanner/js/jw/6/",
+                        k;
+                        k = "<script type=application/javascript src='" +
+                        b + 'jwplayer.js\'>\x3c/script>';
+                        k += "<script>";
+                        k += "jwplayer.key='vmAEdu5OJSCiJfE3aWibJZ6338lN/A7tybduu0fdEfxYgi7AkWpjckRUFeI=';";
+                        k += "\x3c/script>";
+                    c = "<!doctype html>\n";
+                    c += "<html>";
+                    c += "<head>";
+                    c += "<meta http-equiv='X-UA-Compatible' content='IE=edge'></meta>";
+                    c += "<meta http-equiv='X-UA-Compatible' content='IE=9'></meta>";
+                    c += "<script type='text/javascript' src='http://staging.webtretho.vn/richmediabanner/js/jquery-1.11.1.min.js'>\x3c/script>";
+                    c += k;
+                    c += '<link href="http://staging.webtretho.vn/richmediabanner/css/base.css" media="screen" rel="stylesheet" type="text/css">';
+                    c += '<link href="http://staging.webtretho.vn/richmediabanner/css/top.css" media="screen" rel="stylesheet" type="text/css">';
+                    c += "</head>";
+                    c += '<body class="' + a.playerColor + " " + a.browser.device_type.replace(" ", "").toLowerCase() + '">';
+                    if (!1 !== a.showTopLink || void 0 == a.showTopLink) c += "<style>", c += "#top a{ color: " + a.topLinkColor + ";}", c += "</style>", c += "<div id='' >", c += a.topLinkText, c += "</div>";//id='top'
+                    c += "<div id='playerWrapper'>";
+                    void 0 != a.endImage &&
+                        (c += "<div id='endImage'>", c += "<img src='" + a.endImage + "' />", c += "<div id='replayButton' >", c += "</div>", c += "</div>");
+                    c += "<div id='header'></div>";
+                    c += '<div id="player" class="tsetxxx">';
+                    //c += "<div id=\"playerplus\" onmouseover=\"jwplayer().setVolume(100);\" onmouseout=\"jwplayer().setVolume(0);\"><div id='VMG" + a.viewId + "' ></div></div>";
+                    c += "<div id=\"playerplus\" ><div id='VMG" + a.viewId + "' ></div></div>";
+                    c += "<script>";
+                    c += "jwplayer('VMG" + a.viewId + "').setup({file: 'http://125.212.219.58/1s-new.mp4',";
+                    c += "image: 'https://i.ytimg.com/vi/"+youtubeID+"/hqdefault.jpg',";
+                    c += "flashplayer:'http://staging.webtretho.vn/richmediabanner/js/jw/6/jwplayer.flash.swf',";
+                    c += "html5player: 'http://staging.webtretho.vn/richmediabanner/js/jw/6/jwplayer.html5.js',";
+                    c += "skin: 'http://staging.webtretho.vn/richmediabanner/js/jw/6/skin/bekle.xml',";
+                    //c += "autostart: true,";
+                    //c += "type: 'mp4',";
+                    c += "advertising:{";
+                    c += "client: 'http://staging.webtretho.vn/richmediabanner/js/jw/6/plugin/vast.js',";
+                    c += "admessage: 'Quảng cáo sẽ đóng sau XX giây.',";
+                    c += "skipoffset: 7,";
+                    c += "schedule: { ";
+                    c += "preroll:{ ";
+                    c += "offset: 'pre',";
+                    //c += "tag: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/89328808/Preroll_Olivia_Impression_Test&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator="+currentTime;
+                    c += "tag: 'https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/51489806/Video_Preroll&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator="+currentTime;
+                    c += "'}";
+                    c += "}";
+                    c += "}";
+                    c += "});";
+                    c += "\x3c/script>";
+                    c += "<script type='text/javascript'>";
+                    c += "jwplayer().onComplete(function() {window.parent.ParentFromIframeprerollShow("+width_iframe_prerollinpage+","+ height_iframe_prerollinpage+");});";
+                    c += "jwplayer().onError(function() {jwplayer().stop();});";
+                    c += "\x3c/script>";
+                    c += "<script type='text/javascript'>";
+                    c += "jQuery(document).ready(function(){";
+                    //c += "jwplayer().play(true);";
+                    c += "jwplayer().setVolume(100);";
+                    //c += "window.parent.ParentFromIframeprerollShow(true);";
+                    c += "})";
+                    c += "\x3c/script>";
+                    c += "<script type='text/javascript'>";
+                    c += "function pause(){";
+                    c += 'jwplayer().pauseAd();';
+                    c += "}";
+                    c += "function resume(){";
+                    c += 'jwplayer().resumeAd();';
+                    c += "}";
+                    c += "\x3c/script>";
+                    c += "<script type='text/javascript'>";
+                    c += "jwplayer().onReady(function() {";
+                    c += "var vol = jwplayer().getVolume();";
+                    c += "if(vol == 0 ){";
+                    c += "jQuery(\".off\").hide();";
+                    c += "jQuery(\".on\").show();";
+                    c += "}";
+                    c += "else{";
+                    c += "jQuery(\".on\").hide();";
+                    c += "jQuery(\".off\").show();";
+                    c += "}";
+                    c += "});";
+                    c += "\x3c/script>";
+                    c += "<div class='controls' id=\"buttons\">";
+                    c += "<div id='soundButton' class='on'  style=\"display: none;right: 15px;top: 15px;\" onClick=\"jwplayer().setVolume(0);jQuery('#playerplus').removeAttr('onmouseover');jQuery('#playerplus').removeAttr('onmouseout');jQuery('.on').hide();jQuery('.off').show();\"></div>";
+                    c += "<div id='soundButton' class='off'  style=\"display: none;right: 15px;top: 15px;\" onClick=\"jwplayer().setVolume(100);jQuery('#playerplus').removeAttr('onmouseover');jQuery('#playerplus').removeAttr('onmouseout');jQuery('.off').hide();jQuery('.on').show();\"></div>";
+                    c += "</div>";
+                    c += "</div>";
+                    c += "</div>";
+                    c += "</body></html>"
+                    html_string = c;
+	/* if jQuery is available, you may use the get(0) function to obtain the DOM object like this:
+	var iframe = jQuery('iframe#target_iframe_id').get(0);
+	*/
+	var iframedoc = iframe.document;
+		if (iframe.contentDocument)
+			iframedoc = iframe.contentDocument;
+		else if (iframe.contentWindow)
+			iframedoc = iframe.contentWindow.document;
+
+	 if (iframedoc){
+		 // Put the content in the iframe
+		 iframedoc.open();
+		 iframedoc.writeln(html_string);
+		 iframedoc.close();
+	 } else {
+		alert('Cannot inject dynamic contents into iframe.');
+	 }
+
+}
+
+window.ParentFromIframeprerollShow = function(able){
+
+    var iScrollPos = 0;
+    var prerollShowFromIframe1 = '0';
+    var prerollShowFromIframe2 = '0';
+    var elementOffset = jQuery('#prerollinpage_iframe').offset().top;
+    var heightIframe = jQuery('#prerollinpage_iframe').contents().height();
+    if(able == true){
+        jQuery(window).scroll(function () {
+            var iCurScrollPos = jQuery(this).scrollTop();
+            var check = elementOffset + (heightIframe + 10)/2;
+            var check1 = elementOffset + heightIframe;
+            var check2 = elementOffset + 10;
+            var check3 = check - 10;
+            if (iCurScrollPos > iScrollPos) {
+                //Scrolling Down
+                if ((iCurScrollPos > check)&&(iCurScrollPos < check1)&&(prerollShowFromIframe1 == '0')) {
+                    jQuery('#prerollinpage_iframe').animate({
+                      width: 0
+                    }, 100);
+                }
+            } else {
+               //Scrolling Up
+                if ((iCurScrollPos > check2)&&(iCurScrollPos < check3)&&(prerollShowFromIframe2 == '0')) {
+                    jQuery('#prerollinpage_iframe').animate({
+                      width: 580
+                    }, 100);
+                }
+            }
+            iScrollPos = iCurScrollPos;
+            });
+        }else{
+            //jQuery("#prerollinpage_iframe").contents().find("html").html('');
+            jQuery('#prerollinpage_iframe').animate({
+                width: 0
+              }, 1);
+            jQuery('#prerollinpage_iframe').animate({
+                height: 0
+              }, 1);
+            jQuery('#prerollinpage_iframe').css('width', '0 !important');
+            var vi = $("#youtube_iframe");
+            vi.attr("src", vi.data("autoplay-src") );
+            $('#youtube_iframe', window.parent.document).show();
+        }
+}
+</script> 
+  <script type="text/javascript">
+$(document).ready(function(){
+    setTimeout(function(){
+        $('#content_detail img').each(function(){
+            if($(this).height()<=35) {
+                $(this).parents('figure').remove();
+                $(this).remove();
+            }
+        });
+    }, 3000);
+});
+</script> 
+  <!-- <script language="javascript" src="http://beta.bongda.com.vn/templates/themes/js/mb_core.js?v=1"></script>
+<script language="javascript" src="https://demo.meonho.net/inpage/mb_core.js?id=123"></script>
+<script language="javascript">
+    ADM_CHECKER.setStorage('_background','','','');
+    ADM_CHECKER.setStorage('_bg_ex','','','');
+    ADM_CHECKER.setCookie('_background','','','');
+    ADM_CHECKER.setCookie('_bg_ex','','','');
+</script>
+<script language="javascript" src="http://beta.bongda.com.vn/templates/themes/js/demo_test_27111.ads?v=1"></script> --> 
+  <footer> 
+   <div class="bg_footer pkg"> 
+    <div class="grid1190 pkg"> 
+     <div class="footer_left fl"> 
+      <a href="/" class="mar_bottom10"><img src="/templates/themes/images/logo-white.png" height="70"> </a> 
+      <p>Toàn bộ nội dung bài viết, ý kiến thành viên được kiểm duyệt, cung cấp và bảo trợ thông tin bởi <strong>Báo Thể Thao Việt Nam – Cơ quan thuộc Tổng Cục Thể Dục Thể Thao.</strong></p> 
+      <p><strong>TS. Nhà báo Võ Danh Hải - Trưởng chi nhánh Phía Nam</strong></p> 
+      <p>Chịu trách nhiệm nội dung: Bà <strong>Bạch Thị&nbsp;Hà</strong> - Phó Giám đốc Công ty Cổ phần Yêu Thể Thao</p> 
+      <p>Chỉ đạo thực hiện: <strong>Nguyễn Đức Vinh</strong>, Giám đốc điều hành Cty CP Yêu Thể Thao</p> 
+      <p>Giấy phép số 29/GP-TTĐT do Bộ Thông tin và Truyền thông cấp ngày 11/02/2010 và giấy phép số 88/GP-TTĐT của Sở Thông tin và Truyền thông TP.HCM cấp ngày 28/7/2015.</p> 
+      <p><a href="http://www.bongda.com.vn/" target="_blank">Bóng đá</a>&nbsp;| <a href="http://www.bongda.com.vn/02h45-ngay-16-02-real-madrid-vs-napoli-cr7-lanh-an-tien-phong-d380496.html" target="_blank">Real - Napoli</a></p> 
+      <p>&nbsp;</p> 
+     </div> 
+     <div class="footer_left fl"> 
+      <div class="clwhite fontUTM f18 mar_bottom20">
+       LIÊN HỆ:
+      </div> 
+      <p><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Địa chỉ:</strong> 02 Đinh Tiên Hoàng, P.Đa Kao, Q.1, TP.HCM.</p> 
+      <p> <i class="fa fa-phone" aria-hidden="true"></i> <strong>Điện thoại:</strong> (08) 3910-5017.</p> 
+      <p><i class="fa fa-fax" aria-hidden="true"></i> <strong>Fax:</strong> (08) 3910-5019.</p> 
+      <p><i class="fa fa-exclamation-circle" aria-hidden="true"></i> <strong>Quảng cáo:</strong> 0909 74 64 28.</p> 
+      <p><i class="fa fa-envelope-o" aria-hidden="true"></i> <strong>Liên hệ quảng cáo: </strong>quangcao@bongda.com.vn</p> 
+      <p><i class="fa fa-paper-plane-o" aria-hidden="true"></i><strong>Toà soạn &amp; hỗ trợ:</strong> (08) 3910-5018.</p> 
+      <p><i class="fa fa-envelope-o" aria-hidden="true"></i> <strong> Email: </strong>hotro@bongda.com.vn</p>
+      <br> 
+      <style>
+            .list_social > li > a{opacity: 1; }
+            .list_social > li{margin-left: 0}
+          </style> 
+      <ul class="list_social"> 
+       <li class="user_login"><a rel="nofollow"><i class="fa fa-user" aria-hidden="true"></i></a> 
+        <div class="box_user" id="box_profile_login">
+          Đăng nhập bằng: 
+         <ul class="sharing-zone pkg"> 
+          <li><a href="/loginFB.php" class="sendsocial fb_share" rel="nofollow"><i class="fa fa-facebook"></i><span>Facebook</span></a></li> 
+          <li><a href="/loginGG.php" class="sendsocial glus_share" rel="nofollow"><i class="fa fa-google-plus"></i><span>Google+</span></a></li> 
+          <li class="divider"></li> 
+         </ul> 
+         <a class="user_log" href="#box_login" rel="nofollow">Đăng nhập</a> hoặc 
+         <a href="#box_register" class="user_log" rel="nofollow">Đăng ký</a> 
+        </div> 
+        <div class="box_user" id="box_profile_logined">
+          Chào mừng: 
+         <b id="txt_profile_fullname"></b> 
+         <ul class="sharing-zone pkg"> 
+          <li> 
+           <div class="confirmed" style="display: none;"> 
+            <a href="/?mod=profile&amp;act=post" class="sendsocial fb_share" rel="nofollow" style="text-align: left;"><span>Gửi bài tới tòa soạn</span></a> 
+            <a href="#box_changepass" class="user_log fb_share" rel="nofollow" style="text-align: left; margin-top: 5px;"><span>Đổi mật khẩu</span></a> 
+           </div> 
+           <div class="confirm" style="display: none;"> 
+            <p style="margin-bottom: 8px;">Tài khoản chưa được xác minh</p> 
+            <a class="fb_share" href="#" rel="nofollow" id="btn_profile_confirm">Gửi xác minh email</a> 
+           </div> </li> 
+          <li class="divider"></li> 
+         </ul> 
+         <a class="user_log" href="/?mod=profile&amp;act=logout" rel="nofollow">Thoát</a> 
+        </div> </li> 
+       <li class="dowload_app"><a href="#dowload_footer" title="Download ứng dụng trên di động"><i class="fa fa-cloud-download" aria-hidden="true"></i></a></li> 
+       <li><a href="https://www.youtube.com/channel/UCUrfCMHWF5VE_UkM7PDzwUg" rel="nofollow"><i class="fa fa-youtube-play" aria-hidden="true"></i> </a></li> 
+       <li><a href="https://plus.google.com/u/0/+B%C3%B3ng%C4%90%C3%A1Community/posts" rel="nofollow"><i class="fa fa-google-plus" aria-hidden="true"></i> </a></li> 
+       <li><a href="https://www.facebook.com/fpbongda" rel="nofollow"><i class="fa fa-facebook" aria-hidden="true"></i> </a></li> 
+       <li><a href="/main-rss.html"><i class="fa fa-rss" aria-hidden="true"></i></a></li> 
+      </ul> 
+     </div> 
+     <div class="footer_left fr"> 
+      <div class="clwhite fontUTM f18">
+       DOWNLOAD ỨNG DỤNG TRÊN MOBILE:
+      </div> 
+      <div class="mar_top20 mar_bottom20" id="dowload_footer"> 
+       <a href="https://itunes.apple.com/us/app/bongda.com.vn/id1081921405?ls=1&amp;mt=8" target="_blank" rel="nofollow" class="icon_appstore"><i class="fa fa-apple" aria-hidden="true"></i> </a> 
+       <a href="https://play.google.com/store/apps/details?id=com.tamkhoatech.bongda" target="_blank" rel="nofollow" class="icon_appstore icon_android"><i class="fa fa-android" aria-hidden="true"></i></a> 
+      </div> 
+      <p>Bản quyền và phát triển bởi Công ty Cổ phần Yêu Thể Thao</p> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="noty_footer">
+    Toàn bộ nội dung bài viết, ý kiến thành viên được kiểm duyệt, cung cấp và bảo trợ thông tin bởi Báo Thể Thao Việt Nam – Cơ quan thuộc Tổng Cục Thể Dục Thể Thao.
+   </div> 
+  </footer> 
+  <p id="back-top"> <a href="#top"><span></span></a> </p> 
+  <script type="text/javascript">
+        sas.call("std", {
+            siteId:     144239, //
+            pageId:     763820, // Page : VN_bonga.com/vn_bonga.com_outstream
+            formatId:   44269,  // Format : Video-Read 1x1
+            target:     ''  // Targeting
+        });
+    </script> 
+  <noscript> 
+   <a href="http://adnetwork.adasiaholdings.com/ac?jump=1&amp;nwid=2060&amp;siteid=144239&amp;pgname=vn_bonga.com_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]&amp;out=nonrich" target="_blank"> <img src="http://adnetwork.adasiaholdings.com/ac?out=nonrich&amp;nwid=2060&amp;siteid=144239&amp;pgname=vn_bonga.com_outstream&amp;fmtid=44269&amp;visit=m&amp;tmstp=[timestamp]" border="0" alt=""></a> 
+  </noscript>  
+  <script type="text/javascript" src="http://www.bongda.com.vn/templates/themes/js/jquery.cookie.js"></script> 
+  <script src="/lib/explus/jquery.twentytwenty.js" type="text/javascript"></script> 
+  <script src="/lib/explus/jquery.event.move.js" type="text/javascript"></script> 
+  <script src="/lib/explus/jquery.exslider.js" type="text/javascript"></script> 
+  <script src="/lib/explus/explus.lazy.js" type="text/javascript"></script> 
+  <script src="/lib/explus/explus.dev.js?v=5" type="text/javascript"></script> 
+  <div id="fb-root"></div> 
+  <script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.5&appId=381041375399526";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script> 
+  <script src="https://apis.google.com/js/platform.js" async defer>{lang: 'vi'}</script> 
+  <script src="http://www.bongda.com.vn/templates/themes/js/jquery.cookie.js" type="text/javascript"></script> 
+  <script type="text/javascript">
+$(document).ready(function(){
+    var news_id = 383516;
+    $.getJSON("/?mod=api&act=voteNews&id="+news_id, function( data ) {
+        $.each(data, function(key, val) {
+            $('.list_vote_detail .view_vote[data-type='+key+']').text(val);
+            if($.cookie('VOTE_'+news_id+'_'+key)==1) $('.list_vote_detail .view_vote[data-type='+key+']').addClass('active');
+        });
+    });
+
+    $('.list_vote_detail .view_vote').click(function(){
+        var type = $(this).attr('data-type');
+        var link = "/?mod=api&act=voteNews&id="+news_id+"&type="+type;
+        if($(this).hasClass('active')) {
+            $(this).removeClass('active');
+            $.cookie('VOTE_'+news_id+'_'+type, 0, { expires: 7 });
+        }
+        else {
+            $(this).addClass('active');
+            link += '&plus';
+            $.cookie('VOTE_'+news_id+'_'+type, 1, { expires: 7 });
+        }
+        var obj = $(this);
+        $.ajax({
+    		type: "GET",
+    		url: link,
+    		dataType: "html",
+    		success: function(msg){
+    			obj.text(msg);
+    		}
+    	});
+        return false;
+    });
+});
+</script> 
+  <script type="text/javascript">
+$(document).ready(function(){
+    if ($.cookie('subscribe') != 'yes') {
+        setTimeout(function(){
+            $.cookie('subscribe', 'yes', { path: '/', expires: 30 });
+            $('#box_subscribe .user_log').click();
+            $('#box_subscribe .btn_login').click(function(){
+                var email = $('#box_subscribe .txt_login').val();
+                $.ajax({
+            		type: "GET",
+            		url: '/?mod=api&act=addSubscribe&email='+email,
+            		dataType: "html",
+            		success: function(msg){
+            			if(msg==1) {
+                            $('#box_subscribe .msg').text('Thành công!').show();
+                            setTimeout(function(){
+                                $('#box_subscribe').parents('.fancybox-skin').find('.fancybox-close').click();
+                            }, 1000);
+                        }
+                        else {
+                            $('#box_subscribe .msg').text('Sai email').show();
+                        }
+            		}
+            	});
+                return false;
+            });
+        }, 180000);
+    }
+});
+</script> 
+  <script type="text/javascript">
+$(document).ready(function(){
+    $('.btn_poll.js').click(function(){
+        if(!$(this).hasClass('js')) return false;
+        var val = $(this).parents('.js_boxvote').find('input[type=radio]:checked').val();
+        if(val!=undefined) {
+            $(this).parents('.js_boxvote').find('input[type=radio]').attr('disabled', 'disabled');
+            var id = $(this).attr('data-id');
+            var total = $(this).attr('data-total'); total++;
+            var obj = $(this).parents('.js_boxvote').find('.result_poll ul');
+            $(this).removeClass('js').css('opacity', '0.5');
+            $.ajax({
+        		type: "POST",
+        		url: '/?mod=api&act=setVote&id='+id,
+                data:  {t: val},
+        		dataType: "html",
+        		success: function(msg){
+                  var all_result = jQuery.parseJSON(msg);
+                  $.each(all_result, function(key, val) {
+                    var p = parseInt(val/total*100);
+                    obj.find('li:eq('+key+') span.color_poll').width(p+'%');
+                    obj.find('li:eq('+key+') .col3 span').text(p+'%');
+                  })
+        		}
+        	});
+        }
+        return false;
+    });
+    if($('#js_box_relation').length) {
+        var html = $('#js_box_relation').html();
+        $('#js_box_relation').html('');
+        var e = $('#content_detail .exp_content figure:eq(0)');
+        if(e.length) {
+            e = e.next();
+            if(e.length) e.after(html);
+        }
+    }
+    $('.letsop-leagues-selector').change(function(){
+        var val = $(this).val();
+        var url = 'http://tyso.bongda.com.vn/widgets/widget-standing.php?league_id='+val+'&season=1415&css=http%3A%2F%2Ftyso.bongda.com.vn%2Fcss%2Fbongda.com.vn%2Fstanding-xsmall.css';
+        $(this).parents('section').find('iframe').attr('src', url);
+    });
+});
+</script> 
+  <div id="box_login" style="width:360px;display: none;"> 
+   <form action="/?act=dumphome" method="post"> 
+    <div class="title_box">
+     Đăng nhập
+    </div> 
+    <ul class="sharing-zone login_social pkg"> 
+     <li><a href="/loginFB.php" class="sendsocial fb_share" rel="nofollow"><i class="fa fa-facebook"></i><span>Facebook</span></a></li> 
+     <li><a href="/loginGG.php" class="sendsocial glus_share" rel="nofollow"><i class="fa fa-google-plus"></i><span>Google+</span></a></li> 
+    </ul> 
+    <div class="line mar_bottom10 mar_top10"></div> 
+    <div class="mar_bottom10 cl999">
+     Tài khoản bongda.com.vn
+    </div> 
+    <div class="mar_bottom10"> 
+     <input name="email" type="text" class="txt_login" placeholder="Email"> 
+    </div> 
+    <div class="mar_bottom10"> 
+     <input name="password" type="password" class="txt_login" placeholder="Mật khẩu"> 
+    </div> 
+    <div class="pkg">
+     <a href="#box_forgot" class="fl user_log" rel="nofollow"><em>Quên mật khẩu ?</em></a> 
+     <input type="submit" class="btn_login fr" value="Đăng nhập"> 
+    </div> 
+    <div class="js_res" style="margin-top: 8px;"></div> 
+    <div class="line mar_bottom10 mar_top10"></div> 
+    <div class="text-center">
+     Bạn chưa có tài khoản 
+     <a href="#box_register" class="btn_blue user_log" rel="nofollow">Đăng ký ngay</a>
+    </div> 
+   </form> 
+  </div> 
+  <div id="box_register" style="width:500px;display: none;"> 
+   <form action="/?act=dumphome" method="post"> 
+    <div class="title_box">
+     Đăng Ký
+    </div> 
+    <div class="mar_bottom10 cl999">
+     Tạo tài khoản trên bongda.com.vn
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="email" type="text" class="txt_login" placeholder="Email"> 
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="fullname" type="text" class="txt_login" placeholder="Họ và tên"> 
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="password" type="password" class="txt_login" placeholder="Mật khẩu"> 
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="repassword" type="password" class="txt_login" placeholder="Nhập lại mật khẩu"> 
+    </div> 
+    <div class="mar_bottom15"> 
+     <label> <input type="hidden" name="link" value=""> <input type="hidden" name="captcha" value="1204"> <input type="checkbox" value="1" name="is_agree"> &nbsp; Tôi đồng ý với <a href="javascript:void(0);" class="dlinline" rel="nofollow"><i>Quy định</i></a> của bongda.com.vn</label> 
+    </div> 
+    <div class="line mar_bottom10 mar_top10"></div> 
+    <div class="pkg text-center"> 
+     <input type="submit" class="btn_login " value="Tạo tài khoản"> 
+     <div class="js_res" style="margin-top: 8px;"></div> 
+    </div> 
+    <div class="line mar_bottom10 mar_top10"></div> 
+    <div class="text-center">
+     Bạn đã có tài khoản 
+     <a href="#box_login" class="btn_blue user_log" rel="nofollow">Đăng nhập ngay</a>
+    </div> 
+   </form> 
+  </div> 
+  <div id="box_register_success" style="width:300px;display: none;"> 
+   <div class="title_box">
+    Đăng Ký thành công
+   </div> 
+   <div class="mar_bottom15 text-center">
+     Bạn đã đăng ký thành công vui lòng check email để kích hoạt tài khoản 
+   </div> 
+   <div class="line mar_bottom10 mar_top10"></div> 
+  </div> 
+  <div id="box_forgot" style="width:350px;display: none;"> 
+   <form action="/?act=dumphome" method="post"> 
+    <div class="title_box">
+     Quên mật khẩu
+    </div> 
+    <div class="mar_bottom10 cl999">
+     Lấy lại mật khẩu của bạn
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="email" type="text" class="txt_login" placeholder="Email"> 
+    </div> 
+    <div class="line mar_bottom10 mar_top10"></div> 
+    <div class="pkg text-center"> 
+     <input type="submit" class="btn_login " value="Lấy lại mật khẩu"> 
+     <div class="js_res" style="margin-top: 8px;"></div> 
+    </div> 
+   </form> 
+  </div> 
+  <div id="box_changepass" style="width:350px;display: none;"> 
+   <form action="/?act=dumphome" method="post"> 
+    <div class="title_box">
+     Đổi mật khẩu
+    </div> 
+    <div class="mar_bottom10 cl999">
+     Cập nhật lại mật khẩu của bạn
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="oldpassword" type="password" class="txt_login" placeholder="Mật khẩu cũ"> 
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="password" type="password" class="txt_login" placeholder="Mật khẩu mới"> 
+    </div> 
+    <div class="mar_bottom15"> 
+     <input name="repassword" type="password" class="txt_login" placeholder="Nhập lại mật khẩu"> 
+    </div> 
+    <div class="line mar_bottom10 mar_top10"></div> 
+    <div class="pkg text-center"> 
+     <input type="submit" class="btn_login " value="Cập nhật"> 
+     <div class="js_res" style="margin-top: 8px;"></div> 
+    </div> 
+   </form> 
+  </div> 
+  <div id="box_alert"> 
+   <a href="#box_alert" class="open user_log" style="display: none;"></a> 
+   <div class="text-center f16 mar_bottom20 mar_top20 msg"></div> 
+  </div> 
+  <script type="text/javascript" src="/templates/themes/js/profile.js?v=2"></script> 
+  <div id="advBabylon">
+   <div class="adv" id="ads_19" style="margin-top:0px;margin-bottom:0px;"></div>
+  </div> 
+  <div style="display: none;" id="zexadv_footerz"></div> 
+  <!-- BEGIN --> 
+  <!-- END --> 
+ </body>
+</html>
