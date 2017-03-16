@@ -3,6 +3,7 @@ package com.example.trungnguyen.newsapp;
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.support.annotation.NonNull;
 import android.support.design.widget.Snackbar;
@@ -19,6 +20,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.provider.ContactsContract;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -28,7 +30,15 @@ import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
+import org.java_websocket.client.WebSocketClient;
+import org.java_websocket.handshake.ServerHandshake;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -61,6 +71,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     private EditText mPasswordView;
     private View mProgressView;
     private View mLoginFormView;
+    private WebSocketClient client;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -86,12 +97,100 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         mEmailSignInButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
-                attemptLogin();
+                onLogin();
             }
         });
 
         mLoginFormView = findViewById(R.id.login_form);
         mProgressView = findViewById(R.id.login_progress);
+        connectWebSocket();
+    }
+    private void connectWebSocket(){
+        URI uri;
+        try{
+            uri = new URI("ws://192.168.1.102:8887");
+        }catch(URISyntaxException e){
+            e.printStackTrace();
+            return;
+        }
+
+        client = new WebSocketClient(uri) {
+            @Override
+            public void onOpen(ServerHandshake handshakedata) {
+                Log.d("Socket","Open");
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(LoginActivity.this,"Websocket Opened",Toast.LENGTH_SHORT).show();
+                    }
+                });
+
+                client.send("Hello from " + Build.MANUFACTURER + " " + Build.MODEL);
+            }
+
+            @Override
+            public void onMessage(String message) {
+                Log.d("Recieve",message);
+                try {
+                    JSONObject obj = new JSONObject(message);
+                    String topic = obj.getString("Topic");
+                    String rcode = obj.getString("Rcode");
+                    if(topic.equals("RLOGIN")){
+                        if(rcode.equals("200")){
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(LoginActivity.this,"Login Success",Toast.LENGTH_SHORT).show();
+                                }
+                            });
+                            Intent intent = new Intent(LoginActivity.this,MainActivity.class);
+                            startActivity(intent);
+                        }
+                        else{
+                            runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(LoginActivity.this,"Login Failed",Toast.LENGTH_SHORT).show();
+                                }
+                            });
+                        }
+                    }
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+            }
+
+            @Override
+            public void onClose(int code, String reason, boolean remote) {
+                Log.i("Websocket","Closed" + reason);
+            }
+
+            @Override
+            public void onError(Exception ex) {
+                Log.i("Websocket", "Error" + ex.getMessage());
+            }
+        };
+        client.connect();
+    }
+
+    private void onLogin(){
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                String id,pass;
+                id = mEmailView.getText().toString();
+                pass = mPasswordView.getText().toString();
+                JSONObject obj = new JSONObject();
+                try {
+                    obj.put("Topic","LOGIN");
+                    obj.put("Id",id);
+                    obj.put("Pass",pass);
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+                client.send(obj.toString());
+            }
+        });
     }
 
     private void populateAutoComplete() {
