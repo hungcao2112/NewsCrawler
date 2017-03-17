@@ -108,7 +108,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://192.168.1.102:8887");
+            uri = new URI("ws://172.30.62.56:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -143,7 +143,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
                                     Toast.makeText(LoginActivity.this,"Login Success",Toast.LENGTH_SHORT).show();
                                 }
                             });
-                            Intent intent = new Intent(LoginActivity.this,MainActivity.class);
+                            client.close();
+                            Intent intent = new Intent(LoginActivity.this,Main2Activity.class);
                             startActivity(intent);
                         }
                         else{

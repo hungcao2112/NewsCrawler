@@ -18,6 +18,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.trungnguyen.newsapp.adapter.ViewPagerAdapter;
+import com.example.trungnguyen.newsapp.fragment.FragmentCongNghe;
+import com.example.trungnguyen.newsapp.fragment.FragmentTheGioi;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     Toolbar toolbar;
@@ -95,13 +97,18 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 viewPager.setCurrentItem(position, true);
                 switch (position) {
                     case 0 : {
-                        lvGoiY();
-                    }
-                    case 1 : {
-                        lvTheGioi();
-                        Intent intent2 = new Intent(MainActivity.this, SearchActivity.class);
+                        Intent intent2 = new Intent(MainActivity.this, FragmentTheGioi.class);
                         startActivity(intent2);
                     }
+                    case 1: {
+                        Intent intent = new Intent(MainActivity.this,FragmentTheGioi.class);
+                        startActivity(intent);
+                    }
+                    case 2:{
+                        Intent intent = new Intent(MainActivity.this, FragmentCongNghe.class);
+                        startActivity(intent);
+                    }
+
 
                 }
             }
