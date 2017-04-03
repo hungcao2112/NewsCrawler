@@ -85,7 +85,7 @@ public class ConnectServer extends AppCompatActivity {
                                 String link = object.getString("Link");
                                 String image = object.getString("Images");
                                 Log.d("image",image);
-                                newsList.add(new News(i, title,link,image));
+                                newsList.add(new News(""+i, title,link,image));
                             }
                             mAdapter.notifyDataSetChanged();
                         }

@@ -43,11 +43,11 @@ public class FragmentCongNghe extends Fragment {
     }
     private void setNewsData(){
         newsList.clear();
-        newsList.add(new News(1, "title1", "link","imgae"));
-        newsList.add(new News(2, "title2", "link","imgae"));
-        newsList.add(new News(3, "title3", "link","imgae"));
-        newsList.add(new News(4, "title4", "link","imgae"));
-        newsList.add(new News(5, "title5", "link","imgae"));
+        newsList.add(new News("cn1", "title1", "link","imgae"));
+        newsList.add(new News("cn2", "title2", "link","imgae"));
+        newsList.add(new News("cn3", "title3", "link","imgae"));
+        newsList.add(new News("cn4", "title4", "link","imgae"));
+        newsList.add(new News("cn5", "title5", "link","imgae"));
         mAdapter.notifyDataSetChanged();
     }
 

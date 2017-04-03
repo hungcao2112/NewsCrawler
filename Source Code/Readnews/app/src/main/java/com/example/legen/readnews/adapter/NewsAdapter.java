@@ -12,6 +12,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.legen.readnews.ListActivity;
 import com.example.legen.readnews.NewsChildActivity;
 import com.example.legen.readnews.R;
 import com.example.legen.readnews.library.ItemClickListener;
@@ -101,7 +102,12 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
         holder.bt1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(context, "Button 1 clicked", Toast.LENGTH_LONG).show();
+                Intent intent_saved = new Intent(context, ListActivity.class);
+                intent_saved.putExtra("id", news.getId());
+                intent_saved.putExtra("title", news.getTitle());
+                intent_saved.putExtra("link", news.getLink());
+                intent_saved.putExtra("image", news.getImage());
+                Toast.makeText(context, "Bã thêm vào danh sách", Toast.LENGTH_LONG).show();
             }
         });
         holder.bt2.setOnClickListener(new View.OnClickListener() {

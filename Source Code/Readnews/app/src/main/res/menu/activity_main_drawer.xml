@@ -8,11 +8,6 @@
             android:icon="@drawable/ic_perm_identity_black_24dp"
             android:title="Đăng nhập" />
         <item
-            android:id="@+id/nav_suggest"
-            android:icon="@drawable/ic_textsms_white_24dp"
-            android:title="Gợi Ý"
-            />
-        <item
             android:id="@+id/nav_saved"
             android:icon="@drawable/ic_beenhere_white_24dp"
             android:title="Đã Lưu" />
