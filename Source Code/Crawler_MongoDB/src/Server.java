@@ -56,6 +56,7 @@ public class Server extends WebSocketServer{
 	@Override
 	public void onOpen(WebSocket conn, ClientHandshake handshake) {
 		System.out.println("new connection to " + conn.getRemoteSocketAddress());
+		c = conn;
 		
 	}
 
@@ -70,8 +71,15 @@ public class Server extends WebSocketServer{
 	    try {
 			JSONObject obj = new JSONObject(message);
 			String TOPIC = obj.getString("Topic");
-			if(TOPIC.equals("LOGIN")){
-				onLogin(message);
+//			if(TOPIC.equals("LOGIN")){
+//				onLogin(message);
+//			}
+			if(TOPIC.equals("GETLINK")){
+				onGetLink(message);
+			}
+			else{
+				onFailure();
+				System.out.println("Command Not Found !");
 			}
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
@@ -82,18 +90,18 @@ public class Server extends WebSocketServer{
 
 	@Override
 	public void onError(WebSocket conn, Exception ex) {
-	    System.err.println("an error occured on connection " + conn.getRemoteSocketAddress()  + ":" + ex);
+	   ex.printStackTrace();
 	}
 	
 	
 	public static void main(String[] args)throws IOException{
-		//BongDa bongda = new BongDa();
+//		BongDa bongda = new BongDa();
 //		bongda.craw();
 //		TheGioi thegioi = new TheGioi();
 //		thegioi.craw();
 //		CongNghe congnghe = new CongNghe();
 //		congnghe.craw();
-		String host = "192.168.1.106";
+		String host = "192.168.1.103";
 	    int port = 8887;
 	    server = new Server(new InetSocketAddress(host, port));
 	    server.run();
@@ -131,7 +139,7 @@ public class Server extends WebSocketServer{
 			object.add(new BasicDBObject("Pass", pass));
 			andQuery.put("$and", object);
 			
-			DBCursor cursor = col.find(andQuery);
+			DBCursor cursor = usr.find(andQuery);
 			if(cursor.hasNext()){
 				JSONObject ret = new JSONObject();
 				ret.put("Topic","RLOGIN");
@@ -145,6 +153,39 @@ public class Server extends WebSocketServer{
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
 			
+			e.printStackTrace();
+		}
+	}
+	public void onGetLink(String message){
+		try {
+			JSONObject obj = new JSONObject(message);
+			String type = obj.getString("Type");
+			JSONObject data = new JSONObject();
+			JSONArray array = new JSONArray();
+			data.put("Topic","RGETLINK");
+			data.put("Rcode","200");
+			BasicDBObject whereQuery = new BasicDBObject();
+			whereQuery.put("Type", type);
+			DBCursor cursor = col.find(whereQuery);
+			while(cursor.hasNext()) {
+			    array.put(cursor.next());
+			}
+			data.put("RLinks",array);
+			System.out.println(data.toString());
+			c.send(data.toString());
+			System.out.println(cursor.count());
+			System.out.println(array.length());
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	public void onFailure(){
+		JSONObject obj = new JSONObject();
+		try {
+			obj.put("Rcode","201");
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
