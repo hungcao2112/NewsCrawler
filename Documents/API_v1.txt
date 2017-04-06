@@ -1,0 +1,41 @@
+——————————API:———————————
+
+
+LOGIN EVENT:
+
+Client:
+
+— Ex:	{“Topic”:”LOGIN”,”Id”:”hung”,”Pass”:”1234”}
+
+Server returns:
+
+- Ex:   {“Topic”:”RLOGIN”,”Rcode”:”200”}
+
+
+
+
+
+GETLINK EVENT:
+
+Client:
+
+- Ex:   {“Topic”:”GETLINK”,”Type”:”Bong Da”}
+
+Server returns:
+
+- Ex:   {“Topic”:”RGETLINK”,[…]}
+
+
+
+
+
+FAVORITE EVENT:
+
+Client:
+
+- Ex:   {“Topic”:”FAV”}
+
+Server returns:
+
+- Ex: 	{“Topic”:”RFAV”,[…]}
+
