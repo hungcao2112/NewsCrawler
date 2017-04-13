@@ -18,6 +18,7 @@ import com.mongodb.DB;
 import com.mongodb.DBCollection;
 import com.mongodb.BasicDBObject;
 import com.mongodb.DBObject;
+import com.mongodb.WriteConcern;
 import com.mongodb.DBCursor;
 
 import java.util.ArrayList;
@@ -44,7 +45,7 @@ public class Server extends WebSocketServer{
 	public static MongoDB db = new MongoDB();
 	public static DB dbconn = db.getDB();
 	public static DBCollection col = dbconn.getCollection("Links");
-	public static DBCollection usr = dbconn.getCollection("User");
+	public static DBCollection usr = dbconn.getCollection("Users");
 	public static Document doc;
 	public static WebSocketServer server;
 	public static WebSocket c;
@@ -77,6 +78,9 @@ public class Server extends WebSocketServer{
 			if(TOPIC.equals("GETLINK")){
 				onGetLink(message);
 			}
+			else if(TOPIC.equals("HISTORY")){
+				onHistory(message);
+			}
 			else{
 				onFailure();
 				System.out.println("Command Not Found !");
@@ -101,7 +105,7 @@ public class Server extends WebSocketServer{
 //		thegioi.craw();
 //		CongNghe congnghe = new CongNghe();
 //		congnghe.craw();
-		String host = "192.168.1.103";
+		String host = "10.45.210.147";
 	    int port = 8887;
 	    server = new Server(new InetSocketAddress(host, port));
 	    server.run();
@@ -175,6 +179,21 @@ public class Server extends WebSocketServer{
 			c.send(data.toString());
 			System.out.println(cursor.count());
 			System.out.println(array.length());
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	public void onHistory(String message){
+		try {
+			JSONObject obj = new JSONObject(message);
+			String type = obj.getString("Type");
+			BasicDBObject query = new BasicDBObject();
+		    query.put("UserId", "hungcao");
+		    query.put("History.Type", type);
+		    BasicDBObject incValue = new BasicDBObject("History.$.Count", 1); // or "items.damage" ???
+		    BasicDBObject intModifier = new BasicDBObject("$inc", incValue);
+		    usr.update(query, intModifier, false, false, WriteConcern.SAFE);
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
