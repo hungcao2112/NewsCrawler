@@ -21,7 +21,7 @@ import java.util.List;
  * Created by legen on 3/23/2017.
  */
 
-public class FragmentTheGioi extends Fragment {
+public class FragmentGoiY extends Fragment {
     private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
     private NewsAdapter mAdapter;
@@ -43,7 +43,16 @@ public class FragmentTheGioi extends Fragment {
     }
     private void setNewsData(){
         newsList.clear();
-
+        newsList.add(new News("gy1", "title1", "https://www.google.com.vn","imgae"));
+        newsList.add(new News("gy2", "title2", "link","imgae"));
+        newsList.add(new News("gy3", "title3", "link","imgae"));
+        newsList.add(new News("gy4", "title4", "link","imgae"));
+        newsList.add(new News("gy5", "title5", "link","imgae"));
+        newsList.add(new News("gy6", "title4", "link","imgae"));
+        newsList.add(new News("gy7", "title5", "link","imgae"));
+        newsList.add(new News("gy8", "title4", "link","imgae"));
+        newsList.add(new News("gy9", "title5", "link","imgae"));
+        newsList.add(new News("gy10", "title5", "link","imgae"));
         mAdapter.notifyDataSetChanged();
     }
 

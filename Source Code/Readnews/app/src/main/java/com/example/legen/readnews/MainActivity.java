@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         drawerToggle.syncState();
 
+
     }
 
     private void Initialize(){
@@ -95,15 +96,11 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         int id = item.getItemId();
 
         if (id == R.id.nav_login) {
-            Intent intent = new Intent(this, LoginActivity.class);
+            Intent intent = new Intent(this, SigninActivity.class);
             startActivity(intent);
-        } else if (id == R.id.nav_suggest) {
-            Intent intent_suggest = new Intent(this, ListActivity.class);
-            Bundle bundle_suggest = new Bundle();
-
-
-        } else if (id == R.id.nav_saved) {
-
+        }  else if (id == R.id.nav_saved) {
+            Intent intent = new Intent(this, ListActivity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_about) {
 
         } else if (id == R.id.nav_exit) {

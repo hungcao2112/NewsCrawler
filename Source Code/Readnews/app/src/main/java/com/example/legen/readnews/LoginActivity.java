@@ -97,14 +97,14 @@ public class LoginActivity extends AppCompatActivity implements LoaderManager.Lo
             }
         });
 
-        mLoginFormView = findViewById(R.id.login_form);
+        mLoginFormView = findViewById(R.id.email_login_form);
         mProgressView = findViewById(R.id.login_progress);
         connectWebSocket();
     }
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://192.168.100.5:8887");
+            uri = new URI("ws://172.30.62.56:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
