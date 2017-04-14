@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -34,6 +35,7 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
         public ImageView image;
         public Button bt1, bt2;
         public LinearLayout linearLayout;
+        public RelativeLayout item_layout;
         private ItemClickListener clickListener;
         public MyViewHolder(View itemView) {
             super(itemView);
@@ -41,6 +43,7 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
             link = (TextView)itemView.findViewById(R.id.item_link);
             image = (ImageView)itemView.findViewById(R.id.item_imageView);
             linearLayout = (LinearLayout) itemView.findViewById(R.id.item_explore);
+            item_layout = (RelativeLayout) itemView.findViewById(R.id.group_layout);
             bt1 = (Button) itemView.findViewById(R.id.explore_bt1);
             bt2 = (Button) itemView.findViewById(R.id.explore_bt2);
             itemView.setOnClickListener(this);
@@ -89,7 +92,7 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
                     Toast.makeText(context, "longclick clicked", Toast.LENGTH_LONG).show();
                     click = true;
                 } else {
-                    if(click = true) {
+                    if(click = false) {
                         holder.linearLayout.setVisibility(View.GONE);
                         click = false;
                     }
@@ -102,18 +105,20 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
         holder.bt1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                holder.item_layout.setVisibility(View.GONE);
+                Toast.makeText(context, "Đẵ Ẩn", Toast.LENGTH_LONG).show();
+            }
+        });
+        holder.bt2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
                 Intent intent_saved = new Intent(context, ListActivity.class);
                 intent_saved.putExtra("id", news.getId());
                 intent_saved.putExtra("title", news.getTitle());
                 intent_saved.putExtra("link", news.getLink());
                 intent_saved.putExtra("image", news.getImage());
                 Toast.makeText(context, "Bã thêm vào danh sách", Toast.LENGTH_LONG).show();
-            }
-        });
-        holder.bt2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Toast.makeText(context, "Button 2 clicked", Toast.LENGTH_LONG).show();
+
             }
         });
     }
