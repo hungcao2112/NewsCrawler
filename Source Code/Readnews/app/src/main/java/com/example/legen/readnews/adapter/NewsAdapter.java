@@ -13,11 +13,11 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.legen.readnews.ListActivity;
 import com.example.legen.readnews.NewsChildActivity;
 import com.example.legen.readnews.R;
 import com.example.legen.readnews.library.ItemClickListener;
 import com.example.legen.readnews.library.News;
+import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
@@ -29,7 +29,9 @@ import static com.example.legen.readnews.R.layout.item;
 
 public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> {
     private List<News> newsList;
+    private List<News> savelist;
     Context context;
+
     public class MyViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener {
         public TextView title, link;
         public ImageView image;
@@ -37,11 +39,12 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
         public LinearLayout linearLayout;
         public RelativeLayout item_layout;
         private ItemClickListener clickListener;
+
         public MyViewHolder(View itemView) {
             super(itemView);
             title = (TextView) itemView.findViewById(R.id.item_title);
-            link = (TextView)itemView.findViewById(R.id.item_link);
-            image = (ImageView)itemView.findViewById(R.id.item_imageView);
+            link = (TextView) itemView.findViewById(R.id.item_link);
+            image = (ImageView) itemView.findViewById(R.id.item_imageView);
             linearLayout = (LinearLayout) itemView.findViewById(R.id.item_explore);
             item_layout = (RelativeLayout) itemView.findViewById(R.id.group_layout);
             bt1 = (Button) itemView.findViewById(R.id.explore_bt1);
@@ -49,9 +52,11 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
             itemView.setOnClickListener(this);
             itemView.setOnLongClickListener(this);
         }
+
         public void setClickListener(ItemClickListener itemClickListener) {
             this.clickListener = itemClickListener;
         }
+
         @Override
         public void onClick(View v) {
             clickListener.onClick(v, getPosition(), false);
@@ -64,7 +69,7 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
         }
     }
 
-    public NewsAdapter(List<News> newsList){
+    public NewsAdapter(List<News> newsList) {
         this.newsList = newsList;
     }
 
@@ -83,16 +88,17 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
         final News news = newsList.get(position);
         holder.title.setText(news.getTitle());
         holder.link.setText(news.getLink());
+        Picasso.with(context).load(news.getImage()).into(holder.image);
         holder.setClickListener(new ItemClickListener() {
             @Override
             public void onClick(View view, int position, boolean isLongClick) {
                 boolean click = false;
                 if (isLongClick) {
                     holder.linearLayout.setVisibility(View.VISIBLE);
-                    Toast.makeText(context, "longclick clicked", Toast.LENGTH_LONG).show();
+                    Toast.makeText(context, "longclick clicked", Toast.LENGTH_SHORT).show();
                     click = true;
                 } else {
-                    if(click = false) {
+                    if (click = false) {
                         holder.linearLayout.setVisibility(View.GONE);
                         click = false;
                     }
@@ -106,18 +112,16 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
             @Override
             public void onClick(View v) {
                 holder.item_layout.setVisibility(View.GONE);
-                Toast.makeText(context, "Đẵ Ẩn", Toast.LENGTH_LONG).show();
+                Toast.makeText(context, "Đã ẩn", Toast.LENGTH_SHORT).show();
             }
         });
         holder.bt2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent_saved = new Intent(context, ListActivity.class);
-                intent_saved.putExtra("id", news.getId());
-                intent_saved.putExtra("title", news.getTitle());
-                intent_saved.putExtra("link", news.getLink());
-                intent_saved.putExtra("image", news.getImage());
-                Toast.makeText(context, "Bã thêm vào danh sách", Toast.LENGTH_LONG).show();
+                //savelist.add(news);
+                //Intent intent_saved = new Intent(context, ListActivity.class);
+                //intent_saved.putExtra("savednews", (Parcelable) savelist);
+                Toast.makeText(context, "Bã thêm vào danh sách", Toast.LENGTH_SHORT).show();
 
             }
         });
@@ -127,4 +131,5 @@ public class NewsAdapter extends RecyclerView.Adapter<NewsAdapter.MyViewHolder> 
     public int getItemCount() {
         return newsList.size();
     }
+
 }

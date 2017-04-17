@@ -6,14 +6,24 @@ import android.support.v4.app.Fragment;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.example.legen.readnews.R;
 import com.example.legen.readnews.adapter.NewsAdapter;
 import com.example.legen.readnews.library.News;
 
+import org.java_websocket.client.WebSocketClient;
+import org.java_websocket.handshake.ServerHandshake;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,9 +32,12 @@ import java.util.List;
  */
 
 public class FragmentGoiY extends Fragment {
+
     private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
     private NewsAdapter mAdapter;
+    public static String link, title;
+    public WebSocketClient client;
     Context context;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -37,24 +50,95 @@ public class FragmentGoiY extends Fragment {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
-        setNewsData();
+        connectWebSocket();
 
         return rootView;
     }
-    private void setNewsData(){
-        newsList.clear();
-        newsList.add(new News("gy1", "title1", "https://www.google.com.vn","imgae"));
-        newsList.add(new News("gy2", "title2", "link","imgae"));
-        newsList.add(new News("gy3", "title3", "link","imgae"));
-        newsList.add(new News("gy4", "title4", "link","imgae"));
-        newsList.add(new News("gy5", "title5", "link","imgae"));
-        newsList.add(new News("gy6", "title4", "link","imgae"));
-        newsList.add(new News("gy7", "title5", "link","imgae"));
-        newsList.add(new News("gy8", "title4", "link","imgae"));
-        newsList.add(new News("gy9", "title5", "link","imgae"));
-        newsList.add(new News("gy10", "title5", "link","imgae"));
-        mAdapter.notifyDataSetChanged();
-    }
+    private void connectWebSocket(){
+        URI uri;
+        try{
+            uri = new URI("ws://192.168.1.105:8887");
+        }catch(URISyntaxException e){
+            e.printStackTrace();
+            return;
+        }
 
+        client = new WebSocketClient(uri) {
+            @Override
+            public void onOpen(ServerHandshake handshakedata) {
+                Log.d("Socket","Open");
+                getActivity().runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        Toast.makeText(getActivity(),"Goi Y",Toast.LENGTH_SHORT).show();
+                    }
+                });
+
+                onHistory("Goi Y");
+            }
+
+            public void onHistory(String type){
+                JSONObject obj = new JSONObject();
+                try {
+                    obj.put("Topic","HISTORY");
+                    obj.put("Type",type);
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+                client.send(obj.toString());
+            }
+
+            @Override
+            public void onMessage(final String message) {
+                Log.d("Recieve",message);
+                getActivity().runOnUiThread(new Runnable(){
+                    @Override
+                    public void run() {
+                        try {
+                            JSONObject obj = new JSONObject(message);
+                            String topic = obj.getString("Topic");
+                            String rcode = obj.getString("Rcode");
+                            if(topic.equals("RGETLINK")){
+                                if(rcode.equals("200")){
+                                    Log.d("connect","success");
+                                    JSONArray array = obj.getJSONArray("RLinks");
+                                    for(int i=0;i<array.length();i++){
+                                        JSONObject object = array.getJSONObject(i);
+                                        title = object.getString("Title");
+                                        link = object.getString("Link");
+                                        String image = object.getString("Images");
+                                        newsList.add(new News("tg"+i+1,title,link,image));
+                                        Log.d("image",image);
+                                    }
+                                    mAdapter.notifyDataSetChanged();
+                                }
+                                else{
+                                    getActivity().runOnUiThread(new Runnable() {
+                                        @Override
+                                        public void run() {
+                                            Toast.makeText(getActivity(),"Get Data Failed",Toast.LENGTH_SHORT).show();
+                                        }
+                                    });
+                                }
+                            }
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                    }
+                });
+            }
+
+            @Override
+            public void onClose(int code, String reason, boolean remote) {
+                Log.i("Websocket","Closed" + reason);
+            }
+
+            @Override
+            public void onError(Exception ex) {
+                Log.i("Websocket", "Error" + ex.getMessage());
+            }
+        };
+        client.connect();
+    }
 
 }

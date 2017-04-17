@@ -2,6 +2,7 @@ package com.example.legen.readnews;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.GravityCompat;
@@ -43,6 +44,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         drawerToggle.syncState();
 
+        AppBarLayout appBarLayout = (AppBarLayout)findViewById(R.id.appbar);
+        appBarLayout.setExpanded(false, true);
 
     }
 
@@ -96,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         int id = item.getItemId();
 
         if (id == R.id.nav_login) {
-            Intent intent = new Intent(this, SigninActivity.class);
+            Intent intent = new Intent(this, LoginActivity.class);
             startActivity(intent);
         }  else if (id == R.id.nav_saved) {
             Intent intent = new Intent(this, ListActivity.class);

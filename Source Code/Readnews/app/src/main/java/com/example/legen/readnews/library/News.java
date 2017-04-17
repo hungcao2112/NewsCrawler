@@ -1,10 +1,12 @@
 package com.example.legen.readnews.library;
 
+import java.io.Serializable;
+
 /**
  * Created by legen on 3/23/2017.
  */
 
-public class News {
+public class News implements Serializable {
     String id;
     String title, link;
     String image;

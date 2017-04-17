@@ -14,12 +14,13 @@ import com.example.legen.readnews.library.News;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ListActivity extends AppCompatActivity {
+public class ListActivity extends AppCompatActivity  {
 
     private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
     private NewsAdapter mAdapter;
-    String id, title, link, image;
+    News news;
+    Intent intent = getIntent();
     Context context;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,22 +33,18 @@ public class ListActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
-        Intent intent = getIntent();
-        id = intent.getStringExtra("id");
-        title = intent.getStringExtra("title");
-        link = intent.getStringExtra("link");
-        image = intent.getStringExtra("image");
-        setdata();
+        //newsList = (List<News>) getIntent().getSerializableExtra("saveznews");
+
+
+        //setdata();
 
     }
-    private void setdata(){
-        newsList.clear();
-        newsList.add(new News("gy1", "title1", "https://www.google.com.vn","imgae"));
-        newsList.add(new News("gy2", "title2", "link","imgae"));
-        newsList.add(new News("gy3", "title3", "link","imgae"));
-        newsList.add(new News("gy4", "title4", "link","imgae"));
-        newsList.add(new News("gy5", "title5", "link","imgae"));
-        newsList.add(new News("gy5", "title5", "link","imgae"));
-        newsList.add(new News("gy5", "title5", "link","imgae"));
-    }
+//    private void setdata(){
+//        newsList.clear();
+//        newsList.add(news);
+//        newsList.add(new News("gy2", "title2", "link","imgae"));
+//        newsList.add(new News("gy3", "title3", "link","imgae"));
+//        newsList.add(new News("gy4", "title4", "link","imgae"));
+//        newsList.add(new News("gy5", "title5", "link","imgae"));
+//    }
 }
