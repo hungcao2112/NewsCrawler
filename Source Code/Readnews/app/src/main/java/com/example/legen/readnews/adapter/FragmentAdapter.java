@@ -8,7 +8,6 @@ import com.example.legen.readnews.fragment.FragmentCongNghe;
 import com.example.legen.readnews.fragment.FragmentDuLich;
 import com.example.legen.readnews.fragment.FragmentGiaiTri;
 import com.example.legen.readnews.fragment.FragmentGiaoDuc;
-import com.example.legen.readnews.fragment.FragmentGoiY;
 import com.example.legen.readnews.fragment.FragmentSucKhoe;
 import com.example.legen.readnews.fragment.FragmentTheGioi;
 import com.example.legen.readnews.fragment.FragmentTheThao;
@@ -26,7 +25,6 @@ public class FragmentAdapter extends FragmentPagerAdapter{
 
     public FragmentAdapter(FragmentManager fm) {
         super(fm);
-        fragments.add(new FragmentGoiY());
         fragments.add(new FragmentTheGioi());
         fragments.add(new FragmentTheThao());
         fragments.add(new FragmentCongNghe());
@@ -36,7 +34,6 @@ public class FragmentAdapter extends FragmentPagerAdapter{
         fragments.add(new FragmentDuLich());
 
 
-        title.add("Gợi Ý");
         title.add("Thế giới");
         title.add("Thể thao");
         title.add("Công nghệ");

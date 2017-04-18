@@ -72,14 +72,17 @@ public class Server extends WebSocketServer{
 	    try {
 			JSONObject obj = new JSONObject(message);
 			String TOPIC = obj.getString("Topic");
-//			if(TOPIC.equals("LOGIN")){
-//				onLogin(message);
-//			}
-			if(TOPIC.equals("GETLINK")){
+			if(TOPIC.equals("LOGIN")){
+				onLogin(message);
+			}
+			else if(TOPIC.equals("GETLINK")){
 				onGetLink(message);
 			}
 			else if(TOPIC.equals("HISTORY")){
 				onHistory(message);
+			}
+			else if(TOPIC.equals("GETSUGGEST")){
+				onSuggest(message);
 			}
 			else{
 				onFailure();
@@ -105,7 +108,7 @@ public class Server extends WebSocketServer{
 //		thegioi.craw();
 //		CongNghe congnghe = new CongNghe();
 //		congnghe.craw();
-		String host = "10.45.210.147";
+		String host = "192.168.1.100";
 	    int port = 8887;
 	    server = new Server(new InetSocketAddress(host, port));
 	    server.run();
@@ -135,11 +138,11 @@ public class Server extends WebSocketServer{
 	public void onLogin(String message){
 		try {
 			JSONObject obj = new JSONObject(message);
-			String id = obj.getString("Id");
+			String id = obj.getString("UserId");
 			String pass = obj.getString("Pass");
 			BasicDBObject andQuery = new BasicDBObject();
 			List<BasicDBObject> object = new ArrayList<BasicDBObject>();
-			object.add(new BasicDBObject("Id", id));
+			object.add(new BasicDBObject("UserId", id));
 			object.add(new BasicDBObject("Pass", pass));
 			andQuery.put("$and", object);
 			
@@ -153,6 +156,7 @@ public class Server extends WebSocketServer{
 				JSONObject ret = new JSONObject();
 				ret.put("Topic","RLOGIN");
 				ret.put("Topic", "201");
+				c.send(ret.toString());
 			}
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
@@ -194,6 +198,29 @@ public class Server extends WebSocketServer{
 		    BasicDBObject incValue = new BasicDBObject("History.$.Count", 1); // or "items.damage" ???
 		    BasicDBObject intModifier = new BasicDBObject("$inc", incValue);
 		    usr.update(query, intModifier, false, false, WriteConcern.SAFE);
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+	public void onSuggest(String message){
+		try {
+			JSONObject obj = new JSONObject(message);
+			JSONObject data = new JSONObject();
+			JSONArray array = new JSONArray();
+			data.put("Topic","RGETSUGGEST");
+			data.put("Rcode", "200");
+			String id = obj.getString("UserId");
+			BasicDBObject query = new BasicDBObject();
+		    query.put("UserId", id);
+		    DBCursor cursor = usr.find(query);
+		    while(cursor.hasNext()){
+		    	array.put(cursor.next());
+		    }
+		    data.put("Data",array);
+		    System.out.println(data.toString());
+		    c.send(data.toString());
+		    
 		} catch (JSONException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

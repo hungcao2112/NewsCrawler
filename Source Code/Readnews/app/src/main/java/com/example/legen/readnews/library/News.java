@@ -1,27 +1,26 @@
 package com.example.legen.readnews.library;
 
-import java.io.Serializable;
-
 /**
  * Created by legen on 3/23/2017.
  */
 
-public class News implements Serializable {
-    String id;
+public class News {
+    int id;
     String title, link;
-    String image;
+    String image,type;
     public News(){
     }
-    public News(String id, String title, String link, String image){
+    public News(int id, String title, String link,String type,String image){
         this.id = id;
         this.title = title;
         this.link = link;
         this.image = image;
+        this.type = type;
     }
-    public String getId() {
+    public int getId() {
         return id;
     }
-    public void setId(String id) {this.id = id;}
+    public void setId(int id) {this.id = id;}
     public String getTitle(){
         return title;
     }
@@ -39,5 +38,11 @@ public class News implements Serializable {
     }
     public void setImage(String image){
         this.image = image;
+    }
+    public String getType(){
+        return type;
+    }
+    public void setType(String type){
+        this.type = type;
     }
 }

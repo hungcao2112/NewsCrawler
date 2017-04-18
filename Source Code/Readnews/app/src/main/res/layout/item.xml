@@ -6,17 +6,17 @@
     <RelativeLayout
         android:id="@+id/group_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:background="@drawable/khung_2"
         android:padding="16dp">
 
         <ImageView
             android:id="@+id/item_imageView"
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
-            android:layout_marginRight="10dp"
+            android:layout_marginRight="16dp"
             android:src="@drawable/ic_warning_black_48dp" />
 
         <TextView
@@ -26,13 +26,12 @@
             android:layout_alignParentTop="true"
             android:layout_toRightOf="@+id/item_imageView"
             android:text="Title"
-            android:textSize="18sp" />
+            android:textSize="30sp" />
 
         <TextView
             android:id="@+id/item_link"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textColor="#1824cf"
             android:layout_below="@+id/item_title"
             android:layout_toRightOf="@+id/item_imageView"
             android:text="Description" />

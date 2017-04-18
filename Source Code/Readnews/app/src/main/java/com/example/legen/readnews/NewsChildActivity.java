@@ -13,7 +13,6 @@ public class NewsChildActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_news_child);
-        getSupportActionBar().hide();
         Intent intent = getIntent();
         webView = (WebView) findViewById(R.id.child_webview);
         webView.setWebViewClient(new MyBrowser());
