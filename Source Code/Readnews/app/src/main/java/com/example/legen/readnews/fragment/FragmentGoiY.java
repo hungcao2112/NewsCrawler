@@ -31,7 +31,7 @@ import java.util.List;
  * Created by legen on 3/23/2017.
  */
 
-public class FragmentTheGioi extends Fragment {
+public class FragmentGoiY extends Fragment {
 
     private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
@@ -70,17 +70,17 @@ public class FragmentTheGioi extends Fragment {
                 getActivity().runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        Toast.makeText(getActivity(),"The Gioi",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getActivity(),"Goi Y",Toast.LENGTH_SHORT).show();
                     }
                 });
 
-                onGetLink("The Gioi");
+                onHistory("Goi Y");
             }
 
-            public void onGetLink(String type){
+            public void onHistory(String type){
                 JSONObject obj = new JSONObject();
                 try {
-                    obj.put("Topic","GETLINK");
+                    obj.put("Topic","HISTORY");
                     obj.put("Type",type);
                 } catch (JSONException e) {
                     e.printStackTrace();

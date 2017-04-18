@@ -2,6 +2,7 @@ package com.example.legen.readnews;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.GravityCompat;
@@ -42,6 +43,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         drawerToggle.syncState();
+
+        AppBarLayout appBarLayout = (AppBarLayout)findViewById(R.id.appbar);
+        appBarLayout.setExpanded(false, true);
 
     }
 
@@ -97,11 +101,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         if (id == R.id.nav_login) {
             Intent intent = new Intent(this, LoginActivity.class);
             startActivity(intent);
-        } else if (id == R.id.nav_suggest) {
-            Intent intent_suggest = new Intent(this, Suggestions.class);
-            startActivity(intent_suggest);
-        } else if (id == R.id.nav_saved) {
-
+        }  else if (id == R.id.nav_saved) {
+            Intent intent = new Intent(this, ListActivity.class);
+            startActivity(intent);
         } else if (id == R.id.nav_about) {
 
         } else if (id == R.id.nav_exit) {
