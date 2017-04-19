@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1492619106215">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1492619106215" name\="eclipse" path\="E\:\\LapTrinhJava\\eclipse-java-neon-3-RC3-win32-x86_64\\eclipse"/>\r\n</vmType>\r\n</vmSettings>\r\n

@@ -108,7 +108,9 @@ public class Server extends WebSocketServer{
 //		thegioi.craw();
 //		CongNghe congnghe = new CongNghe();
 //		congnghe.craw();
-		String host = "192.168.1.100";
+//		XaHoi xahoi = new XaHoi();
+//		xahoi.craw();
+		String host = "192.168.1.103";
 	    int port = 8887;
 	    server = new Server(new InetSocketAddress(host, port));
 	    server.run();
