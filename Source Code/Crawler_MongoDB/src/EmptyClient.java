@@ -8,7 +8,8 @@ import org.java_websocket.handshake.ServerHandshake;
 
 public class EmptyClient extends WebSocketClient {
 
-    public EmptyClient(URI serverUri, Draft draft) {
+	public static int i=0;
+	public EmptyClient(URI serverUri, Draft draft) {
         super(serverUri, draft);
     }
 
@@ -37,7 +38,13 @@ public class EmptyClient extends WebSocketClient {
     }
 
     public static void main(String[] args) throws URISyntaxException {      
-        WebSocketClient client = new EmptyClient(new URI("ws://localhost:8887"), new Draft_10());
-        client.connect();
+        while(true){
+        	WebSocketClient client = new EmptyClient(new URI("ws://192.168.1.101:8887"), new Draft_10());
+        	client.connect();
+        	//client.send("hung");
+        	System.out.println("Connections: "+i);
+        	i++;
+        }
     }
+ 
 }
