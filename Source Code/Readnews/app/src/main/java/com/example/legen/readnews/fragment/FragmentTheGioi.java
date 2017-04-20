@@ -36,7 +36,7 @@ public class FragmentTheGioi extends Fragment {
     private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
     private NewsAdapter mAdapter;
-    public static String link, title;
+    public static String link, title,image;
     public WebSocketClient client;
     Context context;
     @Override
@@ -57,7 +57,7 @@ public class FragmentTheGioi extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://192.168.1.105:8887");
+            uri = new URI("ws://10.45.94.67:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -106,9 +106,12 @@ public class FragmentTheGioi extends Fragment {
                                         JSONObject object = array.getJSONObject(i);
                                         title = object.getString("Title");
                                         link = object.getString("Link");
-                                        String image = object.getString("Images");
-                                        newsList.add(new News("tg"+i+1,title,link,image));
-                                        Log.d("image",image);
+                                        image = object.getString("Images");
+                                        if(!image.isEmpty()){
+                                            newsList.add(new News("tg"+i+1,title,link,image));
+                                            Log.d("image",image);
+                                        }
+
                                     }
                                     mAdapter.notifyDataSetChanged();
                                 }

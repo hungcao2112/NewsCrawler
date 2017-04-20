@@ -1,4 +1,6 @@
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -6,9 +8,10 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import com.mongodb.BasicDBObject;
+import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 
-public class TheGioi extends BongDa {
+public class TheGioi implements Crawler {
 	@Override
 	public void craw(){
 		try{
@@ -24,8 +27,17 @@ public class TheGioi extends BongDa {
 								 							.append("Type", "The Gioi")
 								 							.append("Images",doc2.body().getElementsByAttributeValueContaining("src","http://img.f29.vnecdn.net/" ).attr("src"));
 
-						System.out.println(doc2.body().getElementsByAttributeValueContaining("src","http://img.f29.vnecdn.net/" ).attr("src"));
-						Server.col.insert(links);
+						BasicDBObject andQuery = new BasicDBObject();
+						List<BasicDBObject> object = new ArrayList<BasicDBObject>();
+						object.add(new BasicDBObject("Type", "The Gioi"));
+						object.add(new BasicDBObject("Link", link.attr("abs:href")));
+						andQuery.put("$and", object);
+						
+						DBCursor cursor = Server.col.find(andQuery);
+						if(cursor.count()==0){
+							Server.col.insert(links);
+							System.out.println(link.attr("abs:href"));
+						}
 					//}
 				}
 			}

@@ -57,7 +57,7 @@ public class FragmentGoiY extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://192.168.1.105:8887");
+            uri = new URI("ws://10.45.94.67:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -74,7 +74,7 @@ public class FragmentGoiY extends Fragment {
                     }
                 });
 
-                onHistory("Goi Y");
+                //onHistory("Goi Y");
             }
 
             public void onHistory(String type){
@@ -91,41 +91,41 @@ public class FragmentGoiY extends Fragment {
             @Override
             public void onMessage(final String message) {
                 Log.d("Recieve",message);
-                getActivity().runOnUiThread(new Runnable(){
-                    @Override
-                    public void run() {
-                        try {
-                            JSONObject obj = new JSONObject(message);
-                            String topic = obj.getString("Topic");
-                            String rcode = obj.getString("Rcode");
-                            if(topic.equals("RGETLINK")){
-                                if(rcode.equals("200")){
-                                    Log.d("connect","success");
-                                    JSONArray array = obj.getJSONArray("RLinks");
-                                    for(int i=0;i<array.length();i++){
-                                        JSONObject object = array.getJSONObject(i);
-                                        title = object.getString("Title");
-                                        link = object.getString("Link");
-                                        String image = object.getString("Images");
-                                        newsList.add(new News("tg"+i+1,title,link,image));
-                                        Log.d("image",image);
-                                    }
-                                    mAdapter.notifyDataSetChanged();
-                                }
-                                else{
-                                    getActivity().runOnUiThread(new Runnable() {
-                                        @Override
-                                        public void run() {
-                                            Toast.makeText(getActivity(),"Get Data Failed",Toast.LENGTH_SHORT).show();
-                                        }
-                                    });
-                                }
-                            }
-                        } catch (JSONException e) {
-                            e.printStackTrace();
-                        }
-                    }
-                });
+//                getActivity().runOnUiThread(new Runnable(){
+//                    @Override
+//                    public void run() {
+//                        try {
+//                            JSONObject obj = new JSONObject(message);
+//                            String topic = obj.getString("Topic");
+//                            String rcode = obj.getString("Rcode");
+//                            if(topic.equals("RGETLINK")){
+//                                if(rcode.equals("200")){
+//                                    Log.d("connect","success");
+//                                    JSONArray array = obj.getJSONArray("RLinks");
+//                                    for(int i=0;i<array.length();i++){
+//                                        JSONObject object = array.getJSONObject(i);
+//                                        title = object.getString("Title");
+//                                        link = object.getString("Link");
+//                                        String image = object.getString("Images");
+//                                        newsList.add(new News("tg"+i+1,title,link,image));
+//                                        Log.d("image",image);
+//                                    }
+//                                    mAdapter.notifyDataSetChanged();
+//                                }
+//                                else{
+//                                    getActivity().runOnUiThread(new Runnable() {
+//                                        @Override
+//                                        public void run() {
+//                                            Toast.makeText(getActivity(),"Get Data Failed",Toast.LENGTH_SHORT).show();
+//                                        }
+//                                    });
+//                                }
+//                            }
+//                        } catch (JSONException e) {
+//                            e.printStackTrace();
+//                        }
+//                    }
+//                });
             }
 
             @Override

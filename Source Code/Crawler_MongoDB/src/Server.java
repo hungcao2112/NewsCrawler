@@ -49,7 +49,7 @@ public class Server extends WebSocketServer{
 	public static Document doc;
 	public static WebSocketServer server;
 	public static WebSocket c;
-	
+	int i=0;
 	public Server(InetSocketAddress address) {
 	    super(address);
 	}
@@ -57,8 +57,8 @@ public class Server extends WebSocketServer{
 	@Override
 	public void onOpen(WebSocket conn, ClientHandshake handshake) {
 		System.out.println("new connection to " + conn.getRemoteSocketAddress());
-		c = conn;
-		
+		System.out.println("Number of Connections: " + i++);
+		c=conn;
 	}
 
 	@Override
@@ -108,13 +108,11 @@ public class Server extends WebSocketServer{
 //		thegioi.craw();
 //		CongNghe congnghe = new CongNghe();
 //		congnghe.craw();
-		String host = "192.168.1.100";
+		String host = "10.45.94.67";
 	    int port = 8887;
 	    server = new Server(new InetSocketAddress(host, port));
 	    server.run();
-		
-        
-	}
+	    }
 //	public static void writeBuffer(String content){
 //		try (BufferedWriter bw = new BufferedWriter(new FileWriter("/Users/caonguyen/text.txt"))) {
 //			bw.write(content);
