@@ -16,7 +16,7 @@ public class MongoDB {
 		try{
 			MongoClient mongoClient = new MongoClient("localhost",27017);
 			
-			db = mongoClient.getDB("test");
+			db = mongoClient.getDB("Data");
 			System.out.println("Connect Successfully");
 			
 	    }catch(Exception e){

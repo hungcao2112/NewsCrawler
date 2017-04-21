@@ -13,7 +13,7 @@ import com.mongodb.DBObject;
 
 public class TheGioi implements Crawler {
 	@Override
-	public void craw(){
+	public void craw() throws IOException{
 		try{
 			Server.doc = Jsoup.connect("http://vnexpress.net/tin-tuc/the-gioi").get();
 			//get all links and recursively call the processPage method
@@ -21,7 +21,7 @@ public class TheGioi implements Crawler {
 			for(Element link: questions){
 				if(link.attr("href").contains("vnexpress.net")){
 					Document doc2 = Jsoup.connect(link.attr("abs:href")).ignoreHttpErrors(true).get();
-					//if(!doc2.body().getElementsByAttributeValueContaining("src", "media.bongda.com.vn/files").attr("src").isEmpty()){
+					//if(!doc2.body().getElementsByAttributeValueContaining("src", "").attr("src").isEmpty()){
 						DBObject links = new BasicDBObject().append("Link", link.attr("abs:href"))
 								 							.append("Title", doc2.title())
 								 							.append("Type", "The Gioi")

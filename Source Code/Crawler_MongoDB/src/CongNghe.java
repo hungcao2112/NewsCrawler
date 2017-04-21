@@ -18,7 +18,7 @@ public class CongNghe implements Crawler{
 		//get all links and recursively call the processPage method
 		Elements questions = Server.doc.select("a[href]");
 		for(Element link: questions){
-			if(link.attr("href").contains("")){
+			if(link.attr("href").contains("thongtincongnghe.com")){
 				Document doc2 = Jsoup.connect(link.attr("abs:href")).ignoreHttpErrors(true).get();
 				//if(!doc2.body().getElementsByAttributeValueContaining("src", "https://static.techtalk.vn/").attr("src").contains("https://static.techtalk.vn/wp-content/uploads/2016/02/logoretina.png")){
 					DBObject links = new BasicDBObject().append("Link", link.attr("abs:href"))
