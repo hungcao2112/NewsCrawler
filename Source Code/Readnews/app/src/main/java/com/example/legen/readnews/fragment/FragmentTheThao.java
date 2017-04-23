@@ -36,7 +36,7 @@ public class FragmentTheThao extends Fragment {
     private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
     private NewsAdapter mAdapter;
-    public static String link, title, image;
+    public static String link, title;
     public WebSocketClient client;
     Context context;
     @Override
@@ -50,6 +50,7 @@ public class FragmentTheThao extends Fragment {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
+        newsList.clear();
         connectWebSocket();
 
         return rootView;
@@ -57,7 +58,7 @@ public class FragmentTheThao extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.45.94.67:8887");
+            uri = new URI("ws://10.0.131.223:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -66,14 +67,7 @@ public class FragmentTheThao extends Fragment {
         client = new WebSocketClient(uri) {
             @Override
             public void onOpen(ServerHandshake handshakedata) {
-                Log.d("Socket","Open");
-                getActivity().runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        Toast.makeText(getActivity(),"Bong Da",Toast.LENGTH_SHORT).show();
-                    }
-                });
-
+                Log.d("Socket","Open Bong Da");
                 onGetLink("Bong Da");
             }
 
@@ -106,11 +100,9 @@ public class FragmentTheThao extends Fragment {
                                         JSONObject object = array.getJSONObject(i);
                                         title = object.getString("Title");
                                         link = object.getString("Link");
-                                        image = object.getString("Images");
-                                        if(!image.isEmpty()) {
-                                            newsList.add(new News("tg" + i + 1, title, link, image));
-                                            Log.d("image", image);
-                                        }
+                                        String image = object.getString("Images");
+                                        newsList.add(new News("tg"+i,title,link,"The Thao",image));
+                                        Log.d("image",image);
                                     }
                                     mAdapter.notifyDataSetChanged();
                                 }

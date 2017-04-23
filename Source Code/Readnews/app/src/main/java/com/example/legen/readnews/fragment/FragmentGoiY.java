@@ -33,11 +33,13 @@ import java.util.List;
 
 public class FragmentGoiY extends Fragment {
 
-    private List<News> newsList = new ArrayList<>();
+    private static List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
-    private NewsAdapter mAdapter;
-    public static String link, title;
-    public WebSocketClient client;
+    public static NewsAdapter mAdapter;
+    public static String link, title, image,type;
+    public static WebSocketClient client;
+    public int max;
+    public static String Type_max;
     Context context;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -50,6 +52,7 @@ public class FragmentGoiY extends Fragment {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
+        newsList.clear();
         connectWebSocket();
 
         return rootView;
@@ -57,7 +60,7 @@ public class FragmentGoiY extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.45.94.67:8887");
+            uri = new URI("ws://10.0.131.223:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -70,62 +73,81 @@ public class FragmentGoiY extends Fragment {
                 getActivity().runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
-                        Toast.makeText(getActivity(),"Goi Y",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getActivity(),"Websocket Opened",Toast.LENGTH_SHORT).show();
                     }
                 });
 
-                //onHistory("Goi Y");
-            }
-
-            public void onHistory(String type){
-                JSONObject obj = new JSONObject();
-                try {
-                    obj.put("Topic","HISTORY");
-                    obj.put("Type",type);
-                } catch (JSONException e) {
-                    e.printStackTrace();
-                }
-                client.send(obj.toString());
+                onGetSuggest("hungcao");
             }
 
             @Override
-            public void onMessage(final String message) {
+            public void onMessage(String message) {
                 Log.d("Recieve",message);
-//                getActivity().runOnUiThread(new Runnable(){
-//                    @Override
-//                    public void run() {
-//                        try {
-//                            JSONObject obj = new JSONObject(message);
-//                            String topic = obj.getString("Topic");
-//                            String rcode = obj.getString("Rcode");
-//                            if(topic.equals("RGETLINK")){
-//                                if(rcode.equals("200")){
-//                                    Log.d("connect","success");
-//                                    JSONArray array = obj.getJSONArray("RLinks");
-//                                    for(int i=0;i<array.length();i++){
-//                                        JSONObject object = array.getJSONObject(i);
-//                                        title = object.getString("Title");
-//                                        link = object.getString("Link");
-//                                        String image = object.getString("Images");
-//                                        newsList.add(new News("tg"+i+1,title,link,image));
-//                                        Log.d("image",image);
-//                                    }
-//                                    mAdapter.notifyDataSetChanged();
-//                                }
-//                                else{
-//                                    getActivity().runOnUiThread(new Runnable() {
-//                                        @Override
-//                                        public void run() {
-//                                            Toast.makeText(getActivity(),"Get Data Failed",Toast.LENGTH_SHORT).show();
-//                                        }
-//                                    });
-//                                }
-//                            }
-//                        } catch (JSONException e) {
-//                            e.printStackTrace();
-//                        }
-//                    }
-//                });
+                try {
+                    JSONObject obj = new JSONObject(message);
+                    String topic = obj.getString("Topic");
+                    String rcode = obj.getString("Rcode");
+                    if(topic.equals("RGETSUGGEST")){
+                        if(rcode.equals("200")){
+                            JSONArray array = obj.getJSONArray("Data");
+                            for(int i=0;i<array.length();i++){
+                                JSONObject data = array.getJSONObject(i);
+                                JSONArray arr = data.getJSONArray("History");
+                                for(int j=0;j<arr.length();j++){
+                                    JSONObject object = arr.getJSONObject(j);
+                                    Log.d("count",object.getInt("Count")+"");
+                                    if(j==0){
+                                        max = object.getInt("Count");
+                                    }
+                                    else{
+                                        if(max < object.getInt("Count")){
+                                            max = object.getInt("Count");
+                                        }
+                                    }
+                                }
+                                Log.d("max",max + "");
+                                for(int j=0;j<arr.length();j++){
+                                    JSONObject object = arr.getJSONObject(j);
+                                    if(object.getInt("Count")==max){
+                                        Type_max = object.getString("Type");
+                                    }
+                                }
+                                onGetLink(Type_max);
+                            }
+                        }
+                    }
+                    else if(topic.equals("RGETLINK")){
+                        if(rcode.equals("200")){
+                            Log.d("connect","success");
+                            JSONArray array = obj.getJSONArray("RLinks");
+                            for(int i=60;i<array.length();i++){
+                                JSONObject object = array.getJSONObject(i);
+                                title = object.getString("Title");
+                                link = object.getString("Link");
+                                image = object.getString("Images");
+                                type = object.getString("Type");
+                                if(!image.isEmpty()){
+                                    newsList.add(new News("gy"+i,title,link,type,image));
+                                    Log.d("image",image);
+                                }
+                            }
+                            mAdapter.notifyDataSetChanged();
+                        }
+                        else{
+                            getActivity().runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    Toast.makeText(getActivity(),"Get Data Failed",Toast.LENGTH_SHORT).show();
+                                }
+                            });
+                        }
+                    }
+
+
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+
             }
 
             @Override
@@ -136,9 +158,40 @@ public class FragmentGoiY extends Fragment {
             @Override
             public void onError(Exception ex) {
                 Log.i("Websocket", "Error" + ex.getMessage());
+                ex.printStackTrace();
             }
         };
         client.connect();
     }
+    public void onGetSuggest(String name){
+        JSONObject obj = new JSONObject();
+        try {
+            obj.put("Topic","GETSUGGEST");
+            obj.put("UserId",name);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        client.send(obj.toString());
 
+    }
+    public void onGetLink(String type){
+        JSONObject obj = new JSONObject();
+        try {
+            obj.put("Topic","GETLINK");
+            obj.put("Type",type);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        client.send(obj.toString());
+    }
+    public static void History(){
+        JSONObject obj = new JSONObject();
+        try {
+            obj.put("Topic","HISTORY");
+            obj.put("Type",Type_max);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        client.send(obj.toString());
+    }
 }

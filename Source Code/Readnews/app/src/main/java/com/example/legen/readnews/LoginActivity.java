@@ -36,21 +36,23 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 onLogin();
+                connectWebSocket();
+
             }
         });
         btn_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                onRegister();
+                //onRegister();
             }
         });
 
-        connectWebSocket();
+
     }
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://192.168.105:8887");
+            uri = new URI("ws://10.0.131.223:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -59,7 +61,7 @@ public class LoginActivity extends AppCompatActivity {
         client = new WebSocketClient(uri) {
             @Override
             public void onOpen(ServerHandshake handshakedata) {
-                Log.d("Socket","Open");
+                Log.d("Socket","Open login");
                 runOnUiThread(new Runnable() {
                     @Override
                     public void run() {
@@ -72,7 +74,7 @@ public class LoginActivity extends AppCompatActivity {
 
             @Override
             public void onMessage(String message) {
-                Log.d("Recieve",message);
+                Log.d("Recieve login",message);
                 try {
                     JSONObject obj = new JSONObject(message);
                     String topic = obj.getString("Topic");
