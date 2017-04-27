@@ -58,7 +58,7 @@ public class FragmentTheThao extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.0.131.223:8887");
+            uri = new URI("ws://10.0.133.81:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -85,9 +85,9 @@ public class FragmentTheThao extends Fragment {
             @Override
             public void onMessage(final String message) {
                 Log.d("Recieve",message);
-                getActivity().runOnUiThread(new Runnable(){
-                    @Override
-                    public void run() {
+//                getActivity().runOnUiThread(new Runnable(){
+//                    @Override
+//                    public void run() {
                         try {
                             JSONObject obj = new JSONObject(message);
                             String topic = obj.getString("Topic");
@@ -118,8 +118,8 @@ public class FragmentTheThao extends Fragment {
                         } catch (JSONException e) {
                             e.printStackTrace();
                         }
-                    }
-                });
+//                    }
+//                });
             }
 
             @Override

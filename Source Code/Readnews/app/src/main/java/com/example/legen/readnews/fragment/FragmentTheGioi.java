@@ -58,7 +58,7 @@ public class FragmentTheGioi extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.0.131.223:8887");
+            uri = new URI("ws://10.0.133.81:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -67,7 +67,7 @@ public class FragmentTheGioi extends Fragment {
         client = new WebSocketClient(uri) {
             @Override
             public void onOpen(ServerHandshake handshakedata) {
-                Log.d("Socket","Open THe Gioi");
+                Log.d("Socket","Open The Gioi");
 
                 onGetLink("The Gioi");
             }

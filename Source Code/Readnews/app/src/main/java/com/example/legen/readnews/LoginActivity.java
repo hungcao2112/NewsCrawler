@@ -19,8 +19,8 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 public class LoginActivity extends AppCompatActivity {
-    private EditText edt_user, edt_password;
-    private ImageButton btn_login, btn_register;
+    EditText edt_user, edt_password;
+    ImageButton btn_login, btn_register;
     private WebSocketClient client;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,23 +36,23 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 onLogin();
-                connectWebSocket();
+
 
             }
         });
-        btn_login.setOnClickListener(new View.OnClickListener() {
+        btn_register.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 //onRegister();
             }
         });
 
-
+        connectWebSocket();
     }
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.0.131.223:8887");
+            uri = new URI("ws://10.0.133.81:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -62,12 +62,6 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onOpen(ServerHandshake handshakedata) {
                 Log.d("Socket","Open login");
-                runOnUiThread(new Runnable() {
-                    @Override
-                    public void run() {
-                        Toast.makeText(LoginActivity.this,"Websocket Opened",Toast.LENGTH_SHORT).show();
-                    }
-                });
 
                 client.send("Hello from " + Build.MANUFACTURER + " " + Build.MODEL);
             }
@@ -81,6 +75,7 @@ public class LoginActivity extends AppCompatActivity {
                     String rcode = obj.getString("Rcode");
                     if(topic.equals("RLOGIN")){
                         if(rcode.equals("200")){
+                            Log.d("login" ," success");
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
@@ -92,9 +87,11 @@ public class LoginActivity extends AppCompatActivity {
                             startActivity(intent);
                         }
                         else{
+                            Log.d("login" ," failed");
                             runOnUiThread(new Runnable() {
                                 @Override
                                 public void run() {
+
                                     Toast.makeText(LoginActivity.this,"Login Failed",Toast.LENGTH_SHORT).show();
                                 }
                             });
@@ -139,7 +136,7 @@ public class LoginActivity extends AppCompatActivity {
                 JSONObject obj = new JSONObject();
                 try {
                     obj.put("Topic","LOGIN");
-                    obj.put("Id",id);
+                    obj.put("UserId",id);
                     obj.put("Pass",pass);
                 } catch (JSONException e) {
                     e.printStackTrace();
@@ -158,7 +155,7 @@ public class LoginActivity extends AppCompatActivity {
                 JSONObject obj = new JSONObject();
                 try {
                     obj.put("Topic","REGISTER");
-                    obj.put("Id",id);
+                    obj.put("UserId",id);
                     obj.put("Pass",pass);
                 } catch (JSONException e) {
                     e.printStackTrace();

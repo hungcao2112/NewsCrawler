@@ -117,9 +117,37 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Intent intent = new Intent(this, LoginActivity.class);
             startActivity(intent);
         } else if (id == R.id.nav_about) {
-
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            dialog.setTitle("Java Project Hercules grandson")
+                    .setMessage(
+                    "Dương Xuân Tới - 14520982"+"\n"+
+                    "Nguyễn Cao Minh - 14520528"+"\n"+
+                    "Cao Thăng Hưng - 14520332"+"\n"+
+                    "Phùng Nguyễn Mạnh Khương - 14520435");
+            dialog.setNegativeButton("OK", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                    dialogInterface.dismiss();
+                }
+            });
+            dialog.show();
         } else if (id == R.id.nav_exit) {
-
+            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            dialog.setTitle("Thoát ứng dụng")
+                    .setMessage("Bạn có muốn thoát ứng dụng?")
+                    .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialogInterface, int i) {
+                            finish();
+                        }
+                    });
+            dialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                @Override
+                public void onClick(DialogInterface dialogInterface, int i) {
+                    dialogInterface.dismiss();
+                }
+            });
+            dialog.show();
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

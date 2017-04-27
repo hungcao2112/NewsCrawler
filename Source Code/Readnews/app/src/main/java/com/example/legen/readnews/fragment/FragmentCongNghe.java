@@ -57,7 +57,7 @@ public class FragmentCongNghe extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.0.131.223:8887");
+            uri = new URI("ws://10.0.133.81:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
