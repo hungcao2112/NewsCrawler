@@ -1,23 +1,30 @@
 package com.example.legen.readnews.fragment;
 
 import android.content.Context;
-import android.content.Intent;
 import android.os.Bundle;
-import android.os.Parcelable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
+import com.example.legen.readnews.LoginActivity;
 import com.example.legen.readnews.R;
-import com.example.legen.readnews.SearchActivity;
 import com.example.legen.readnews.adapter.NewsAdapter;
-import com.example.legen.readnews.adapter.NewsAdapter2;
 import com.example.legen.readnews.library.News;
 
+import org.java_websocket.client.WebSocketClient;
+import org.java_websocket.handshake.ServerHandshake;
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,69 +33,120 @@ import java.util.List;
  */
 
 public class FragmentGiaiTri extends Fragment {
-    private List<News> newsList0 = new ArrayList<>();
-    private List<News> newsList1 = new ArrayList<>();
-    private List<News> newsList2 = new ArrayList<>();
-    private RecyclerView recycler0, recycler1, recycler2;
-    private NewsAdapter mAdapter0;
-    private NewsAdapter2 mAdapter1, mAdapter2;
-    public static String link, title;
+    private List<News> newsList = new ArrayList<>();
+    private RecyclerView recyclerView;
+    private NewsAdapter mAdapter;
+    public static String link, title, image,type;
+    public static WebSocketClient client;
     Context context;
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        View rootView = inflater.inflate(R.layout.list_item2, container, false);
-        recycler0 = (RecyclerView) rootView.findViewById(R.id.recyclerView0);
-        recycler1 = (RecyclerView) rootView.findViewById(R.id.recyclerView1);
-        recycler2 = (RecyclerView) rootView.findViewById(R.id.recyclerView2);
-        mAdapter0 = new NewsAdapter(newsList0);
-        mAdapter1 = new NewsAdapter2(newsList1);
-        mAdapter2 = new NewsAdapter2(newsList2);
-        RecyclerView.LayoutManager mLayoutManager0 = new LinearLayoutManager(getActivity());
-        recycler0.setLayoutManager(mLayoutManager0);
-        recycler0.setItemAnimator(new DefaultItemAnimator());
-        recycler0.setAdapter(mAdapter0);
+        View rootView = inflater.inflate(R.layout.list_item, container, false);
+        recyclerView = (RecyclerView)rootView.findViewById(R.id.recyclerView);
+        mAdapter = new NewsAdapter(newsList);
+        RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(getActivity());
+        recyclerView.setLayoutManager(mLayoutManager);
+        recyclerView.setItemAnimator(new DefaultItemAnimator());
+        recyclerView.setAdapter(mAdapter);
+        connectWebSocket();
 
-        RecyclerView.LayoutManager mLayoutManager1 = new LinearLayoutManager(getActivity());
-        recycler1.setLayoutManager(mLayoutManager1);
-        recycler1.setItemAnimator(new DefaultItemAnimator());
-        recycler1.setAdapter(mAdapter1);
-
-        RecyclerView.LayoutManager mLayoutManager2 = new LinearLayoutManager(getActivity());
-        recycler2.setLayoutManager(mLayoutManager2);
-        recycler2.setItemAnimator(new DefaultItemAnimator());
-        recycler2.setAdapter(mAdapter2);
-        setdata();
-
-        Intent intent = new Intent(getActivity(), SearchActivity.class);
-        intent.putParcelableArrayListExtra("GiaiTri", (ArrayList<? extends Parcelable>) newsList1);
         return rootView;
     }
+    private void connectWebSocket(){
+        URI uri;
+        try{
+            uri = new URI("ws://10.45.210.147:8887");
+        }catch(URISyntaxException e){
+            e.printStackTrace();
+            return;
+        }
 
-    private void setdata(){
-        newsList0.clear();
-        newsList0.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList0.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList0.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList0.add(new News("gy2", "title4", "link","type","imgae"));
-        newsList0.add(new News("gy2", "title5", "link","type","imgae"));
-        newsList0.add(new News("gy2", "title6", "link","type","imgae"));
-        newsList1.clear();
-        newsList1.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList1.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList1.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList1.add(new News("gy2", "title4", "link","type","imgae"));
-        newsList1.add(new News("gy2", "title5", "link","type","imgae"));
-        newsList1.add(new News("gy2", "title6", "link","type","imgae"));
-        newsList2.clear();
-        newsList2.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList2.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList2.add(new News("gy2", "Tỷ lệ ủng hộ Trump xuống mức thấp kỷ lục", "http://vnexpress.net/tin-tuc/the-gioi/ty-le-ung-ho-trump-xuong-muc-thap-ky-luc-3574623.html","type","http://img.f29.vnecdn.net/2017/04/23/170301141317-donald-trump-0228-6070-3918-1492956220.jpg"));
-        newsList2.add(new News("gy2", "title4", "link","type","imgae"));
-        newsList2.add(new News("gy2", "title5", "link","type","imgae"));
-        newsList2.add(new News("gy2", "title6", "link","type","imgae"));
+        client = new WebSocketClient(uri) {
+            @Override
+            public void onOpen(ServerHandshake handshakedata) {
+                Log.d("Socket","Open");
 
+                onGetLink("Giai Tri");
+            }
+
+            public void onGetLink(String type){
+                JSONObject obj = new JSONObject();
+                try {
+                    obj.put("Topic","GETLINK");
+                    obj.put("Type",type);
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+                client.send(obj.toString());
+            }
+
+            @Override
+            public void onMessage(final String message) {
+                Log.d("Recieve",message);
+                getActivity().runOnUiThread(new Runnable(){
+                    @Override
+                    public void run() {
+                        try {
+                            JSONObject obj = new JSONObject(message);
+                            String topic = obj.getString("Topic");
+                            String rcode = obj.getString("Rcode");
+                            if(topic.equals("RGETLINK")){
+                                if(rcode.equals("200")){
+                                    Log.d("connect","success");
+                                    JSONArray array = obj.getJSONArray("RLinks");
+                                    for(int i=50;i<array.length();i++){
+                                        JSONObject object = array.getJSONObject(i);
+                                        title = object.getString("Title");
+                                        link = object.getString("Link");
+                                        image = object.getString("Images");
+                                        type = object.getString("Type");
+                                        if(!image.isEmpty()) {
+                                            newsList.add(new News("tg" + i + 1, title, link, type, image));
+                                            Log.d("image", image);
+                                        }
+                                    }
+                                    mAdapter.notifyDataSetChanged();
+                                }
+                                else{
+                                    getActivity().runOnUiThread(new Runnable() {
+                                        @Override
+                                        public void run() {
+                                            Toast.makeText(getActivity(),"Get Data Failed",Toast.LENGTH_SHORT).show();
+                                        }
+                                    });
+                                }
+                            }
+                        } catch (JSONException e) {
+                            e.printStackTrace();
+                        }
+                    }
+                });
+            }
+
+            @Override
+            public void onClose(int code, String reason, boolean remote) {
+                Log.i("Websocket","Closed" + reason);
+            }
+
+            @Override
+            public void onError(Exception ex) {
+                Log.i("Websocket", "Error" + ex.getMessage());
+            }
+        };
+        client.connect();
     }
+    public static void History(){
+        JSONObject obj = new JSONObject();
+        try {
+            obj.put("Topic","HISTORY");
+            obj.put("UserId", LoginActivity.userid);
+            obj.put("Type",type);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        client.send(obj.toString());
+    }
+
 }

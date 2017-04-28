@@ -9,7 +9,7 @@
 
     <!-- Strings related to search -->
     <string name="search_btn">Tìm Kiếm </string>
-    <string name="search_et">Nhập từ khóa . . . </string>
+    <string name="search_et">Tìm Kiếm . . . </string>
     <string name="suggest_btn">Xu hướng </string>
 
     <!-- Strings related to login -->

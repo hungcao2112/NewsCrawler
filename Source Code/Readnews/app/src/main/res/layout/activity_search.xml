@@ -16,16 +16,16 @@
             android:id="@+id/search_back"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/ic_arrow_back_black_24dp"/>
+            android:background="@drawable/ic_arrow_back_black_24dp"
+            />
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="40dp">
-        <EditText
-            android:id="@+id/search_et"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:hint="@string/search_et"/>
-
+            <EditText
+                android:id="@+id/search_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/search_et"/>
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
@@ -33,15 +33,14 @@
                 <Spinner
                     android:id="@+id/spinner"
                     android:layout_width="wrap_content"
-                    android:layout_height="match_parent">
-
-                </Spinner>
+                    android:layout_height="match_parent"></Spinner>
                 <ImageButton
                     android:id="@+id/search_s"
+                    android:background="@drawable/ic_search_black_24dp"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:background="@drawable/ic_search_black_24dp"
                     android:layout_gravity="end"/>
+
             </LinearLayout>
 
         </FrameLayout>
@@ -52,4 +51,6 @@
         android:layout_height="wrap_content">
 
     </android.support.v7.widget.RecyclerView>
+
+
 </LinearLayout>

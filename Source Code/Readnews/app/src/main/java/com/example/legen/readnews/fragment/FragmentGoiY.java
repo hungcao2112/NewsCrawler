@@ -12,6 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.example.legen.readnews.LoginActivity;
 import com.example.legen.readnews.R;
 import com.example.legen.readnews.adapter.NewsAdapter;
 import com.example.legen.readnews.library.News;
@@ -33,14 +34,18 @@ import java.util.List;
 
 public class FragmentGoiY extends Fragment {
 
-    private static List<News> newsList = new ArrayList<>();
+    private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
-    public static NewsAdapter mAdapter;
+    private NewsAdapter mAdapter;
     public static String link, title, image,type;
     public static WebSocketClient client;
     public int max;
     public static String Type_max;
+    public List<String> most = new ArrayList<>();
     Context context;
+    int max1 = Integer.MIN_VALUE;
+    int max2 = Integer.MIN_VALUE;
+    int max3 = Integer.MIN_VALUE;  //assuming integer elements in the array
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -52,7 +57,8 @@ public class FragmentGoiY extends Fragment {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
-        newsList.clear();
+
+
         connectWebSocket();
 
         return rootView;
@@ -60,7 +66,7 @@ public class FragmentGoiY extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.0.133.81:8887");
+            uri = new URI("ws://10.45.210.147:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -69,9 +75,9 @@ public class FragmentGoiY extends Fragment {
         client = new WebSocketClient(uri) {
             @Override
             public void onOpen(ServerHandshake handshakedata) {
-                Log.d("Socket","Open goi y");
+                Log.d("Socket","Open");
 
-                onGetSuggest("hungcao");
+                onGetSuggest(LoginActivity.userid);
             }
 
             @Override
@@ -90,42 +96,66 @@ public class FragmentGoiY extends Fragment {
                                 for(int j=0;j<arr.length();j++){
                                     JSONObject object = arr.getJSONObject(j);
                                     Log.d("count",object.getInt("Count")+"");
-                                    if(j==0){
-                                        max = object.getInt("Count");
+                                    if (object.getInt("Count") > max1)
+                                    {
+                                        max3 = max2; max2 = max1; max1 = object.getInt("Count");
                                     }
-                                    else{
-                                        if(max < object.getInt("Count")){
-                                            max = object.getInt("Count");
+                                    else if (object.getInt("Count") > max2)
+                                    {
+                                        max3 = max2; max2 = object.getInt("Count");
+                                    }
+                                    else if (object.getInt("Count") > max3)
+                                    {
+                                        max3 = object.getInt("Count");
+                                    }
+                                }
+                                Log.d("max",max1 + ", " + max2 + ", " + max3 + ", ");
+                                most.clear();
+                                for(int j=0;j<arr.length();j++){
+                                    JSONObject object = arr.getJSONObject(j);
+                                    if(object.getInt("Count")!=0){
+                                        if(object.getInt("Count")==max3){
+                                            most.add(object.getString("Type"));
+                                        }
+                                        else if(object.getInt("Count")==max2){
+                                            most.add(object.getString("Type"));
+                                        }
+                                        else if(object.getInt("Count")==max1){
+                                            most.add(object.getString("Type"));
                                         }
                                     }
                                 }
-                                Log.d("max",max + "");
-                                for(int j=0;j<arr.length();j++){
-                                    JSONObject object = arr.getJSONObject(j);
-                                    if(object.getInt("Count")==max){
-                                        Type_max = object.getString("Type");
-                                    }
-                                }
-                                onGetLink(Type_max);
+
                             }
+                            Log.d("most",most.toString());
+                            for(int i=0;i<most.size();i++){
+                                onGetLink(most.get(i));
+                            }
+
                         }
                     }
                     else if(topic.equals("RGETLINK")){
                         if(rcode.equals("200")){
                             Log.d("connect","success");
                             JSONArray array = obj.getJSONArray("RLinks");
-                            for(int i=60;i<array.length();i++){
+                            for(int i=0;i<10;i++){
                                 JSONObject object = array.getJSONObject(i);
                                 title = object.getString("Title");
                                 link = object.getString("Link");
                                 image = object.getString("Images");
                                 type = object.getString("Type");
                                 if(!image.isEmpty()){
-                                    newsList.add(new News("gy"+i,title,link,type,image));
+                                    newsList.add(new News("tg" + i + 1,title,link,type,image));
                                     Log.d("image",image);
                                 }
                             }
-                            mAdapter.notifyDataSetChanged();
+                            getActivity().runOnUiThread(new Runnable() {
+                                @Override
+                                public void run() {
+                                    mAdapter.notifyDataSetChanged();
+                                }
+                            });
+
                         }
                         else{
                             getActivity().runOnUiThread(new Runnable() {
@@ -182,10 +212,12 @@ public class FragmentGoiY extends Fragment {
         JSONObject obj = new JSONObject();
         try {
             obj.put("Topic","HISTORY");
-            obj.put("Type",Type_max);
+            obj.put("UserId",LoginActivity.userid);
+            obj.put("Type",type);
         } catch (JSONException e) {
             e.printStackTrace();
         }
         client.send(obj.toString());
     }
+
 }

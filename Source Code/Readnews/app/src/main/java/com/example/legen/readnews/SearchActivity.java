@@ -1,5 +1,6 @@
 package com.example.legen.readnews;
 
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -37,7 +38,7 @@ public class SearchActivity extends AppCompatActivity {
     ImageButton btn_back, btn_search;
     EditText edt;
     RecyclerView recyclerView;
-    String listtype[] ={"Thể loại","Thế Giới","Thể Thao ","Công Nghệ","Giải Trí", "Giáo Dục", "Sức Khỏe", "Du Lịch" } ;
+    String listtype[] ={"Thể loại","Thế Giới","Thể Thao ","Công Nghệ","Giải Trí", "Giáo Dục", "Sức Khỏe", "Du Lịch" } ;
     Spinner spinner;
     public static NewsAdapter mAdapter;
     public static String link, title, image,type;
@@ -81,8 +82,8 @@ public class SearchActivity extends AppCompatActivity {
                 if(position>0) {
                     test();
                     connectWebSocket(removeAccent(spinner.getItemAtPosition(position).toString()));
-                    Intent i = new Intent(SearchActivity.this, ProgressActivity.class);
-                    startActivityForResult(i, 1);
+                    //Intent i = new Intent(SearchActivity.this, ProgressActivity.class);
+                    //startActivityForResult(i, 1);
                 }
             }
             @Override
@@ -115,7 +116,7 @@ public class SearchActivity extends AppCompatActivity {
         }
         //if(filterList == null){
 //        newsList.clear();
-//            newsList.add(new News("id","Không có tin nào được tìm thấy với từ khóa : "+key,"","type", "image"));
+//            newsList.add(new News("id","Không có tin nào được tìm thấy với từ khóa : "+key,"","type", "image"));
         mAdapter.notifyDataSetChanged();
         //}
     }

@@ -12,6 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.example.legen.readnews.LoginActivity;
 import com.example.legen.readnews.R;
 import com.example.legen.readnews.adapter.NewsAdapter;
 import com.example.legen.readnews.library.News;
@@ -36,8 +37,8 @@ public class FragmentTheThao extends Fragment {
     private List<News> newsList = new ArrayList<>();
     private RecyclerView recyclerView;
     private NewsAdapter mAdapter;
-    public static String link, title;
-    public WebSocketClient client;
+    public static String link, title, image,type;
+    public static WebSocketClient client;
     Context context;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -50,7 +51,6 @@ public class FragmentTheThao extends Fragment {
         recyclerView.setLayoutManager(mLayoutManager);
         recyclerView.setItemAnimator(new DefaultItemAnimator());
         recyclerView.setAdapter(mAdapter);
-        newsList.clear();
         connectWebSocket();
 
         return rootView;
@@ -58,7 +58,7 @@ public class FragmentTheThao extends Fragment {
     private void connectWebSocket(){
         URI uri;
         try{
-            uri = new URI("ws://10.0.133.81:8887");
+            uri = new URI("ws://10.45.210.147:8887");
         }catch(URISyntaxException e){
             e.printStackTrace();
             return;
@@ -67,7 +67,7 @@ public class FragmentTheThao extends Fragment {
         client = new WebSocketClient(uri) {
             @Override
             public void onOpen(ServerHandshake handshakedata) {
-                Log.d("Socket","Open Bong Da");
+                Log.d("Socket","Open");
                 onGetLink("Bong Da");
             }
 
@@ -85,9 +85,9 @@ public class FragmentTheThao extends Fragment {
             @Override
             public void onMessage(final String message) {
                 Log.d("Recieve",message);
-//                getActivity().runOnUiThread(new Runnable(){
-//                    @Override
-//                    public void run() {
+                getActivity().runOnUiThread(new Runnable(){
+                    @Override
+                    public void run() {
                         try {
                             JSONObject obj = new JSONObject(message);
                             String topic = obj.getString("Topic");
@@ -96,13 +96,16 @@ public class FragmentTheThao extends Fragment {
                                 if(rcode.equals("200")){
                                     Log.d("connect","success");
                                     JSONArray array = obj.getJSONArray("RLinks");
-                                    for(int i=0;i<array.length();i++){
+                                    for(int i=50;i<array.length();i++){
                                         JSONObject object = array.getJSONObject(i);
                                         title = object.getString("Title");
                                         link = object.getString("Link");
-                                        String image = object.getString("Images");
-                                        newsList.add(new News("tg"+i,title,link,"The Thao",image));
-                                        Log.d("image",image);
+                                        image = object.getString("Images");
+                                        type = object.getString("Type");
+                                        if(!image.isEmpty()) {
+                                            newsList.add(new News("tg" + i + 1, title, link, type, image));
+                                            Log.d("image", image);
+                                        }
                                     }
                                     mAdapter.notifyDataSetChanged();
                                 }
@@ -118,8 +121,8 @@ public class FragmentTheThao extends Fragment {
                         } catch (JSONException e) {
                             e.printStackTrace();
                         }
-//                    }
-//                });
+                    }
+                });
             }
 
             @Override
@@ -133,6 +136,17 @@ public class FragmentTheThao extends Fragment {
             }
         };
         client.connect();
+    }
+    public static void History(){
+        JSONObject obj = new JSONObject();
+        try {
+            obj.put("Topic","HISTORY");
+            obj.put("UserId", LoginActivity.userid);
+            obj.put("Type",type);
+        } catch (JSONException e) {
+            e.printStackTrace();
+        }
+        client.send(obj.toString());
     }
 
 }

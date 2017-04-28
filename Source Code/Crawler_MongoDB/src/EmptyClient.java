@@ -37,9 +37,14 @@ public class EmptyClient extends WebSocketClient {
         System.err.println("an error occurred:" + ex);
     }
 
-    public static void main(String[] args) throws URISyntaxException {     
+    public static void main(String[] args) throws URISyntaxException {      
+        while(true){
         	WebSocketClient client = new EmptyClient(new URI("ws://13.58.81.196:8887"), new Draft_10());
         	client.connect();
+        	//client.send("hung");
+        	System.out.println("Connections: "+i);
+        	i++;
+        }
     }
  
 }
